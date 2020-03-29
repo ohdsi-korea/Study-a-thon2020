@@ -1,0 +1,10 @@
+min_value,max_value,average_value,standard_deviation,median_value,p_10_value,p_25_value,p_75_value,p_90_value,time_metric,cohort_id,database_id
+0,3134,831.2388059701492,994.1147438428953,346,0,3,1497,2495,observation time (days) prior to index,14864,MDCD
+2,1472,250.97014925373134,388.6809851103357,67,8,17,304,845,observation time (days) after index,14864,MDCD
+7,66,10.597014925373134,10.382181270042258,7,7,7,7,22,time (days) between cohort start and end,14864,MDCD
+0,3119,1128.6153846153845,1062.908630320714,672,19,249,1599,2916,observation time (days) prior to index,14865,MDCD
+4,1472,259,418.3206505381568,81,55,67,119,762,observation time (days) after index,14865,MDCD
+7,12,7.384615384615385,1.3867504905630728,7,7,7,7,7,time (days) between cohort start and end,14865,MDCD
+0,3210,777.6756756756756,1001.7863504220308,144,1,23,1363,2824,observation time (days) prior to index,14871,MDCD
+0,3305,509.5945945945946,767.2873016695268,26,0,11,846,1583,observation time (days) after index,14871,MDCD
+0,39,7.108108108108108,9.109774310485852,5,0,1,8,16,time (days) between cohort start and end,14871,MDCD

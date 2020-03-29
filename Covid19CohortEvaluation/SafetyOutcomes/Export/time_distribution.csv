@@ -1,0 +1,55 @@
+min_value,max_value,average_value,standard_deviation,median_value,p_10_value,p_25_value,p_75_value,p_90_value,time_metric,cohort_id,database_id
+0,3218,1011.0285714285715,1244.4803896952874,199,2,10,2317,3148,observation time (days) prior to index,7361,MDCD
+0,0,0,0,0,0,0,0,0,observation time (days) after index,7361,MDCD
+0,0,0,0,0,0,0,0,0,time (days) between cohort start and end,7361,MDCD
+0,2824,1039.6,1409.1175607450216,53,0,4,2317,2824,observation time (days) prior to index,7362,MDCD
+0,0,0,0,0,0,0,0,0,observation time (days) after index,7362,MDCD
+0,0,0,0,0,0,0,0,0,time (days) between cohort start and end,7362,MDCD
+17,1099,483,556.3775696413363,333,17,17,1099,1099,observation time (days) prior to index,7364,MDCD
+13,407,170.33333333333334,208.6368455794262,91,13,13,407,407,observation time (days) after index,7364,MDCD
+7,12,8.666666666666666,2.8867513459481287,7,7,7,12,12,time (days) between cohort start and end,7364,MDCD
+0,3286,951.7241379310345,1190.7939697215145,228,0,1,2005,2824,observation time (days) prior to index,7367,MDCD
+0,2920,222.41379310344828,551.412116896336,26,0,13,197,470,observation time (days) after index,7367,MDCD
+7,191,19.24137931034483,39.12129048814888,7,7,7,7,85,time (days) between cohort start and end,7367,MDCD
+0,633,165,312.2317515350844,1,0,0,26,633,observation time (days) prior to index,7369,MDCD
+197,2205,799.25,945.0094796702659,304,197,197,491,2205,observation time (days) after index,7369,MDCD
+1,1,1,0,1,1,1,1,1,time (days) between cohort start and end,7369,MDCD
+1,1,1,0,1,1,1,1,1,observation time (days) prior to index,7370,MDCD
+36,36,36,0,36,36,36,36,36,observation time (days) after index,7370,MDCD
+29,29,29,0,29,29,29,29,29,time (days) between cohort start and end,7370,MDCD
+0,1495,586.4285714285714,728.2284113158584,48,0,0,1468,1495,observation time (days) prior to index,7374,MDCD
+13,3329,1089.4285714285713,1405.0987933407455,427,13,13,2815,3329,observation time (days) after index,7374,MDCD
+13,3329,1089.4285714285713,1405.0987933407455,427,13,13,2815,3329,time (days) between cohort start and end,7374,MDCD
+0,444,145.57142857142858,186.1261732829437,45,0,0,357,444,observation time (days) prior to index,7376,MDCD
+5,733,254.42857142857142,295.7391063887545,52,5,30,542,733,observation time (days) after index,7376,MDCD
+7,39,14.714285714285714,12.243560017607702,7,7,7,23,39,time (days) between cohort start and end,7376,MDCD
+764,764,764,0,764,764,764,764,764,observation time (days) prior to index,7377,MDCD
+440,440,440,0,440,440,440,440,440,observation time (days) after index,7377,MDCD
+7,7,7,0,7,7,7,7,7,time (days) between cohort start and end,7377,MDCD
+7,1573,790,1107.3292193381335,7,7,7,1573,1573,observation time (days) prior to index,7381,MDCD
+7,306,156.5,211.4249275747777,7,7,7,306,306,observation time (days) after index,7381,MDCD
+7,306,156.5,211.4249275747777,7,7,7,306,306,time (days) between cohort start and end,7381,MDCD
+1,3276,1019.6363636363636,1159.1907757334227,804,1,146,1126,3147,observation time (days) prior to index,7382,MDCD
+1,400,121.0909090909091,138.4878727870816,57,7,15,259,286,observation time (days) after index,7382,MDCD
+30,66,34.09090909090909,10.737360434059624,30,30,30,34,35,time (days) between cohort start and end,7382,MDCD
+0,3328,876.3846153846154,1167.7820529006785,289,1,1,1621,2653,observation time (days) prior to index,7396,MDCD
+0,3238,497.0769230769231,951.7852052449003,8,1,2,461,1633,observation time (days) after index,7396,MDCD
+0,3238,497.0769230769231,951.7852052449003,8,1,2,461,1633,time (days) between cohort start and end,7396,MDCD
+0,841,227.3,281.5583815520721,105,0,6,431,504,observation time (days) prior to index,7398,MDCD
+7,2124,608.8,861.4459162748796,66,7,25,1666,1719,observation time (days) after index,7398,MDCD
+1,1644,331.6,688.8694764289934,1,1,1,32,1633,time (days) between cohort start and end,7398,MDCD
+1,2808,764.3571428571429,929.4372662359369,262,1,20,1000,2317,observation time (days) prior to index,7399,MDCD
+0,922,203.92857142857142,249.4940925108292,87,0,19,351,356,observation time (days) after index,7399,MDCD
+0,922,203.92857142857142,249.4940925108292,87,0,19,351,356,time (days) between cohort start and end,7399,MDCD
+2,1813,976.4285714285714,733.7288002940544,1261,2,45,1631,1813,observation time (days) prior to index,7400,MDCD
+66,2137,595.4285714285714,704.9373156867347,352,66,222,618,2137,observation time (days) after index,7400,MDCD
+7,23,9.571428571428571,5.968169536721256,7,7,7,9,23,time (days) between cohort start and end,7400,MDCD
+0,3286,1201.2666666666667,1339.2250673252727,282,0,1,2568,3134,observation time (days) prior to index,7464,MDCD
+9,2920,298.2,740.2062646895893,26,11,13,255,470,observation time (days) after index,7464,MDCD
+7,85,12.4,20.099040488825047,7,7,7,7,10,time (days) between cohort start and end,7464,MDCD
+388,3134,1465.7142857142858,1058.930232874309,1367,388,461,2495,3134,observation time (days) prior to index,14717,MDCD
+8,772,241,280.3521594946851,185,8,12,407,772,observation time (days) after index,14717,MDCD
+4,16,8.285714285714286,4.15187851918806,7,4,5,11,16,time (days) between cohort start and end,14717,MDCD
+0,144,44.333333333333336,57.76734948625103,1,0,0,75,144,observation time (days) prior to index,14867,MDCD
+3,131,44.666666666666664,55.63691819886025,14,3,5,99,131,observation time (days) after index,14867,MDCD
+1,18,3.8333333333333335,6.940220937885671,1,1,1,1,18,time (days) between cohort start and end,14867,MDCD

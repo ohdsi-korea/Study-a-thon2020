@@ -1,0 +1,13 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+255848,Pneumonia,72,14864,MDCD
+4266367,Influenza,7,14864,MDCD
+437663,Fever,6,14864,MDCD
+36714388,Influenza caused by seasonal influenza virus,6,14864,MDCD
+4133224,Lobar pneumonia,5,14864,MDCD
+256722,Bronchopneumonia,-5,14864,MDCD
+261324,Pneumonia due to Streptococcus,-5,14864,MDCD
+4266367,Influenza,9,14865,MDCD
+36714388,Influenza caused by seasonal influenza virus,6,14865,MDCD
+9201,Inpatient Visit,25,14871,MDCD
+9203,Emergency Room Visit,7,14871,MDCD
+262,Emergency Room and Inpatient Visit,5,14871,MDCD

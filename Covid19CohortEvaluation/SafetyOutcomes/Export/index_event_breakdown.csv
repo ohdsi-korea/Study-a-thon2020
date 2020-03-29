@@ -1,0 +1,36 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+4270024,Acute non-ST segment elevation myocardial infarction,5,7364,MDCD
+443454,Cerebral infarction,22,7367,MDCD
+321042,Cardiac arrest,8,7367,MDCD
+316139,Heart failure,6,7367,MDCD
+4270024,Acute non-ST segment elevation myocardial infarction,5,7367,MDCD
+316139,Heart failure,-5,7369,MDCD
+443580,Systolic heart failure,-5,7369,MDCD
+373503,Transient cerebral ischemia,-5,7370,MDCD
+443611,Chronic kidney disease stage 5,8,7374,MDCD
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,7374,MDCD
+4231580,Acute gastric ulcer with hemorrhage,5,7376,MDCD
+26727,Hematemesis,-5,7376,MDCD
+192671,Gastrointestinal hemorrhage,-5,7376,MDCD
+4232181,Chronic duodenal ulcer with hemorrhage,-5,7376,MDCD
+432791,Angioedema,-5,7377,MDCD
+4245975,Hepatic failure,-5,7381,MDCD
+197320,Acute renal failure syndrome,14,7382,MDCD
+77670,Chest pain,13,7396,MDCD
+321318,Angina pectoris,-5,7396,MDCD
+440417,Pulmonary embolism,9,7398,MDCD
+77310,Deep vein phlebitis and thrombophlebitis of the leg,5,7398,MDCD
+320741,Thrombophlebitis,-5,7398,MDCD
+4068155,Atrial arrhythmia,6,7399,MDCD
+321042,Cardiac arrest,5,7399,MDCD
+4275423,Supraventricular tachycardia,5,7399,MDCD
+315078,Palpitations,-5,7399,MDCD
+4089462,Ventricular premature complex,-5,7399,MDCD
+4141360,Chronic atrial fibrillation,-5,7399,MDCD
+4154290,Paroxysmal atrial fibrillation,-5,7399,MDCD
+199074,Acute pancreatitis,7,7400,MDCD
+44806251,Biliary acute pancreatitis,-5,7400,MDCD
+443454,Cerebral infarction,22,7464,MDCD
+262,Emergency Room and Inpatient Visit,7,14717,MDCD
+319049,Acute respiratory failure,5,14867,MDCD
+4256228,Respiratory failure,-5,14867,MDCD

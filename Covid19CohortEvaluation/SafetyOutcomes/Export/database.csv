@@ -1,0 +1,7 @@
+database_id,database_name,description,is_meta_analysis
+MDCD,Truven Health MarketScan<c2><ae> Multi-State Medicaid Database,"Truven Health MarketScan<c2><ae> Multi-State Medicaid Database (MDCD) 
+adjudicated US health insurance claims for Medicaid enrollees from multiple states and 
+includes hospital discharge diagnoses, outpatient diagnoses and procedures, and outpatient 
+pharmacy claims as well as ethnicity and Medicare eligibility. Members maintain their same 
+identifier even if they leave the system for a brief period however the dataset lacks lab 
+data. [For further information link to RWE site for Truven MDCD.",0
