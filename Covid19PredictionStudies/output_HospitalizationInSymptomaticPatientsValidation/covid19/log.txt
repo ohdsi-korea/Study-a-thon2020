@@ -1,0 +1,12 @@
+2020-03-29 08:25:47	[Main thread]	INFO	HospitalizationInSymptomaticPatientsValidation	execute	Creating Cohorts
+2020-03-29 08:30:01	[Main thread]	INFO	HospitalizationInSymptomaticPatientsValidation	createCohorts	Counting cohorts
+2020-03-29 08:30:01	[Main thread]	INFO	HospitalizationInSymptomaticPatientsValidation	execute	Validating Models
+2020-03-29 08:30:02	[Main thread]	INFO	PatientLevelPrediction	evaluateMultiplePlp	Evaluating model in /usr/local/lib/R/site-library/HospitalizationInSymptomaticPatientsValidation/plp_models/Analysis_2
+2020-03-29 08:30:02	[Main thread]	INFO	PatientLevelPrediction	evaluateMultiplePlp	plpResult found in /usr/local/lib/R/site-library/HospitalizationInSymptomaticPatientsValidation/plp_models/Analysis_2
+2020-03-29 08:30:02	[Main thread]	TRACE	PatientLevelPrediction	similarPlpData	Loading model data extraction settings
+2020-03-29 08:30:02	[Main thread]	TRACE	PatientLevelPrediction	similarPlpData	Adding new settings if set...
+2020-03-29 08:30:34	[Main thread]	INFO	PatientLevelPrediction	3	Error: Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : No Outcomes 
+2020-03-29 08:30:34	[Main thread]	INFO	HospitalizationInSymptomaticPatientsValidation	execute	Packaging results
+2020-03-29 08:30:34	[Main thread]	INFO	HospitalizationInSymptomaticPatientsValidation	execute	Packaging results
+2020-03-29 08:30:34	[Main thread]	FATAL	HospitalizationInSymptomaticPatientsValidation	packageResults	Error in packageResults(outputFolder = file.path(outputFolder, databaseName),  :    No results to export... Calls: <Anonymous> -> packageResults 
+2020-03-29 08:30:34	[Main thread]	FATAL	HospitalizationInSymptomaticPatientsValidation	packageResults	Error in packageResults(outputFolder = file.path(outputFolder, databaseName),  :    No results to export... Calls: <Anonymous> -> packageResults 

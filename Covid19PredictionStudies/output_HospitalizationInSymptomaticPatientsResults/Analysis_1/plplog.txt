@@ -1,0 +1,11 @@
+2020-03-29 07:30:20	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 07:30:21	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 07:36:31	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 07:36:32	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 07:36:32	[Main thread]	WARN	PatientLevelPrediction		'output_HospitalizationInSymptomaticPatientsResults/Analysis_3' already exists
+2020-03-29 07:41:42	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 07:41:43	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 07:41:43	[Main thread]	WARN	PatientLevelPrediction		'output_HospitalizationInSymptomaticPatientsResults/Analysis_3' already exists
+2020-03-29 08:23:06	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:23:07	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:23:07	[Main thread]	WARN	PatientLevelPrediction		'./output_HospitalizationInSymptomaticPatientsResults/Analysis_3' already exists

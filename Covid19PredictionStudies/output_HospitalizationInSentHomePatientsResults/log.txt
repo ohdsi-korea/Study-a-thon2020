@@ -1,0 +1,93 @@
+2020-03-29 08:00:10	[Main thread]	INFO	HospitalizationInSentHomePatients	execute	Creating cohorts
+2020-03-29 08:08:24	[Main thread]	INFO	HospitalizationInSentHomePatients	createCohorts	Counting cohorts
+2020-03-29 08:08:24	[Main thread]	INFO	HospitalizationInSentHomePatients	execute	Running predictions
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Creating reference table
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Writing settings csv to /output_HospitalizationInSentHomePatientsResults/settings.csv
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Running setting 1
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : Target population is empty 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 1
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 1
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Running setting 2
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : Target population is empty 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 2
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 2
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:26	[Main thread]	TRACE	PatientLevelPrediction		Running setting 3
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : No Outcomes 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:57	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 3
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 3
+2020-03-29 08:08:57	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Running setting 4
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : No Outcomes 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:57	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 4
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 4
+2020-03-29 08:08:57	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:57	[Main thread]	TRACE	PatientLevelPrediction		Running setting 5
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : Target population is empty 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:58	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 5
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 5
+2020-03-29 08:08:58	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Running setting 6
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : Target population is empty 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:08:58	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 6
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 6
+2020-03-29 08:08:58	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:08:58	[Main thread]	TRACE	PatientLevelPrediction		Running setting 7
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : No Outcomes 
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:09:28	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 7
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 7
+2020-03-29 08:09:28	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-03-29 08:09:28	[Main thread]	TRACE	PatientLevelPrediction		Running setting 8
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction	3	Error with getPlpData:Error in (function (connectionDetails, cdmDatabaseSchema, oracleTempSchema = cdmDatabaseSchema, : No Outcomes 
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-03-29 08:09:29	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 8
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction	3	Error with pop:Error in class(plpData) %in% c("plpData.libsvm", "plpData.coo", "plpData"): argument "plpData" is missing, with no default 
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 8
+2020-03-29 08:09:29	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in (function (population, plpData, minCovariateFraction = 0.001, : argument "population" is missing, with no default 
+2020-03-29 08:09:29	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.

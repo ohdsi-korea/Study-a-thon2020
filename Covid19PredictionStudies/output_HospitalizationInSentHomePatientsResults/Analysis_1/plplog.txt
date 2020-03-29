@@ -1,0 +1,2 @@
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 3.0.10
+2020-03-29 08:08:26	[Main thread]	INFO	PatientLevelPrediction		No plpData - probably empty cohort issue

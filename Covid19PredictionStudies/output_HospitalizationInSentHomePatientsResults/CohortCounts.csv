@@ -1,0 +1,4 @@
+"cohortDefinitionId","cohortName","cohortCount","personCount"
+5889,"COVID19_ID27_V1_Hospitalizations_with_pneumonia_or_others_intensive_services_or_death",1,1
+5893,"COVID19_ID26_V1_Hospitalizations_with_pneumonia_or_ARDS_or_sepsis_or_AKI",13,10
+5896,"COVID_ID15_v1_visits_of_patients_with_Covid_flu_or_symptoms_with_no_pneumonia_and_no_admission",12,12
