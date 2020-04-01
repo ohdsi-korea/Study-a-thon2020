@@ -1,0 +1,11 @@
+"cohortDefinitionId","ruleSequence","name","description"
+4,0,"age >=18",NA
+4,1,"does not have hospitalization for COVID19 in the 6 months preceding admission",NA
+3,0,"age >=18",NA
+3,1,"has >=365d of prior observation",NA
+3,2,"does not have hospitalization for COVID19 in the 6 months preceding admission",NA
+2,0,"age >=18",NA
+2,1,"does not have hospitalization for COVID19 in the 6 months preceding admission",NA
+1,0,"age >=18",NA
+1,1,"has >=365d of prior observation",NA
+1,2,"does not have hospitalization for COVID19 in the 6 months preceding admission",NA

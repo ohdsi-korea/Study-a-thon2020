@@ -1,0 +1,13 @@
+min_value,max_value,average_value,standard_deviation,median_value,p_10_value,p_25_value,p_75_value,p_90_value,time_metric,cohort_id,database_id
+403,6411,3890.733333333333,1999.422639652263,4253,447,2667,5312,6304,observation time (days) prior to index,1,DCMC
+1,88,30.866666666666667,22.816710956020255,22,11,15,39,67,observation time (days) after index,1,DCMC
+0,19,3.466666666666667,5.6613226999212545,0,0,0,6,12,time (days) between cohort start and end,1,DCMC
+0,6411,2566.217391304348,2437.978916261432,2301,0,125,4809,6248,observation time (days) prior to index,2,DCMC
+1,88,24.630434782608695,20.76252895712977,16,7,11,31,60,observation time (days) after index,2,DCMC
+0,26,3.8478260869565215,6.160690406130894,0,0,0,7,12,time (days) between cohort start and end,2,DCMC
+403,6411,3987.0882352941176,1912.0822279713977,4348,598,2928,5312,6304,observation time (days) prior to index,3,DCMC
+1,150,37.411764705882355,31.29635243250118,25,11,16,52,70,observation time (days) after index,3,DCMC
+0,19,2.9705882352941178,4.7576751014299505,0,0,0,5,11,time (days) between cohort start and end,3,DCMC
+0,6411,2684.0196078431372,2425.1779851400274,2928,0,125,4809,6079,observation time (days) prior to index,4,DCMC
+1,150,29.11764705882353,28.401159876894837,20,7,11,32,67,observation time (days) after index,4,DCMC
+0,26,3.411764705882353,5.571988767354921,0,0,0,6,11,time (days) between cohort start and end,4,DCMC

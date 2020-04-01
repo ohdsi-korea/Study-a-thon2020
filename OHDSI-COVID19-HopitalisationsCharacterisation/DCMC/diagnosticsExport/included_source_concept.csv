@@ -1,0 +1,30 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+1,0,COVID-19 (including asymptomatic),37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,NA,NA,NA,NA,559,629,DCMC
+1,4,[OHDSI Covid19 v1] Inpatient Visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,DCMC
+1,4,[OHDSI Covid19 v1] Inpatient Visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,DCMC
+2,0,COVID-19 (including asymptomatic),37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,NA,NA,NA,NA,559,629,DCMC
+2,4,[OHDSI Covid19 v1] Inpatient Visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,DCMC
+2,4,[OHDSI Covid19 v1] Inpatient Visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,DCMC
+3,0,COVID-19 (including asymptomatic),37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,NA,NA,NA,NA,559,629,DCMC
+3,4,[OHDSI Covid19 v1] Inpatient Visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,DCMC
+3,4,[OHDSI Covid19 v1] Inpatient Visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,DCMC
+3,8,[COVID V1] Shortness of breath (dyspnea),312437,Dyspnea,NA,NA,NA,NA,101,419,DCMC
+3,12,COVID-19 Suspected OR Suspected unspecific coronavirus infection - Source and Standard terminology,45763724,Suspected coronavirus infection,NA,NA,NA,NA,31,31,DCMC
+4,5,[COVID19 v1] Fever (38.0<c2><b0>C or higher) pre-coordinated measurement and conditions,437663,Fever,NA,NA,NA,NA,515,893,DCMC
+4,6,[COVID19 V1] Fever (38.0<c2><b0>C or higher) measurement and observation,3020891,Body temperature,No matching concept,None,0,No matching concept,892,93685,DCMC
+4,7,[OHDSI Cov19] Cough,254761,Cough,NA,NA,NA,NA,110,509,DCMC
+4,7,[OHDSI Cov19] Cough,433596,Abnormal sputum,NA,NA,NA,NA,-10,-10,DCMC
+4,9,[COVID19 v1] Myalgia,442752,Muscle pain,NA,NA,NA,NA,32,189,DCMC
+4,9,[COVID19 v1] Myalgia,4121597,Myalgia/myositis - shoulder,NA,NA,NA,NA,-10,-10,DCMC
+4,9,[COVID19 v1] Myalgia,4125937,Myalgia/myositis - multiple,NA,NA,NA,NA,20,183,DCMC
+4,9,[COVID19 v1] Myalgia,4126064,Myalgia/myositis - ankle/foot,NA,NA,NA,NA,-10,-10,DCMC
+4,10,[Covid19 V1] Malaise or Fatigue or (Malaise and Fatigue),439926,Malaise and fatigue,NA,NA,NA,NA,49,149,DCMC
+4,11,[COVID19 v1] Pneumonia,253790,Pneumonia due to Klebsiella pneumoniae,NA,NA,NA,NA,-10,-10,DCMC
+4,11,[COVID19 v1] Pneumonia,255848,Pneumonia,NA,NA,NA,NA,155,505,DCMC
+4,11,[COVID19 v1] Pneumonia,256722,Bronchopneumonia,NA,NA,NA,NA,14,57,DCMC
+4,11,[COVID19 v1] Pneumonia,256723,Pneumonia and influenza,NA,NA,NA,NA,10,28,DCMC
+4,11,[COVID19 v1] Pneumonia,257315,Bacterial pneumonia,NA,NA,NA,NA,21,460,DCMC
+4,11,[COVID19 v1] Pneumonia,261324,Pneumonia due to Streptococcus,NA,NA,NA,NA,-10,-10,DCMC
+4,11,[COVID19 v1] Pneumonia,261326,Viral pneumonia,NA,NA,NA,NA,-10,-10,DCMC
+4,11,[COVID19 v1] Pneumonia,4025165,Abscess of lung with pneumonia,NA,NA,NA,NA,-10,17,DCMC
+4,11,[COVID19 v1] Pneumonia,4133224,Lobar pneumonia,NA,NA,NA,NA,-10,-10,DCMC

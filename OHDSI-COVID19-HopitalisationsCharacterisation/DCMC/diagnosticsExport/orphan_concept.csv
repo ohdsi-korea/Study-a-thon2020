@@ -1,0 +1,19 @@
+cohort_id,concept_set_id,concept_set_name,concept_count,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,database_id
+4,5,[COVID19 v1] Fever (38.0<c2><b0>C or higher) pre-coordinated measurement and conditions,-10,4226022,Drug-induced hyperpyrexia,Condition,SNOMED,Clinical Finding,S,405543000,1970-01-01,2099-12-31,NA,DCMC
+4,7,[OHDSI Cov19] Cough,83,261687,Hemoptysis,Condition,SNOMED,Clinical Finding,S,66857006,1970-01-01,2099-12-31,NA,DCMC
+4,7,[OHDSI Cov19] Cough,195,261889,Simple chronic bronchitis,Condition,SNOMED,Clinical Finding,S,61937009,1970-01-01,2099-12-31,NA,DCMC
+4,9,[COVID19 v1] Myalgia,131,40405599,Fibromyalgia,Condition,SNOMED,Clinical Finding,S,203082005,1970-01-01,2099-12-31,NA,DCMC
+4,9,[COVID19 v1] Myalgia,-10,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,1970-01-01,2099-12-31,NA,DCMC
+4,10,[Covid19 V1] Malaise or Fatigue or (Malaise and Fatigue),15,4202045,Postviral fatigue syndrome,Condition,SNOMED,Clinical Finding,S,51771007,1970-01-01,2099-12-31,NA,DCMC
+4,10,[Covid19 V1] Malaise or Fatigue or (Malaise and Fatigue),-10,4147498,"Encephalitis, myelitis and encephalomyelitis",Condition,SNOMED,Clinical Finding,S,267576008,1970-01-01,2099-12-31,NA,DCMC
+4,10,[Covid19 V1] Malaise or Fatigue or (Malaise and Fatigue),-10,4189235,Third cranial nerve weakness,Condition,SNOMED,Clinical Finding,S,388980004,1970-01-01,2099-12-31,NA,DCMC
+4,10,[Covid19 V1] Malaise or Fatigue or (Malaise and Fatigue),29,76685,Myasthenia gravis,Condition,SNOMED,Clinical Finding,S,91637004,1970-01-01,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,115,3011363,Streptococcus pneumoniae Ag [Presence] in Urine,Measurement,LOINC,Lab Test,S,24027-5,1970-01-01,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,15,4187218,Pneumonitis due to inhaled substance,Condition,SNOMED,Clinical Finding,S,415126001,1970-01-01,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,150,3010521,Mycoplasma pneumoniae IgM Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,5257-1,1970-01-01,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,144,3045068,Mycoplasma pneumoniae IgG Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,45224-3,2006-04-28,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,40,37020998,Streptococcus pneumoniae DNA [Presence] in Respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,92125-4,2019-06-21,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,104,36305584,Mycoplasma pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,Measurement,LOINC,Lab Test,S,88720-8,2018-06-15,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,104,36303621,Chlamydophila pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,Measurement,LOINC,Lab Test,S,88718-2,2018-06-15,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,92,3046861,Legionella sp Ag [Presence] in Urine,Measurement,LOINC,Lab Test,S,32781-7,1970-01-01,2099-12-31,NA,DCMC
+4,11,[COVID19 v1] Pneumonia,40,3003733,Legionella pneumophila Ag [Presence] in Unspecified specimen,Measurement,LOINC,Lab Test,S,17057-1,1998-06-04,2099-12-31,NA,DCMC

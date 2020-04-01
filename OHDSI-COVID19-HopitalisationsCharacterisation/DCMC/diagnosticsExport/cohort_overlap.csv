@@ -1,0 +1,13 @@
+either_subjects,both_subjects,t_only_subjects,c_only_subjects,t_before_c_subjects,c_before_t_subjects,same_day_subjects,t_in_c_subjects,c_in_t_subjects,target_cohort_id,comparator_cohort_id,database_id
+46,30,0,16,0,0,30,30,30,1,2,DCMC
+34,30,0,-10,0,-10,28,28,28,1,3,DCMC
+50,30,16,-10,0,-10,28,28,28,2,3,DCMC
+51,30,0,21,0,-10,28,28,28,1,4,DCMC
+51,46,0,-10,0,-10,44,44,44,2,4,DCMC
+51,34,0,17,0,0,34,34,34,3,4,DCMC
+46,30,16,0,0,0,30,30,30,2,1,DCMC
+34,30,-10,0,-10,0,28,28,28,3,1,DCMC
+50,30,-10,16,-10,0,28,28,28,3,2,DCMC
+51,30,21,0,-10,0,28,28,28,4,1,DCMC
+51,46,-10,0,-10,0,44,44,44,4,2,DCMC
+51,34,17,0,0,0,34,34,34,4,3,DCMC

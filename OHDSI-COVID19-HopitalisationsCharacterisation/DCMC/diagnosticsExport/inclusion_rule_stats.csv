@@ -1,0 +1,11 @@
+rule_sequence_id,rule_name,meet_subjects,gain_subjects,total_subjects,remain_subjects,cohort_id,database_id
+0,age >=18,47,0,47,47,1,DCMC
+1,has >=365d of prior observation,31,16,47,31,1,DCMC
+2,does not have hospitalization for COVID19 in the 6 months preceding admission,46,-10,47,30,1,DCMC
+0,age >=18,47,0,47,47,2,DCMC
+1,does not have hospitalization for COVID19 in the 6 months preceding admission,46,-10,47,46,2,DCMC
+0,age >=18,54,0,54,54,3,DCMC
+1,has >=365d of prior observation,37,17,54,37,3,DCMC
+2,does not have hospitalization for COVID19 in the 6 months preceding admission,53,-10,54,36,3,DCMC
+0,age >=18,54,0,54,54,4,DCMC
+1,does not have hospitalization for COVID19 in the 6 months preceding admission,53,-10,54,53,4,DCMC

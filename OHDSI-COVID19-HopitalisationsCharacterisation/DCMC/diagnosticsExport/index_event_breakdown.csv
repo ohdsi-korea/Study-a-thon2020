@@ -1,0 +1,9 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+9201,Inpatient Visit,21,1,DCMC
+262,Emergency Room and Inpatient Visit,-10,1,DCMC
+9201,Inpatient Visit,26,2,DCMC
+262,Emergency Room and Inpatient Visit,20,2,DCMC
+9201,Inpatient Visit,22,3,DCMC
+262,Emergency Room and Inpatient Visit,12,3,DCMC
+9201,Inpatient Visit,27,4,DCMC
+262,Emergency Room and Inpatient Visit,24,4,DCMC
