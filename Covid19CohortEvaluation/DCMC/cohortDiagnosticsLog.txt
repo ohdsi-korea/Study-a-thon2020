@@ -1,0 +1,28 @@
+2020-04-01 08:29:55	[Main thread]	INFO	Covid19CohortEvaluation	execute	Creating cohorts for cohort group SafetyOutcomes
+2020-04-01 08:29:55	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Cohort table already exists and in incremental mode, so not recreating table.
+2020-04-01 08:29:55	[Main thread]	INFO	CohortDiagnostics	createTempInclusionStatsTables	Creating temporary inclusion statistics tables
+2020-04-01 08:29:55	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Hospitalizations with pneumonia
+2020-04-01 08:29:56	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Episodes of acute respiratory distress
+2020-04-01 08:29:56	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Persons with chest pain or angina
+2020-04-01 08:29:56	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Venous thromboembolic (pulmonary embolism and deep vein thrombosis) events
+2020-04-01 08:29:57	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Acute renal failure events
+2020-04-01 08:29:57	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Persons with end stage renal disease
+2020-04-01 08:31:13	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Persons with hepatic failure
+2020-04-01 08:31:14	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Acute pancreatitis events
+2020-04-01 08:31:14	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Persons with heart failure
+2020-04-01 08:31:14	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Total cardiovascular disease events (ischemic stroke, hemorrhagic stroke, heart failure, acute myocardial infarction or sudden cardiac death)
+2020-04-01 08:31:15	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Angioedema events
+2020-04-01 08:31:15	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Person with cardiac arrhythmia
+2020-04-01 08:31:15	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Persons with bradycardia
+2020-04-01 08:31:16	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Gastrointestinal bleeding events
+2020-04-01 08:31:16	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort All-cause mortality
+2020-04-01 08:31:16	[Main thread]	WARN	SqlRender	render	Parameter 'vocabulary_database_schema' not found in SQL
+2020-04-01 08:31:16	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Cardiovascular-related mortality
+2020-04-01 08:31:17	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Transient ischemic attack events
+2020-04-01 08:31:17	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Stroke (ischemic or hemorrhagic) events
+2020-04-01 08:31:17	[Main thread]	INFO	CohortDiagnostics	instantiateCohortSet	Instantiation cohort Acute myocardial infarction events
+2020-04-01 08:31:17	[Main thread]	DEBUG	CohortDiagnostics	fetchStats	- Fetching data from #cohort_inclusion
+2020-04-01 08:31:17	[Main thread]	DEBUG	CohortDiagnostics	fetchStats	- Fetching data from #cohort_inc_result
+2020-04-01 08:31:17	[Main thread]	DEBUG	CohortDiagnostics	fetchStats	- Fetching data from #cohort_inc_stats
+2020-04-01 08:31:17	[Main thread]	DEBUG	CohortDiagnostics	fetchStats	- Fetching data from #cohort_summary_stats
+2020-04-01 08:31:18	[Main thread]	FATAL	lifecycle	deprecate_warn	Error in eval(frame[[2]], envir = sys.frame(-i - 1)) :    object 'wrn' not found Calls: execute ... deprecate_warn -> withRestarts -> withOneRestart -> doWithOneRestart 
