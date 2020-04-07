@@ -1,0 +1,20 @@
+2020-04-07 01:26:38	[Main thread]	INFO	CovidHospCohortDiag	runCohortDiagnostics	Creating cohorts
+2020-04-07 01:27:42	[Main thread]	INFO	CovidHospCohortDiag	runCohortDiagnostics	Running study diagnostics
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Saving database metadata
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Counting cohorts
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	getCohortCounts	Counting cohorts took 0.0664 secs
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortEntries because value below minimum
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortSubjects because value below minimum
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Creating cohort characterizations
+2020-04-07 01:27:42	[Main thread]	INFO	CohortDiagnostics	FUN	- Creating characterization for cohort COVID-19 narrow - with prior observation
+2020-04-07 01:28:32	[Main thread]	INFO	CohortDiagnostics	getCohortCharacteristics	Cohort characterization took 50 secs
+2020-04-07 01:28:32	[Main thread]	INFO	CohortDiagnostics	FUN	- Creating characterization for cohort COVID-19 narrow - no prior observation required
+2020-04-07 01:29:22	[Main thread]	INFO	CohortDiagnostics	getCohortCharacteristics	Cohort characterization took 49.5 secs
+2020-04-07 01:29:22	[Main thread]	INFO	CohortDiagnostics	FUN	- Creating characterization for cohort COVID-19 broad - with prior observation
+2020-04-07 01:30:10	[Main thread]	INFO	CohortDiagnostics	getCohortCharacteristics	Cohort characterization took 48.9 secs
+2020-04-07 01:30:10	[Main thread]	INFO	CohortDiagnostics	FUN	- Creating characterization for cohort COVID-19 broad - no prior observation required
+2020-04-07 01:30:55	[Main thread]	INFO	CohortDiagnostics	getCohortCharacteristics	Cohort characterization took 44.4 secs
+2020-04-07 01:30:55	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from mean because value below minimum
+2020-04-07 01:30:55	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Adding results to zip file
+2020-04-07 01:30:55	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Results are ready for sharing at:/output_character_covid/diagnosticsExport/Results_DCMC_COVID19.zip
+2020-04-07 01:30:55	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Computing all diagnostics took 3.23 mins

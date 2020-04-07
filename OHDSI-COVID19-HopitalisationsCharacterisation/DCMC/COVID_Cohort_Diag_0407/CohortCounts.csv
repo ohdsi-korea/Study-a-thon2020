@@ -1,0 +1,5 @@
+"","cohortDefinitionId","count","cohortName"
+"1",1,30,"COVID-19 narrow - with prior observation"
+"2",2,46,"COVID-19 narrow - no prior observation required"
+"3",3,34,"COVID-19 broad - with prior observation"
+"4",4,51,"COVID-19 broad - no prior observation required"
