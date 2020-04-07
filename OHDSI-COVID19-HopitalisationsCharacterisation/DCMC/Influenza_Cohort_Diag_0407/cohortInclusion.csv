@@ -1,0 +1,21 @@
+"cohortDefinitionId","ruleSequence","name","description"
+8,0,"age >=18",NA
+8,1,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+12,0,"age >=18",NA
+12,1,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+7,0,"age >=18",NA
+7,1,"has >=365d of prior observation",NA
+7,2,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+11,0,"age >=18",NA
+11,1,"has >=365d of prior observation",NA
+11,2,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+6,0,"age >=18",NA
+6,1,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+10,0,"age >=18",NA
+10,1,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+5,0,"age >=18",NA
+5,1,"has >=365d of prior observation",NA
+5,2,"does not have hospitalization for influenza in the 6 months preceding admission",NA
+9,0,"age >=18",NA
+9,1,"has >=365d of prior observation",NA
+9,2,"does not have hospitalization for influenza in the 6 months preceding admission",NA

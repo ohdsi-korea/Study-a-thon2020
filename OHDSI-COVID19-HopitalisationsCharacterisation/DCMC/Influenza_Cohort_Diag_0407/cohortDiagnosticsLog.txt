@@ -1,0 +1,18 @@
+2020-04-07 01:32:59	[Main thread]	INFO	InfluenzaHospCohortDiag	runCohortDiagnostics	Creating cohorts
+2020-04-07 01:35:22	[Main thread]	INFO	InfluenzaHospCohortDiag	runCohortDiagnostics	Running study diagnostics
+2020-04-07 01:35:23	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Saving database metadata
+2020-04-07 01:35:23	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Counting cohorts
+2020-04-07 01:35:23	[Main thread]	INFO	CohortDiagnostics	getCohortCounts	Counting cohorts took 0.0718 secs
+2020-04-07 01:35:23	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortEntries because value below minimum
+2020-04-07 01:35:23	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortSubjects because value below minimum
+2020-04-07 01:35:23	[Main thread]	FATAL	CohortDiagnostics	runCohortDiagnostics	Error in CohortDiagnostics::runCohortDiagnostics(packageName = "InfluenzaHospCohortDiag",  :    object 'FALSe' not found Calls: runCohortDiagnostics -> <Anonymous> 
+2020-04-07 01:37:00	[Main thread]	INFO	InfluenzaHospCohortDiag	runCohortDiagnostics	Creating cohorts
+2020-04-07 01:39:24	[Main thread]	INFO	InfluenzaHospCohortDiag	runCohortDiagnostics	Running study diagnostics
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Saving database metadata
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Counting cohorts
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	getCohortCounts	Counting cohorts took 0.0767 secs
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortEntries because value below minimum
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	enforceMinCellValue	   censoring 0 values (0%) from cohortSubjects because value below minimum
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Adding results to zip file
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Results are ready for sharing at:/output_character_influ/diagnosticsExport/Results_DCMC_COVID19.zip
+2020-04-07 01:39:24	[Main thread]	INFO	CohortDiagnostics	runCohortDiagnostics	Computing all diagnostics took 0.597 secs
