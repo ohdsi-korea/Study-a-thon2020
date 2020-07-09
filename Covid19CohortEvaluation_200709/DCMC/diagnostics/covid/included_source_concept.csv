@@ -1,0 +1,10 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+126,2,SARS-Cov-2 testing,37310281,2019 novel coronavirus not detected,NA,NA,NA,NA,28,187,PREMIER
+130,4,COVID-19 conditions,37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,NA,NA,NA,NA,559,629,PREMIER
+136,4,COVID-19 conditions,37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,NA,NA,NA,NA,559,629,PREMIER
+139,5,Inpatient Visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,PREMIER
+139,5,Inpatient Visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,PREMIER
+141,9,Mechanical ventilation,4013354,Insertion of endotracheal tube,NA,NA,NA,NA,50,67,PREMIER
+141,9,Mechanical ventilation,4074665,Controlled ventilation,NA,NA,NA,NA,-5,-5,PREMIER
+141,9,Mechanical ventilation,4230167,Artificial respiration,NA,NA,NA,NA,66,333,PREMIER
+141,9,Mechanical ventilation,4335583,Tracheal intubation using rigid bronchoscope,NA,NA,NA,NA,-5,-5,PREMIER

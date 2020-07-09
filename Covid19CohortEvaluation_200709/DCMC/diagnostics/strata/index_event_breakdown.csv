@@ -1,0 +1,429 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+4193704,Type 2 diabetes mellitus without complication,41,100,PREMIER
+4008576,Diabetes mellitus without complication,40,100,PREMIER
+201530,Type 2 diabetes mellitus with hyperosmolar coma,26,100,PREMIER
+380096,Proliferative retinopathy with diabetes mellitus,20,100,PREMIER
+4174977,Retinopathy due to diabetes mellitus,19,100,PREMIER
+443732,Disorder due to type 2 diabetes mellitus,18,100,PREMIER
+376979,Cataract due to diabetes mellitus,9,100,PREMIER
+4099216,Type 2 diabetes mellitus with multiple complications,9,100,PREMIER
+45769905,Microalbuminuria due to type 2 diabetes mellitus,8,100,PREMIER
+376065,Neurological disorder with type 2 diabetes mellitus,5,100,PREMIER
+443729,Peripheral circulatory disorder associated with type 2 diabetes mellitus,5,100,PREMIER
+443731,Renal disorder due to type 2 diabetes mellitus,5,100,PREMIER
+201820,Diabetes mellitus,-5,100,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,100,PREMIER
+376112,Diabetic polyneuropathy,-5,100,PREMIER
+443727,Diabetic ketoacidosis,-5,100,PREMIER
+443734,Ketoacidosis in type 2 diabetes mellitus,-5,100,PREMIER
+4137220,Diabetic glomerulonephritis,-5,100,PREMIER
+201826,Type 2 diabetes mellitus,-5,100,PREMIER
+442793,Diabetic complication,-5,100,PREMIER
+443733,Disorder of eye with type 2 diabetes mellitus,-5,100,PREMIER
+4226238,Hyperosmolar coma due to diabetes mellitus,-5,100,PREMIER
+36717156,Acidosis due to type 2 diabetes mellitus,-5,100,PREMIER
+37016768,Autonomic neuropathy with type 2 diabetes mellitus,-5,100,PREMIER
+37017432,Polyneuropathy due to type 2 diabetes mellitus,-5,100,PREMIER
+44793113,Diabetes mellitus with multiple complications,-5,100,PREMIER
+320128,Essential hypertension,196,101,PREMIER
+443771,Renal hypertension,20,101,PREMIER
+443919,Hypertensive renal failure,15,101,PREMIER
+4028741,Benign hypertension,15,101,PREMIER
+314378,Hypertensive heart disease with congestive heart failure,10,101,PREMIER
+319826,Secondary hypertension,7,101,PREMIER
+319034,Hypertensive heart disease without congestive heart failure,5,101,PREMIER
+201313,Hypertensive renal disease,-5,101,PREMIER
+4013643,Pulmonary arterial hypertension,-5,101,PREMIER
+4339214,Secondary pulmonary hypertension,-5,101,PREMIER
+443611,Chronic kidney disease stage 5,57,102,PREMIER
+443614,Chronic kidney disease stage 1,35,102,PREMIER
+443612,Chronic kidney disease stage 4,31,102,PREMIER
+443597,Chronic kidney disease stage 3,17,102,PREMIER
+46271022,Chronic kidney disease,16,102,PREMIER
+443919,Hypertensive renal failure,15,102,PREMIER
+45769905,Microalbuminuria due to type 2 diabetes mellitus,15,102,PREMIER
+443731,Renal disorder due to type 2 diabetes mellitus,10,102,PREMIER
+4056478,Chronic nephritic syndrome,-5,102,PREMIER
+4137220,Diabetic glomerulonephritis,-5,102,PREMIER
+4298809,Nephritic syndrome,-5,102,PREMIER
+201313,Hypertensive renal disease,-5,102,PREMIER
+192359,Renal failure syndrome,-5,102,PREMIER
+195314,Nephrotic syndrome,-5,102,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,102,PREMIER
+192279,Kidney disorder due to diabetes mellitus,-5,102,PREMIER
+193782,End-stage renal disease,-5,102,PREMIER
+200687,Renal disorder associated with type 1 diabetes mellitus,-5,102,PREMIER
+252365,Membranous glomerulonephritis,-5,102,PREMIER
+4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",-5,102,PREMIER
+4128221,Microalbuminuric diabetic nephropathy,-5,102,PREMIER
+4272486,Diffuse crescentic glomerulonephritis,-5,102,PREMIER
+45757535,Microalbuminuria due to type 1 diabetes mellitus,-5,102,PREMIER
+443611,Chronic kidney disease stage 5,169,103,PREMIER
+443919,Hypertensive renal failure,23,103,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,6,103,PREMIER
+193782,End-stage renal disease,-5,103,PREMIER
+45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,-5,103,PREMIER
+439846,Left heart failure,33,104,PREMIER
+321318,Angina pectoris,27,104,PREMIER
+314378,Hypertensive heart disease with congestive heart failure,17,104,PREMIER
+316139,Heart failure,16,104,PREMIER
+315296,Preinfarction syndrome,15,104,PREMIER
+315286,Chronic ischemic heart disease,12,104,PREMIER
+312327,Acute myocardial infarction,11,104,PREMIER
+321042,Cardiac arrest,9,104,PREMIER
+319034,Hypertensive heart disease without congestive heart failure,8,104,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,7,104,PREMIER
+4154290,Paroxysmal atrial fibrillation,6,104,PREMIER
+4275423,Supraventricular tachycardia,6,104,PREMIER
+314658,Cardiomegaly,5,104,PREMIER
+317576,Coronary arteriosclerosis,5,104,PREMIER
+4089462,Ventricular premature complex,5,104,PREMIER
+4115173,Atrial premature complex,5,104,PREMIER
+443580,Systolic heart failure,-5,104,PREMIER
+44784217,Cardiac arrhythmia,-5,104,PREMIER
+314666,Old myocardial infarction,-5,104,PREMIER
+319844,Acute ischemic heart disease,-5,104,PREMIER
+443962,Mitral valve regurgitation,-5,104,PREMIER
+4068155,Atrial arrhythmia,-5,104,PREMIER
+4120088,Cardiac arrest with successful resuscitation,-5,104,PREMIER
+319835,Congestive heart failure,-5,104,PREMIER
+320744,Complete atrioventricular block,-5,104,PREMIER
+321319,Cardiomyopathy,-5,104,PREMIER
+4127089,Coronary artery spasm,-5,104,PREMIER
+4185572,Ventricular arrhythmia,-5,104,PREMIER
+312653,Acute myocarditis,-5,104,PREMIER
+315273,Mitral valve stenosis,-5,104,PREMIER
+318776,Rheumatic mitral regurgitation,-5,104,PREMIER
+434376,Acute myocardial infarction of anterior wall,-5,104,PREMIER
+434462,Ventricular septal defect,-5,104,PREMIER
+439834,Rheumatic aortic regurgitation,-5,104,PREMIER
+443587,Diastolic heart failure,-5,104,PREMIER
+4108950,Acquired cardiac septal defect,-5,104,PREMIER
+4289309,Atrial septal defect,-5,104,PREMIER
+4001171,Liver cell carcinoma,17,105,PREMIER
+196044,Primary malignant neoplasm of stomach,11,105,PREMIER
+198985,Primary malignant neoplasm of kidney,7,105,PREMIER
+139750,Primary malignant neoplasm of skin,6,105,PREMIER
+199754,Primary malignant neoplasm of pancreas,5,105,PREMIER
+40486896,Primary malignant neoplasm of extrahepatic bile duct,5,105,PREMIER
+441225,Primary malignant neoplasm of ampulla of Vater,-5,105,PREMIER
+4001664,Intrahepatic bile duct carcinoma,-5,105,PREMIER
+200962,Primary malignant neoplasm of prostate,-5,105,PREMIER
+201519,Primary malignant neoplasm of liver,-5,105,PREMIER
+434293,Primary malignant neoplasm of body of pancreas,-5,105,PREMIER
+437233,Multiple myeloma,-5,105,PREMIER
+4162253,Primary malignant neoplasm of breast,-5,105,PREMIER
+26638,Primary malignant neoplasm of esophagus,-5,105,PREMIER
+133424,Primary malignant neoplasm of thyroid gland,-5,105,PREMIER
+138994,Myelodysplastic syndrome,-5,105,PREMIER
+193422,Primary malignant neoplasm of body of stomach,-5,105,PREMIER
+196360,Primary malignant neoplasm of bladder,-5,105,PREMIER
+197806,Primary malignant neoplasm of gallbladder,-5,105,PREMIER
+436635,Primary malignant neoplasm of sigmoid colon,-5,105,PREMIER
+4038838,Non-Hodgkin's lymphoma,-5,105,PREMIER
+4311499,Primary malignant neoplasm of respiratory tract,-5,105,PREMIER
+44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,-5,105,PREMIER
+24296,Primary malignant neoplasm of pituitary gland,-5,105,PREMIER
+74582,Primary malignant neoplasm of rectum,-5,105,PREMIER
+78097,Secondary malignant neoplasm of bone,-5,105,PREMIER
+134603,Chronic myeloid leukemia,-5,105,PREMIER
+135214,Polycythemia vera,-5,105,PREMIER
+135750,Primary malignant neoplasm of floor of mouth,-5,105,PREMIER
+136917,Primary malignant neoplasm of skin of face,-5,105,PREMIER
+195197,Primary malignant neoplasm of vulva,-5,105,PREMIER
+195480,Primary malignant neoplasm of renal pelvis,-5,105,PREMIER
+196359,Primary malignant neoplasm of uterine cervix,-5,105,PREMIER
+196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,-5,105,PREMIER
+432837,Primary malignant neoplasm of cecum,-5,105,PREMIER
+435752,Primary malignant neoplasm of duodenum,-5,105,PREMIER
+435755,Primary malignant neoplasm of skin of eyelid,-5,105,PREMIER
+438383,Essential thrombocythemia,-5,105,PREMIER
+441805,Primary malignant neoplasm of endocervix,-5,105,PREMIER
+4002357,"Follicular non-Hodgkin's lymphoma, small cleaved cell",-5,105,PREMIER
+4095312,Malignant tumor of nasopharynx,-5,105,PREMIER
+4147411,Follicular non-Hodgkin's lymphoma,-5,105,PREMIER
+4188545,Primary malignant neoplasm of breast lower outer quadrant,-5,105,PREMIER
+4247238,Primary malignant neoplasm of endometrium,-5,105,PREMIER
+4247719,Primary malignant neoplasm of ascending colon,-5,105,PREMIER
+439727,Human immunodeficiency virus infection,-5,106,PREMIER
+198964,Chronic hepatitis C,11,107,PREMIER
+3025315,Body weight,46,108,PREMIER
+3038553,Body mass index (BMI) [Ratio],45,108,PREMIER
+433736,Obesity,18,108,PREMIER
+4182210,Dementia,5,109,PREMIER
+378419,Alzheimer's disease,-5,109,PREMIER
+443605,Vascular dementia,-5,109,PREMIER
+4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",-5,109,PREMIER
+4046089,Vascular dementia of acute onset,-5,109,PREMIER
+4047747,Subcortical vascular dementia,-5,109,PREMIER
+253954,Pulmonary tuberculosis,9,117,PREMIER
+4091167,"Tuberculosis of lung, bacteriologically and histologically negative",5,117,PREMIER
+45771090,Respiratory tuberculosis,-5,117,PREMIER
+255454,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",-5,117,PREMIER
+261495,Tuberculosis of pleura,-5,117,PREMIER
+4090539,"Tuberculous pleurisy, confirmed bacteriologically and histologically",-5,117,PREMIER
+193249,Acute hemorrhagic gastritis,21,118,PREMIER
+140168,Psoriasis,15,118,PREMIER
+4035611,Seropositive rheumatoid arthritis,7,118,PREMIER
+257628,Systemic lupus erythematosus,5,118,PREMIER
+80809,Rheumatoid arthritis,-5,118,PREMIER
+4101602,Henoch-Schönlein purpura,-5,118,PREMIER
+76685,Myasthenia gravis,-5,118,PREMIER
+77310,Deep vein phlebitis and thrombophlebitis of the leg,-5,118,PREMIER
+201254,Type 1 diabetes mellitus,-5,118,PREMIER
+201606,Crohn's disease,-5,118,PREMIER
+254443,Sjögren's syndrome,-5,118,PREMIER
+313223,Granulomatosis with polyangiitis,-5,118,PREMIER
+314659,Arteritis,-5,118,PREMIER
+443412,Type 1 diabetes mellitus without complication,-5,118,PREMIER
+4083556,Seronegative rheumatoid arthritis,-5,118,PREMIER
+45769832,Diabetic dermopathy due to type 1 diabetes mellitus,-5,118,PREMIER
+81097,Felty's syndrome,-5,118,PREMIER
+81893,Ulcerative colitis,-5,118,PREMIER
+134442,Systemic sclerosis,-5,118,PREMIER
+320741,Thrombophlebitis,-5,118,PREMIER
+436642,Behcet's syndrome,-5,118,PREMIER
+4033864,Livedoid vasculitis,-5,118,PREMIER
+4067764,Pigmented purpuric lichenoid dermatitis of Gougerot and Blum,-5,118,PREMIER
+4223303,Gangrene associated with type 1 diabetes mellitus,-5,118,PREMIER
+4224709,Multiple complications of type 1 diabetes mellitus,-5,118,PREMIER
+4307925,Psoriasis vulgaris,-5,118,PREMIER
+4344158,Systemic lupus erythematosus with organ/system involvement,-5,118,PREMIER
+4344489,Microscopic polyarteritis nodosa,-5,118,PREMIER
+36713094,Peripheral angiopathy due to type 1 diabetes mellitus,-5,118,PREMIER
+37016767,Autonomic neuropathy with type 1 diabetes mellitus,-5,118,PREMIER
+45757507,Foot ulcer due to type 1 diabetes mellitus,-5,118,PREMIER
+45757535,Microalbuminuria due to type 1 diabetes mellitus,-5,118,PREMIER
+45763584,Proliferative retinopathy with type 1 diabetes mellitus,-5,118,PREMIER
+45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,-5,118,PREMIER
+255573,Chronic obstructive lung disease,8,119,PREMIER
+4193588,Moderate chronic obstructive pulmonary disease,-5,119,PREMIER
+42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],-5,119,PREMIER
+42920472,15 ML Ipratropium 0.299999999999999989 MG/ML Nasal Spray [RHINOVENT],-5,119,PREMIER
+4196712,Mild chronic obstructive pulmonary disease,-5,119,PREMIER
+19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],-5,119,PREMIER
+317009,Asthma,27,120,PREMIER
+4191479,Allergic asthma,11,120,PREMIER
+42922105,2 ML Budesonide 0.25 MG/ML Inhalant Solution [Budecort],-5,120,PREMIER
+42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],-5,120,PREMIER
+4110051,Mixed asthma,-5,120,PREMIER
+19130452,60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],-5,120,PREMIER
+42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],-5,120,PREMIER
+43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,-5,120,PREMIER
+439846,Left heart failure,48,125,PREMIER
+443611,Chronic kidney disease stage 5,42,125,PREMIER
+4193704,Type 2 diabetes mellitus without complication,34,125,PREMIER
+4008576,Diabetes mellitus without complication,31,125,PREMIER
+443454,Cerebral infarction,25,125,PREMIER
+201530,Type 2 diabetes mellitus with hyperosmolar coma,23,125,PREMIER
+443614,Chronic kidney disease stage 1,21,125,PREMIER
+314378,Hypertensive heart disease with congestive heart failure,20,125,PREMIER
+380096,Proliferative retinopathy with diabetes mellitus,18,125,PREMIER
+443612,Chronic kidney disease stage 4,17,125,PREMIER
+443732,Disorder due to type 2 diabetes mellitus,15,125,PREMIER
+321042,Cardiac arrest,14,125,PREMIER
+443919,Hypertensive renal failure,14,125,PREMIER
+4174977,Retinopathy due to diabetes mellitus,14,125,PREMIER
+45769905,Microalbuminuria due to type 2 diabetes mellitus,14,125,PREMIER
+321318,Angina pectoris,13,125,PREMIER
+4001171,Liver cell carcinoma,13,125,PREMIER
+46271022,Chronic kidney disease,13,125,PREMIER
+316139,Heart failure,12,125,PREMIER
+4275423,Supraventricular tachycardia,12,125,PREMIER
+312327,Acute myocardial infarction,9,125,PREMIER
+4110189,Cerebral infarct due to thrombosis of precerebral arteries,9,125,PREMIER
+4014781,Closed traumatic subdural hemorrhage,7,125,PREMIER
+4099216,Type 2 diabetes mellitus with multiple complications,7,125,PREMIER
+196044,Primary malignant neoplasm of stomach,6,125,PREMIER
+315286,Chronic ischemic heart disease,6,125,PREMIER
+315296,Preinfarction syndrome,6,125,PREMIER
+376979,Cataract due to diabetes mellitus,6,125,PREMIER
+443597,Chronic kidney disease stage 3,6,125,PREMIER
+443731,Renal disorder due to type 2 diabetes mellitus,6,125,PREMIER
+4089462,Ventricular premature complex,6,125,PREMIER
+4115173,Atrial premature complex,6,125,PREMIER
+4154290,Paroxysmal atrial fibrillation,6,125,PREMIER
+376065,Neurological disorder with type 2 diabetes mellitus,5,125,PREMIER
+443729,Peripheral circulatory disorder associated with type 2 diabetes mellitus,5,125,PREMIER
+199754,Primary malignant neoplasm of pancreas,-5,125,PREMIER
+201820,Diabetes mellitus,-5,125,PREMIER
+435959,Subarachnoid hemorrhage following injury without open intracranial wound,-5,125,PREMIER
+441225,Primary malignant neoplasm of ampulla of Vater,-5,125,PREMIER
+443580,Systolic heart failure,-5,125,PREMIER
+4068155,Atrial arrhythmia,-5,125,PREMIER
+4148906,Spontaneous subarachnoid hemorrhage,-5,125,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,-5,125,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,125,PREMIER
+193782,End-stage renal disease,-5,125,PREMIER
+198985,Primary malignant neoplasm of kidney,-5,125,PREMIER
+201313,Hypertensive renal disease,-5,125,PREMIER
+252477,Extradural hemorrhage following injury without open intracranial wound,-5,125,PREMIER
+317576,Coronary arteriosclerosis,-5,125,PREMIER
+434293,Primary malignant neoplasm of body of pancreas,-5,125,PREMIER
+437233,Multiple myeloma,-5,125,PREMIER
+4001664,Intrahepatic bile duct carcinoma,-5,125,PREMIER
+4056478,Chronic nephritic syndrome,-5,125,PREMIER
+4298809,Nephritic syndrome,-5,125,PREMIER
+40486896,Primary malignant neoplasm of extrahepatic bile duct,-5,125,PREMIER
+42535425,Spontaneous hemorrhage of cerebral hemisphere,-5,125,PREMIER
+26638,Primary malignant neoplasm of esophagus,-5,125,PREMIER
+138994,Myelodysplastic syndrome,-5,125,PREMIER
+139750,Primary malignant neoplasm of skin,-5,125,PREMIER
+192359,Renal failure syndrome,-5,125,PREMIER
+193422,Primary malignant neoplasm of body of stomach,-5,125,PREMIER
+195314,Nephrotic syndrome,-5,125,PREMIER
+197806,Primary malignant neoplasm of gallbladder,-5,125,PREMIER
+200962,Primary malignant neoplasm of prostate,-5,125,PREMIER
+319034,Hypertensive heart disease without congestive heart failure,-5,125,PREMIER
+319835,Congestive heart failure,-5,125,PREMIER
+320744,Complete atrioventricular block,-5,125,PREMIER
+321319,Cardiomyopathy,-5,125,PREMIER
+376112,Diabetic polyneuropathy,-5,125,PREMIER
+443587,Diastolic heart failure,-5,125,PREMIER
+443727,Diabetic ketoacidosis,-5,125,PREMIER
+443734,Ketoacidosis in type 2 diabetes mellitus,-5,125,PREMIER
+443962,Mitral valve regurgitation,-5,125,PREMIER
+4038838,Non-Hodgkin's lymphoma,-5,125,PREMIER
+4049659,Subcortical hemorrhage,-5,125,PREMIER
+4120088,Cardiac arrest with successful resuscitation,-5,125,PREMIER
+4127089,Coronary artery spasm,-5,125,PREMIER
+4137220,Diabetic glomerulonephritis,-5,125,PREMIER
+4185572,Ventricular arrhythmia,-5,125,PREMIER
+37016924,Dissection of cerebral artery,-5,125,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,125,PREMIER
+44784217,Cardiac arrhythmia,-5,125,PREMIER
+44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,-5,125,PREMIER
+24296,Primary malignant neoplasm of pituitary gland,-5,125,PREMIER
+74582,Primary malignant neoplasm of rectum,-5,125,PREMIER
+134603,Chronic myeloid leukemia,-5,125,PREMIER
+135750,Primary malignant neoplasm of floor of mouth,-5,125,PREMIER
+136917,Primary malignant neoplasm of skin of face,-5,125,PREMIER
+195480,Primary malignant neoplasm of renal pelvis,-5,125,PREMIER
+196359,Primary malignant neoplasm of uterine cervix,-5,125,PREMIER
+196360,Primary malignant neoplasm of bladder,-5,125,PREMIER
+201519,Primary malignant neoplasm of liver,-5,125,PREMIER
+252365,Membranous glomerulonephritis,-5,125,PREMIER
+314658,Cardiomegaly,-5,125,PREMIER
+314666,Old myocardial infarction,-5,125,PREMIER
+318776,Rheumatic mitral regurgitation,-5,125,PREMIER
+319844,Acute ischemic heart disease,-5,125,PREMIER
+432837,Primary malignant neoplasm of cecum,-5,125,PREMIER
+435752,Primary malignant neoplasm of duodenum,-5,125,PREMIER
+435755,Primary malignant neoplasm of skin of eyelid,-5,125,PREMIER
+436635,Primary malignant neoplasm of sigmoid colon,-5,125,PREMIER
+438383,Essential thrombocythemia,-5,125,PREMIER
+439727,Human immunodeficiency virus infection,-5,125,PREMIER
+439834,Rheumatic aortic regurgitation,-5,125,PREMIER
+441805,Primary malignant neoplasm of endocervix,-5,125,PREMIER
+442793,Diabetic complication,-5,125,PREMIER
+443733,Disorder of eye with type 2 diabetes mellitus,-5,125,PREMIER
+4002357,"Follicular non-Hodgkin's lymphoma, small cleaved cell",-5,125,PREMIER
+4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",-5,125,PREMIER
+4095312,Malignant tumor of nasopharynx,-5,125,PREMIER
+4110185,"Intracerebral hemorrhage, intraventricular",-5,125,PREMIER
+4147411,Follicular non-Hodgkin's lymphoma,-5,125,PREMIER
+4162253,Primary malignant neoplasm of breast,-5,125,PREMIER
+4169095,Bradycardia,-5,125,PREMIER
+4188545,Primary malignant neoplasm of breast lower outer quadrant,-5,125,PREMIER
+4226238,Hyperosmolar coma due to diabetes mellitus,-5,125,PREMIER
+4247238,Primary malignant neoplasm of endometrium,-5,125,PREMIER
+4247719,Primary malignant neoplasm of ascending colon,-5,125,PREMIER
+4272486,Diffuse crescentic glomerulonephritis,-5,125,PREMIER
+4311499,Primary malignant neoplasm of respiratory tract,-5,125,PREMIER
+36717156,Acidosis due to type 2 diabetes mellitus,-5,125,PREMIER
+37017432,Polyneuropathy due to type 2 diabetes mellitus,-5,125,PREMIER
+42535426,Acute nontraumatic subdural hemorrhage,-5,125,PREMIER
+42539269,Spontaneous hemorrhage of brain stem,-5,125,PREMIER
+44793113,Diabetes mellitus with multiple complications,-5,125,PREMIER
+45757535,Microalbuminuria due to type 1 diabetes mellitus,-5,125,PREMIER
+44790261,Ultrasound monitoring of early pregnancy,22,199,PREMIER
+74104,Fetal condition affecting obstetrical care of mother,17,199,PREMIER
+80165,Fetal disproportion,15,199,PREMIER
+76482,Missed miscarriage,13,199,PREMIER
+4028913,Ultrasound procedure on female genital system AND/OR pregnancy related structure,12,199,PREMIER
+440457,Threatened miscarriage,11,199,PREMIER
+4327042,Fetal electrocardiogram,9,199,PREMIER
+4112701,Prenatal examination and care of mother,8,199,PREMIER
+4311671,Episiotomy,8,199,PREMIER
+4024659,Gestational diabetes mellitus,6,199,PREMIER
+4060556,"Uterine scar from previous surgery in pregnancy, childbirth and the puerperium",6,199,PREMIER
+4066112,Delivery by emergency cesarean section,6,199,PREMIER
+4205240,Spontaneous vertex delivery,6,199,PREMIER
+194702,Premature rupture of membranes,5,199,PREMIER
+4082534,Ultrasonography for antepartum monitoring of fetus,5,199,PREMIER
+441641,Delivery normal,-5,199,PREMIER
+4307820,Unplanned pregnancy,-5,199,PREMIER
+4150970,Medical induction of labor,-5,199,PREMIER
+72693,Poor fetal growth affecting management,-5,199,PREMIER
+196758,Tumor of body of uterus affecting pregnancy,-5,199,PREMIER
+40539858,Pregnancy with abortive outcome,-5,199,PREMIER
+74698,Breech presentation,-5,199,PREMIER
+197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,-5,199,PREMIER
+198488,Placental abruption,-5,199,PREMIER
+434708,Cord around neck with compression,-5,199,PREMIER
+440795,Complication occurring during labor and delivery,-5,199,PREMIER
+444114,Maternal AND/OR fetal condition affecting labor AND/OR delivery,-5,199,PREMIER
+4034088,Partial hydatidiform mole,-5,199,PREMIER
+4170448,Intrauterine hypoxia,-5,199,PREMIER
+4299535,Pregnant,-5,199,PREMIER
+36712703,Preterm labor without delivery,-5,199,PREMIER
+81636,Excessive fetal growth affecting management of mother,-5,199,PREMIER
+434111,Oligohydramnios,-5,199,PREMIER
+436166,Mild hyperemesis gravidarum,-5,199,PREMIER
+436176,Miscarriage without complication,-5,199,PREMIER
+437611,Ectopic pregnancy,-5,199,PREMIER
+439658,Disorder of pregnancy,-5,199,PREMIER
+440216,Abnormal glucose tolerance test,-5,199,PREMIER
+441919,Twin pregnancy,-5,199,PREMIER
+4062557,False labor,-5,199,PREMIER
+4126390,Finding of pattern of delivery,-5,199,PREMIER
+4167493,Pregnancy-induced hypertension,-5,199,PREMIER
+4171113,Fetal growth abnormality,-5,199,PREMIER
+43531007,Pre-existing diabetes mellitus in pregnancy,-5,199,PREMIER
+44784551,Preterm spontaneous labor with term delivery,-5,199,PREMIER
+3020891,Body temperature,766,200,PREMIER
+437663,Fever,618,200,PREMIER
+254761,Cough,139,200,PREMIER
+312437,Dyspnea,139,200,PREMIER
+439926,Malaise and fatigue,45,200,PREMIER
+442752,Muscle pain,42,200,PREMIER
+4125937,Myalgia/myositis - multiple,16,200,PREMIER
+4185711,Loss of sense of smell,10,200,PREMIER
+4126064,Myalgia/myositis - ankle/foot,5,200,PREMIER
+433596,Abnormal sputum,-5,200,PREMIER
+4121597,Myalgia/myositis - shoulder,-5,200,PREMIER
+443611,Chronic kidney disease stage 5,57,203,PREMIER
+443614,Chronic kidney disease stage 1,35,203,PREMIER
+443612,Chronic kidney disease stage 4,32,203,PREMIER
+443597,Chronic kidney disease stage 3,21,203,PREMIER
+46271022,Chronic kidney disease,20,203,PREMIER
+443919,Hypertensive renal failure,16,203,PREMIER
+45769905,Microalbuminuria due to type 2 diabetes mellitus,15,203,PREMIER
+443731,Renal disorder due to type 2 diabetes mellitus,10,203,PREMIER
+4137220,Diabetic glomerulonephritis,5,203,PREMIER
+4056478,Chronic nephritic syndrome,-5,203,PREMIER
+4298809,Nephritic syndrome,-5,203,PREMIER
+193782,End-stage renal disease,-5,203,PREMIER
+201313,Hypertensive renal disease,-5,203,PREMIER
+192359,Renal failure syndrome,-5,203,PREMIER
+195314,Nephrotic syndrome,-5,203,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,203,PREMIER
+192279,Kidney disorder due to diabetes mellitus,-5,203,PREMIER
+200687,Renal disorder associated with type 1 diabetes mellitus,-5,203,PREMIER
+252365,Membranous glomerulonephritis,-5,203,PREMIER
+4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",-5,203,PREMIER
+4128221,Microalbuminuric diabetic nephropathy,-5,203,PREMIER
+4272486,Diffuse crescentic glomerulonephritis,-5,203,PREMIER
+45757535,Microalbuminuria due to type 1 diabetes mellitus,-5,203,PREMIER
+443611,Chronic kidney disease stage 5,165,204,PREMIER
+443919,Hypertensive renal failure,27,204,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,6,204,PREMIER
+193782,End-stage renal disease,-5,204,PREMIER
+45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,-5,204,PREMIER
+439727,Human immunodeficiency virus infection,-5,205,PREMIER
+253954,Pulmonary tuberculosis,10,206,PREMIER
+4091167,"Tuberculosis of lung, bacteriologically and histologically negative",8,206,PREMIER
+45771090,Respiratory tuberculosis,-5,206,PREMIER
+255454,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",-5,206,PREMIER
+261495,Tuberculosis of pleura,-5,206,PREMIER
+4090539,"Tuberculous pleurisy, confirmed bacteriologically and histologically",-5,206,PREMIER

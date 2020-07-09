@@ -1,0 +1,318 @@
+cohort_id,concept_set_id,concept_set_name,concept_count,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,database_id
+100,0,Type 2 Diabetes Mellitus,-5,4224709,Multiple complications of type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422228004,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,17,4223303,Gangrene associated with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420825003,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,20,36713094,Peripheral angiopathy due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,31211000119101,2017-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,32,200687,Renal disorder associated with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,421893009,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,25,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90771000119100,2015-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,9,30968,Diabetes insipidus,Condition,SNOMED,Clinical Finding,S,15771004,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,90,4024659,Gestational diabetes mellitus,Condition,SNOMED,Clinical Finding,S,11687002,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,17,45757507,Foot ulcer due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,164881000119109,2015-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,13,45763584,Proliferative retinopathy with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,60971000119101,2015-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,6,45769832,Diabetic dermopathy due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,72021000119109,2015-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,403,36716933,Background retinopathy due to impaired glucose regulation,Condition,SNOMED,Clinical Finding,S,723169001,2017-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,7,201254,Type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,46635009,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,7,37016767,Autonomic neuropathy with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,712882000,2016-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,-5,435216,Disorder due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420868002,1970-01-01,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,24,44784458,Education about self management of diabetes,Procedure,SNOMED,Procedure,S,698610002,2014-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,-5,45757535,Microalbuminuria due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,18521000119106,2015-01-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,14,43531007,Pre-existing diabetes mellitus in pregnancy,Condition,SNOMED,Clinical Finding,S,609563008,2013-07-31,2099-12-31,NA,PREMIER
+100,0,Type 2 Diabetes Mellitus,8,443412,Type 1 diabetes mellitus without complication,Condition,SNOMED,Clinical Finding,S,313435000,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,1644,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,2015-01-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,862,443731,Renal disorder due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420279001,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,420,443729,Peripheral circulatory disorder associated with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422166005,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,776,201530,Type 2 diabetes mellitus with hyperosmolar coma,Condition,SNOMED,Clinical Finding,S,190331003,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,1227,4193704,Type 2 diabetes mellitus without complication,Condition,SNOMED,Clinical Finding,S,313436004,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,1054,45769905,Microalbuminuria due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90781000119102,2015-01-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,2719,4099216,Type 2 diabetes mellitus with multiple complications,Condition,SNOMED,Clinical Finding,S,190388001,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,15,43530685,Proliferative retinopathy with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,1501000119109,2013-07-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,1307,443732,Disorder due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422014003,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,13,37016768,Autonomic neuropathy with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,712883005,2016-01-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,13,4222415,Mononeuropathy with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420436000,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,13,443733,Disorder of eye with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422099009,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,8,4222876,Gangrene associated with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,421631007,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,8,4200875,Type 2 diabetes mellitus with peripheral angiopathy,Condition,SNOMED,Clinical Finding,S,314902007,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,-5,443734,Ketoacidosis in type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,421750000,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,22,45757363,Hypoglycemia due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,120731000119103,2015-01-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,327,376065,Neurological disorder with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,421326000,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,173,43530656,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,1551000119108,2013-07-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,34,4226121,Retinopathy with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422034002,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,678,37017432,Polyneuropathy due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,713706002,2016-01-31,2099-12-31,NA,PREMIER
+100,1,History of diabetes,21,201826,Type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,44054006,1970-01-01,2099-12-31,NA,PREMIER
+100,1,History of diabetes,14,36717156,Acidosis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,721284006,2017-01-31,2099-12-31,NA,PREMIER
+101,0,Hypertension,25,4167493,Pregnancy-induced hypertension,Condition,SNOMED,Clinical Finding,S,48194001,1970-01-01,2099-12-31,NA,PREMIER
+119,2,"COPD mono-therapy
+",1710,42921875,2 ML Ipratropium 0.25 MG/ML Inhalant Solution [ATROVENT UDV],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4648694,2018-08-21,2099-12-31,NA,PREMIER
+119,3,Asthma,-5,4062501,Asthma screening,Procedure,SNOMED,Procedure,S,171231001,1970-01-01,2099-12-31,NA,PREMIER
+120,3,LAMA,6,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,2018-08-21,2099-12-31,NA,PREMIER
+120,3,LAMA,6,42920049,30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Anoro],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646906,2018-08-21,2099-12-31,NA,PREMIER
+120,3,LAMA,25,42919644,60 ACTUAT aclidinium 0.400000000000000022 MG/ACTUAT Nasal Spray [EKLIRA GENUAIR],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646507,2018-08-21,2099-12-31,NA,PREMIER
+120,3,LAMA,9,42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646529,2018-08-21,2099-12-31,NA,PREMIER
+120,3,LAMA,36,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646520,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,75,42919217,120 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646088,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,-5,42919252,100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646121,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,25,42919644,60 ACTUAT aclidinium 0.400000000000000022 MG/ACTUAT Nasal Spray [EKLIRA GENUAIR],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646507,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,9,42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646529,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,6,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,36,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646520,2018-08-21,2099-12-31,NA,PREMIER
+120,4,Asthma therapy,6,42920049,30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Anoro],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646906,2018-08-21,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,-5,197329,Acute renal failure due to acute cortical necrosis,Condition,SNOMED,Clinical Finding,S,429224003,2008-01-31,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,-5,74080,Orthostatic proteinuria,Condition,SNOMED,Clinical Finding,S,32482005,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,4229,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,271,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,67,36712846,Persistent proteinuria,Condition,SNOMED,Clinical Finding,S,12511000132108,2017-01-31,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,67,36712845,Isolated proteinuria,Condition,SNOMED,Clinical Finding,S,12491000132101,2017-01-31,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,482,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,49,4054992,Rapidly progressive nephritic syndrome,Condition,SNOMED,Clinical Finding,S,197689003,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,21,4189531,Acute nephritis,Condition,SNOMED,Clinical Finding,S,61503006,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,9,4177206,Tubulointerstitial nephritis,Condition,SNOMED,Clinical Finding,S,428255004,2008-01-31,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,5,4264718,Chronic interstitial nephritis,Condition,SNOMED,Clinical Finding,S,60926001,1970-01-01,2099-12-31,NA,PREMIER
+102,0,Chronic kidney disease,-5,45757466,Acute renal failure due to tubular necrosis,Condition,SNOMED,Clinical Finding,S,145681000119101,2015-01-31,2099-12-31,NA,PREMIER
+102,1,Dialysis,62,4183419,Arteriovenous shunt for renal dialysis by external cannula,Procedure,SNOMED,Procedure,S,54817007,1970-01-01,2099-12-31,NA,PREMIER
+102,1,Dialysis,-5,4070976,Mechanical complication of dialysis catheter,Condition,SNOMED,Clinical Finding,S,17778006,1970-01-01,2099-12-31,NA,PREMIER
+102,1,Dialysis,1644,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,2015-01-31,2099-12-31,NA,PREMIER
+102,1,Dialysis,9,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,180272001,1970-01-01,2099-12-31,NA,PREMIER
+102,1,Dialysis,142,4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED,Procedure,S,63421002,1970-01-01,2099-12-31,NA,PREMIER
+102,1,Dialysis,-5,42539666,Insertion of tunneled hemodialysis catheter,Procedure,SNOMED,Procedure,S,736922008,2018-01-31,2099-12-31,NA,PREMIER
+102,1,Dialysis,25,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90771000119100,2015-01-31,2099-12-31,NA,PREMIER
+102,1,Dialysis,126,4197217,Arteriovenous anastomosis for renal dialysis,Procedure,SNOMED,Procedure,S,79827002,1970-01-01,2099-12-31,NA,PREMIER
+102,1,Dialysis,12,4235076,Replacement of peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,438342006,2009-01-31,2099-12-31,NA,PREMIER
+103,1,Dialysis,9,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,180272001,1970-01-01,2099-12-31,NA,PREMIER
+103,1,Dialysis,-5,4070976,Mechanical complication of dialysis catheter,Condition,SNOMED,Clinical Finding,S,17778006,1970-01-01,2099-12-31,NA,PREMIER
+103,1,Dialysis,62,4183419,Arteriovenous shunt for renal dialysis by external cannula,Procedure,SNOMED,Procedure,S,54817007,1970-01-01,2099-12-31,NA,PREMIER
+103,1,Dialysis,25,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90771000119100,2015-01-31,2099-12-31,NA,PREMIER
+103,1,Dialysis,-5,42539666,Insertion of tunneled hemodialysis catheter,Procedure,SNOMED,Procedure,S,736922008,2018-01-31,2099-12-31,NA,PREMIER
+103,1,Dialysis,1644,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,2015-01-31,2099-12-31,NA,PREMIER
+103,1,Dialysis,142,4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED,Procedure,S,63421002,1970-01-01,2099-12-31,NA,PREMIER
+103,1,Dialysis,12,4235076,Replacement of peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,438342006,2009-01-31,2099-12-31,NA,PREMIER
+103,1,Dialysis,126,4197217,Arteriovenous anastomosis for renal dialysis,Procedure,SNOMED,Procedure,S,79827002,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,-5,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,Procedure,S,443355007,2010-01-31,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,8,132553,Herpangina,Condition,SNOMED,Clinical Finding,S,186659004,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,-5,4138837,Pericarditis,Condition,SNOMED,Clinical Finding,S,3238004,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,-5,4049987,Radiofrequency ablation operation for arrhythmia,Procedure,SNOMED,Procedure,S,233163003,1970-01-01,2099-12-31,NA,PREMIER
+104,5,Heart disease conditions,34,320116,Acute pericarditis,Condition,SNOMED,Clinical Finding,S,15555002,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,200562,Traumatic pneumohemothorax without open wound into thorax,Condition,SNOMED,Clinical Finding,S,59190009,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,29,138996,Carcinoma in situ of skin,Condition,SNOMED,Clinical Finding,S,92749008,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,444206,Arthropathy of pelvis,Condition,SNOMED,Clinical Finding,S,128268005,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,540,42529201,Cancer Ag 19-9 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83084-4,2017-02-21,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,253896,Traumatic pneumothorax without open wound into thorax,Condition,SNOMED,Clinical Finding,S,3903005,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,2791494,"Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS,ICD10PCS,S,BR3CY0Z,2014-04-22,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,108,44783158,Arthritis of pelvis,Condition,SNOMED,Clinical Finding,S,699207005,2014-01-31,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,357,37016875,Plain radiography of pelvis,Procedure,SNOMED,Procedure,S,713021002,2016-01-31,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4055629,Radiography of mandible,Procedure,SNOMED,Procedure,S,19589009,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,258895,Injury of lung without open wound into thorax,Condition,SNOMED,Clinical Finding,S,24350003,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,22,432594,Osteomalacia,Condition,SNOMED,Clinical Finding,S,4598005,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,30,4013613,Fracture of lumbar spine and/or pelvis,Condition,SNOMED,Clinical Finding,S,207986006,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,15,4001670,Intraductal carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,109889007,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,8,193308,Congenital anomaly of spleen,Condition,SNOMED,Clinical Finding,S,57497006,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,7,194611,Carcinoma in situ of uterine cervix,Condition,SNOMED,Clinical Finding,S,92564006,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,505,4327032,CT of thorax with contrast,Procedure,SNOMED,Procedure,S,75385009,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4135466,Hemothorax,Condition,SNOMED,Clinical Finding,S,31892009,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,255302,Spontaneous pneumothorax,Condition,SNOMED,Clinical Finding,S,80423007,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4304092,CT of abdomen and pelvis,Procedure,SNOMED,Procedure,S,419394006,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,192855,Cancer in situ of urinary bladder,Condition,SNOMED,Clinical Finding,S,92546004,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,21,81250,Carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,189336000,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,195513,Carcinoma in situ of vagina,Condition,SNOMED,Clinical Finding,S,92791005,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,24,197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,Condition,SNOMED,Clinical Finding,S,1639007,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,260,42529199,Cancer Ag 125 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83082-8,2017-02-21,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,6,81378,Chondromalacia of patella,Condition,SNOMED,Clinical Finding,S,36071006,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4001125,Infective myositis of pelvis,Condition,SNOMED,Clinical Finding,S,203015004,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4032594,Inflammation of scrotum,Condition,SNOMED,Clinical Finding,S,236781003,1970-01-01,2099-12-31,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,41,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,9679-2,1996-11-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",48,4066112,Delivery by emergency cesarean section,Condition,SNOMED,Clinical Finding,S,200149009,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",22,435604,"Viral disease in mother complicating pregnancy, childbirth AND/OR puerperium",Condition,SNOMED,Clinical Finding,S,31516002,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",21,4061457,Delivery by elective cesarean section,Condition,SNOMED,Clinical Finding,S,200148001,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",101,4060556,"Uterine scar from previous surgery in pregnancy, childbirth and the puerperium",Condition,SNOMED,Clinical Finding,S,199461004,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,4060424,"Mental disorders during pregnancy, childbirth and the puerperium",Condition,SNOMED,Clinical Finding,S,199257008,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,373766,Retinopathy of prematurity,Condition,SNOMED,Clinical Finding,S,415297005,1970-01-01,2099-12-31,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",132,440457,Threatened miscarriage,Condition,SNOMED,Clinical Finding,S,54048003,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",119,258866,Respiratory distress syndrome in the newborn,Condition,SNOMED,Clinical Finding,S,46775006,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4033450,Steatocystoma multiplex,Condition,SNOMED,Clinical Finding,S,109433009,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,435376,Multiple fractures involving skull and facial bones,Condition,SNOMED,Clinical Finding,S,207881000,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4210438,Closed multiple fractures of clavicle and/or scapula and/or humerus,Condition,SNOMED,Clinical Finding,S,311816000,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4052655,Multiple superficial injuries of lower leg,Condition,SNOMED,Clinical Finding,S,211384000,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4232708,Partial hysterectomy for removal of cornual ectopic pregnancy,Procedure,SNOMED,Procedure,S,440148001,2009-01-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",13,4195310,Minnesota multiphasic personality inventory,Procedure,SNOMED,Procedure,S,44575007,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4147593,Phototherapy of newborn,Procedure,SNOMED,Procedure,S,35683002,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",18,3021584,Pregnancy associated plasma protein A [Units/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,32046-5,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",183,4125937,Myalgia/myositis - multiple,Condition,SNOMED,Clinical Finding,S,288225004,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",38,4058494,Superficial injuries involving multiple body regions,Condition,SNOMED,Clinical Finding,S,211468002,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,376395,Mononeuritis multiplex,Condition,SNOMED,Clinical Finding,S,30292005,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,46270041,Sepsis of newborn due to group B Streptococcus,Condition,SNOMED,Clinical Finding,S,127091000119100,2015-07-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,318247,Apnea in the newborn,Condition,SNOMED,Clinical Finding,S,13094009,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",12,4050699,Multiple superficial injuries of head,Condition,SNOMED,Clinical Finding,S,211024005,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",23,437233,Multiple myeloma,Condition,SNOMED,Clinical Finding,S,109989006,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4224709,Multiple complications of type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422228004,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",353,4220238,Multiple congenital cysts of kidney,Condition,SNOMED,Clinical Finding,S,82525005,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",408,444094,Finding related to pregnancy,Condition,SNOMED,Clinical Finding,S,118185001,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",7,4128914,Fracture of multiple ribs,Condition,SNOMED,Clinical Finding,S,1261007,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",6,4115163,Synovitis/tenosynovitis - multiple joints,Condition,SNOMED,Clinical Finding,S,287016002,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",58,3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine,Measurement,LOINC,Lab Test,S,2106-3,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",89,44793113,Diabetes mellitus with multiple complications,Condition,SNOMED,Clinical Finding,S,385041000000108,2014-04-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4054885,Open wounds involving multiple regions of lower limb(s),Condition,SNOMED,Clinical Finding,S,210773002,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",2719,4099216,Type 2 diabetes mellitus with multiple complications,Condition,SNOMED,Clinical Finding,S,190388001,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,42872540,High ligation and stripping of long saphenous vein and multiple avulsions of varicose veins,Procedure,SNOMED,Procedure,S,450531005,2012-07-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",13,45757490,Pregnancy not yet confirmed,Condition,SNOMED,Clinical Finding,S,152231000119106,2015-01-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",416,4117686,Rheumatoid arthritis of multiple joints,Condition,SNOMED,Clinical Finding,S,287006005,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",20,46270468,Gout of multiple sites due to renal impairment,Condition,SNOMED,Clinical Finding,S,308901000119105,2015-07-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",95,440417,Pulmonary embolism,Condition,SNOMED,Clinical Finding,S,59282003,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,435123,Injury of nerve roots AND/OR spinal plexus of multiple sites,Condition,SNOMED,Clinical Finding,S,33411003,1970-01-01,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",593,762446,Arthropathy of multiple joints,Condition,SNOMED,Clinical Finding,S,36941000119103,2018-01-31,2099-12-31,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4126065,Neuralgia/neuritis - multiple,Condition,SNOMED,Clinical Finding,NA,288233003,1970-01-01,2020-03-08,U,PREMIER
+106,15,HIV drugs,-5,43291037,fosaprepitant 150 MG Injection [Emend],Drug,RxNorm Extension,Branded Drug,S,OMOP556781,2017-08-24,2099-12-31,NA,PREMIER
+117,6,All TB drugs,29,42948267,Ciprofloxacin 500 MG Oral Tablet [BEARCIN],Drug,RxNorm Extension,Branded Drug,S,OMOP4674859,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,12,42948155,Ciprofloxacin 250 MG Oral Tablet [BEARCIN],Drug,RxNorm Extension,Branded Drug,S,OMOP4674744,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,-5,42920879,7 ML Ciprofloxacin 2 MG/ML / Hydrocortisone 10 MG/ML Otic Suspension [CIPROCIN HC OTIC SUSP],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4647719,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,-5,42948179,Ciprofloxacin 250 MG Oral Tablet [CITOPCIN],Drug,RxNorm Extension,Branded Drug,S,OMOP4674768,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,-5,42948272,Ciprofloxacin 500 MG Extended Release Oral Tablet [CIPROURO],Drug,RxNorm Extension,Branded Drug,S,OMOP4674864,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,-5,19075376,Ciprofloxacin 2 MG/ML / Hydrocortisone 10 MG/ML Otic Suspension,Drug,RxNorm,Clinical Drug,S,309305,1970-01-01,2099-12-31,NA,PREMIER
+117,6,All TB drugs,742,42918949,200 ML Ciprofloxacin 2 MG/ML Injectable Solution [CITOPCIN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4645826,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,484,41097844,Ciprofloxacin 250 MG Oral Tablet [Ciprobay],Drug,RxNorm Extension,Branded Drug,S,OMOP2295806,2017-08-24,2099-12-31,NA,PREMIER
+117,6,All TB drugs,186,46287383,Ciprofloxacin 2 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1665211,2015-10-05,2099-12-31,NA,PREMIER
+117,6,All TB drugs,141,42919374,100 ML Ciprofloxacin 2 MG/ML Injectable Solution [CITOPCIN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646242,2018-08-21,2099-12-31,NA,PREMIER
+117,6,All TB drugs,49,21153119,mesalamine 1000 MG Extended Release Oral Tablet [Pentasa],Drug,RxNorm Extension,Branded Drug,S,OMOP405875,2017-08-24,2099-12-31,NA,PREMIER
+117,6,All TB drugs,97,36304372,Mycobacterium tuberculosis complex rpoB gene rifAMPin resistance mutation [Presence] by Molecular method,Measurement,LOINC,Lab Test,S,89372-7,2018-06-15,2099-12-31,NA,PREMIER
+117,6,All TB drugs,11,3036152,Amikacin [Mass/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,35669-1,2004-04-02,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,-5,196019,"Tuberculosis of intestines, peritoneum and mesenteric glands",Condition,SNOMED,Clinical Finding,S,186225008,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,321,3027813,Mycobacterium tuberculosis DNA [Presence] in Sputum by NAA with probe detection,Measurement,LOINC,Lab Test,S,14556-5,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,37,3046425,Mycobacterium tuberculosis tuberculin stimulated gamma interferon [Presence] in Blood,Measurement,LOINC,Lab Test,S,45323-3,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,17,3028048,Mycobacterium tuberculosis DNA [Presence] in Bronchial specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,14557-3,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,97,36304372,Mycobacterium tuberculosis complex rpoB gene rifAMPin resistance mutation [Presence] by Molecular method,Measurement,LOINC,Lab Test,S,89372-7,2018-06-15,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,54,3009944,Mycobacterium tuberculosis DNA [Presence] in Pleural fluid by NAA with probe detection,Measurement,LOINC,Lab Test,S,14559-9,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,47,439743,Late effects of respiratory tuberculosis,Condition,SNOMED,Clinical Finding,S,187252008,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,24,81496,Tuberculosis of vertebral column,Condition,SNOMED,Clinical Finding,S,35984006,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,5,134851,Tuberculosis of intrathoracic lymph nodes,Condition,SNOMED,Clinical Finding,S,78436002,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,-5,434559,Miliary tuberculosis,Condition,SNOMED,Clinical Finding,S,47604008,1970-01-01,2099-12-31,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,-5,438673,Tuberculosis of bones and/or joints,Condition,SNOMED,Clinical Finding,S,17653001,1970-01-01,2099-12-31,NA,PREMIER
+107,5,Hepatitis C,57,3018447,Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,Measurement,LOINC,Lab Test,S,11011-4,1970-01-01,2099-12-31,NA,PREMIER
+107,5,Hepatitis C,2505,3017143,Hepatitis C virus Ab [Presence] in Serum,Measurement,LOINC,Lab Test,S,16128-1,1998-06-04,2099-12-31,NA,PREMIER
+107,5,Hepatitis C,37,4015842,Viral hepatitis carrier,Condition,SNOMED,Clinical Finding,S,170489004,1970-01-01,2099-12-31,NA,PREMIER
+108,1,obesity diagnoses,17,21600695,Other antiobesity drugs,Drug,ATC,ATC 4th,C,A08AX,1970-01-01,2099-12-31,NA,PREMIER
+108,2,body weight,190,4260263,Diffusion weighted magnetic resonance imaging,Procedure,SNOMED,Procedure,S,440408002,2009-01-31,2099-12-31,NA,PREMIER
+108,2,body weight,35,4171115,Low birth weight infant,Condition,SNOMED,Clinical Finding,S,276610007,1970-01-01,2099-12-31,NA,PREMIER
+109,0,Dementia,39,45763923,Assessment of psychotic and behavioral symptoms of dementia,Procedure,SNOMED,Procedure,S,700464008,2015-01-31,2099-12-31,NA,PREMIER
+109,0,Dementia,49,4012809,Dementia test,Procedure,SNOMED,Procedure,S,165320004,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,9,4177206,Tubulointerstitial nephritis,Condition,SNOMED,Clinical Finding,S,428255004,2008-01-31,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,5,4264718,Chronic interstitial nephritis,Condition,SNOMED,Clinical Finding,S,60926001,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,-5,197329,Acute renal failure due to acute cortical necrosis,Condition,SNOMED,Clinical Finding,S,429224003,2008-01-31,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,-5,74080,Orthostatic proteinuria,Condition,SNOMED,Clinical Finding,S,32482005,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,271,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,-5,45757466,Acute renal failure due to tubular necrosis,Condition,SNOMED,Clinical Finding,S,145681000119101,2015-01-31,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,4229,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,482,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,21,4189531,Acute nephritis,Condition,SNOMED,Clinical Finding,S,61503006,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,67,36712845,Isolated proteinuria,Condition,SNOMED,Clinical Finding,S,12491000132101,2017-01-31,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,49,4054992,Rapidly progressive nephritic syndrome,Condition,SNOMED,Clinical Finding,S,197689003,1970-01-01,2099-12-31,NA,PREMIER
+125,0,Chronic kidney disease,67,36712846,Persistent proteinuria,Condition,SNOMED,Clinical Finding,S,12511000132108,2017-01-31,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),-5,4047747,Subcortical vascular dementia,Condition,SNOMED,Clinical Finding,S,230286002,1970-01-01,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),25,4112026,Sequelae of cerebral infarction,Condition,SNOMED,Clinical Finding,S,195243003,1970-01-01,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),55,4111720,Sequelae of subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,195240000,1970-01-01,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),34,4111721,Sequelae of intracerebral hemorrhage,Condition,SNOMED,Clinical Finding,S,195241001,1970-01-01,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),148,373503,Transient cerebral ischemia,Condition,SNOMED,Clinical Finding,S,266257000,1970-01-01,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),69,443605,Vascular dementia,Condition,SNOMED,Clinical Finding,S,429998004,2009-01-31,2099-12-31,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),65,381316,Cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,230690007,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,258895,Injury of lung without open wound into thorax,Condition,SNOMED,Clinical Finding,S,24350003,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,253896,Traumatic pneumothorax without open wound into thorax,Condition,SNOMED,Clinical Finding,S,3903005,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,540,42529201,Cancer Ag 19-9 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83084-4,2017-02-21,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,200562,Traumatic pneumohemothorax without open wound into thorax,Condition,SNOMED,Clinical Finding,S,59190009,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4304092,CT of abdomen and pelvis,Procedure,SNOMED,Procedure,S,419394006,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,29,138996,Carcinoma in situ of skin,Condition,SNOMED,Clinical Finding,S,92749008,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,357,37016875,Plain radiography of pelvis,Procedure,SNOMED,Procedure,S,713021002,2016-01-31,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,15,4001670,Intraductal carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,109889007,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,24,197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,Condition,SNOMED,Clinical Finding,S,1639007,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,505,4327032,CT of thorax with contrast,Procedure,SNOMED,Procedure,S,75385009,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,444206,Arthropathy of pelvis,Condition,SNOMED,Clinical Finding,S,128268005,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4135466,Hemothorax,Condition,SNOMED,Clinical Finding,S,31892009,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,8,193308,Congenital anomaly of spleen,Condition,SNOMED,Clinical Finding,S,57497006,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,2791494,"Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS,ICD10PCS,S,BR3CY0Z,2014-04-22,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,6,81378,Chondromalacia of patella,Condition,SNOMED,Clinical Finding,S,36071006,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,30,4013613,Fracture of lumbar spine and/or pelvis,Condition,SNOMED,Clinical Finding,S,207986006,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4055629,Radiography of mandible,Procedure,SNOMED,Procedure,S,19589009,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,255302,Spontaneous pneumothorax,Condition,SNOMED,Clinical Finding,S,80423007,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,108,44783158,Arthritis of pelvis,Condition,SNOMED,Clinical Finding,S,699207005,2014-01-31,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,21,81250,Carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,189336000,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,195513,Carcinoma in situ of vagina,Condition,SNOMED,Clinical Finding,S,92791005,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4032594,Inflammation of scrotum,Condition,SNOMED,Clinical Finding,S,236781003,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,22,432594,Osteomalacia,Condition,SNOMED,Clinical Finding,S,4598005,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,41,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,9679-2,1996-11-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4001125,Infective myositis of pelvis,Condition,SNOMED,Clinical Finding,S,203015004,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,7,194611,Carcinoma in situ of uterine cervix,Condition,SNOMED,Clinical Finding,S,92564006,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,192855,Cancer in situ of urinary bladder,Condition,SNOMED,Clinical Finding,S,92546004,1970-01-01,2099-12-31,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,260,42529199,Cancer Ag 125 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83082-8,2017-02-21,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,-5,4224709,Multiple complications of type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422228004,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,20,36713094,Peripheral angiopathy due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,31211000119101,2017-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,24,44784458,Education about self management of diabetes,Procedure,SNOMED,Procedure,S,698610002,2014-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,17,4223303,Gangrene associated with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420825003,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,13,45763584,Proliferative retinopathy with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,60971000119101,2015-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,9,30968,Diabetes insipidus,Condition,SNOMED,Clinical Finding,S,15771004,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,403,36716933,Background retinopathy due to impaired glucose regulation,Condition,SNOMED,Clinical Finding,S,723169001,2017-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,7,201254,Type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,46635009,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,7,37016767,Autonomic neuropathy with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,712882000,2016-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,6,45769832,Diabetic dermopathy due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,72021000119109,2015-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,-5,435216,Disorder due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,420868002,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,90,4024659,Gestational diabetes mellitus,Condition,SNOMED,Clinical Finding,S,11687002,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,32,200687,Renal disorder associated with type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,421893009,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,25,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90771000119100,2015-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,17,45757507,Foot ulcer due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,164881000119109,2015-01-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,14,43531007,Pre-existing diabetes mellitus in pregnancy,Condition,SNOMED,Clinical Finding,S,609563008,2013-07-31,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,8,443412,Type 1 diabetes mellitus without complication,Condition,SNOMED,Clinical Finding,S,313435000,1970-01-01,2099-12-31,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,-5,45757535,Microalbuminuria due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,18521000119106,2015-01-31,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,20,261600,Acute pulmonary edema,Condition,SNOMED,Clinical Finding,S,40541001,1970-01-01,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,14,4120088,Cardiac arrest with successful resuscitation,Condition,SNOMED,Clinical Finding,S,233927002,1970-01-01,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,16,321042,Cardiac arrest,Condition,SNOMED,Clinical Finding,S,410429000,1970-01-01,2099-12-31,NA,PREMIER
+125,5,Heart Failure ,190,319034,Hypertensive heart disease without congestive heart failure,Condition,SNOMED,Clinical Finding,S,60899001,1970-01-01,2099-12-31,NA,PREMIER
+125,6,Cardiac arrhythmia composite,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+125,6,Cardiac arrhythmia composite,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+125,6,Cardiac arrhythmia composite,-5,4049987,Radiofrequency ablation operation for arrhythmia,Procedure,SNOMED,Procedure,S,233163003,1970-01-01,2099-12-31,NA,PREMIER
+125,6,Cardiac arrhythmia composite,-5,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,Procedure,S,443355007,2010-01-31,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,-5,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,Procedure,S,443355007,2010-01-31,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,34,320116,Acute pericarditis,Condition,SNOMED,Clinical Finding,S,15555002,1970-01-01,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,8,132553,Herpangina,Condition,SNOMED,Clinical Finding,S,186659004,1970-01-01,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,-5,4138837,Pericarditis,Condition,SNOMED,Clinical Finding,S,3238004,1970-01-01,2099-12-31,NA,PREMIER
+125,7,Heart disease conditions,-5,4049987,Radiofrequency ablation operation for arrhythmia,Procedure,SNOMED,Procedure,S,233163003,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,60,44783205,Post traumatic osteoarthritis,Condition,SNOMED,Clinical Finding,S,699262001,2014-01-31,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,232,4079750,Osteoarthritis of knee,Condition,SNOMED,Clinical Finding,S,239873007,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,-5,4079749,Osteoarthritis of hip,Condition,SNOMED,Clinical Finding,S,239872002,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,416,4117686,Rheumatoid arthritis of multiple joints,Condition,SNOMED,Clinical Finding,S,287006005,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,-5,76784,Hemarthrosis,Condition,SNOMED,Clinical Finding,S,81808003,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,-5,4253901,Juvenile rheumatoid arthritis,Condition,SNOMED,Clinical Finding,S,410795001,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,48,4114585,"Primary gonarthrosis, bilateral",Condition,SNOMED,Clinical Finding,S,201841000,1970-01-01,2099-12-31,NA,PREMIER
+118,2,Rheumatoid arthritis,36,4003507,Degenerative arthritis of temporomandibular joint,Condition,SNOMED,Clinical Finding,S,109668000,1970-01-01,2099-12-31,NA,PREMIER
+118,8,Graves' disease,155,138717,Toxic diffuse goiter,Condition,SNOMED,Clinical Finding,S,267374005,1970-01-01,2099-12-31,NA,PREMIER
+118,9,Sjogren's syndrome,21,3019633,Sjogrens syndrome-A extractable nuclear Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,5351-2,1970-01-01,2099-12-31,NA,PREMIER
+118,9,Sjogren's syndrome,21,3005307,Sjogrens syndrome-B extractable nuclear Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,5353-8,1970-01-01,2099-12-31,NA,PREMIER
+118,10,Hashimoto thyroiditis,339,4281109,Autoimmune thyroiditis,Condition,SNOMED,Clinical Finding,S,66944004,1970-01-01,2099-12-31,NA,PREMIER
+118,10,Hashimoto thyroiditis,-5,4129364,Chronic thyroiditis with transient thyrotoxicosis,Condition,SNOMED,Clinical Finding,S,237538007,1970-01-01,2099-12-31,NA,PREMIER
+118,12,"
+
+Vasculitis",-5,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,1970-01-01,2099-12-31,NA,PREMIER
+118,12,"
+
+Vasculitis",11,46273631,Pulmonary disease due to allergic granulomatosis angiitis,Condition,SNOMED,Clinical Finding,S,317931000119101,2015-07-31,2099-12-31,NA,PREMIER
+118,14,Celiac disease,32,4186758,Celiac angiography,Procedure,SNOMED,Procedure,S,46480003,1970-01-01,2099-12-31,NA,PREMIER
+200,1,Fever (38.0?C or higher) pre-coordinated measurement and conditions,-5,4226022,Drug-induced hyperpyrexia,Condition,SNOMED,Clinical Finding,S,405543000,1970-01-01,2099-12-31,NA,PREMIER
+200,3,Cough,195,261889,Simple chronic bronchitis,Condition,SNOMED,Clinical Finding,S,61937009,1970-01-01,2099-12-31,NA,PREMIER
+200,3,Cough,83,261687,Hemoptysis,Condition,SNOMED,Clinical Finding,S,66857006,1970-01-01,2099-12-31,NA,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),-5,4147498,"Encephalitis, myelitis and encephalomyelitis",Condition,SNOMED,Clinical Finding,S,267576008,1970-01-01,2099-12-31,NA,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),-5,4189235,Third cranial nerve weakness,Condition,SNOMED,Clinical Finding,S,388980004,1970-01-01,2099-12-31,NA,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),29,76685,Myasthenia gravis,Condition,SNOMED,Clinical Finding,S,91637004,1970-01-01,2099-12-31,NA,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),15,4202045,Postviral fatigue syndrome,Condition,SNOMED,Clinical Finding,S,51771007,1970-01-01,2099-12-31,NA,PREMIER
+200,7,Myalgia,131,40405599,Fibromyalgia,Condition,SNOMED,Clinical Finding,S,203082005,1970-01-01,2099-12-31,NA,PREMIER
+200,7,Myalgia,-5,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,21,4189531,Acute nephritis,Condition,SNOMED,Clinical Finding,S,61503006,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,9,4177206,Tubulointerstitial nephritis,Condition,SNOMED,Clinical Finding,S,428255004,2008-01-31,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,-5,197329,Acute renal failure due to acute cortical necrosis,Condition,SNOMED,Clinical Finding,S,429224003,2008-01-31,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,-5,74080,Orthostatic proteinuria,Condition,SNOMED,Clinical Finding,S,32482005,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,5,4264718,Chronic interstitial nephritis,Condition,SNOMED,Clinical Finding,S,60926001,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,-5,45757466,Acute renal failure due to tubular necrosis,Condition,SNOMED,Clinical Finding,S,145681000119101,2015-01-31,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,482,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,271,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,67,36712846,Persistent proteinuria,Condition,SNOMED,Clinical Finding,S,12511000132108,2017-01-31,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,67,36712845,Isolated proteinuria,Condition,SNOMED,Clinical Finding,S,12491000132101,2017-01-31,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,49,4054992,Rapidly progressive nephritic syndrome,Condition,SNOMED,Clinical Finding,S,197689003,1970-01-01,2099-12-31,NA,PREMIER
+203,0,Chronic kidney disease,4229,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,1970-01-01,2099-12-31,NA,PREMIER

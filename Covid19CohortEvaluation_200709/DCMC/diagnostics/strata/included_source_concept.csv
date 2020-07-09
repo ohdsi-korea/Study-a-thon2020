@@ -1,0 +1,709 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+100,0,Type 2 Diabetes Mellitus,192279,Kidney disorder due to diabetes mellitus,NA,NA,NA,NA,-5,62,PREMIER
+100,0,Type 2 Diabetes Mellitus,201530,Type 2 diabetes mellitus with hyperosmolar coma,NA,NA,NA,NA,38,776,PREMIER
+100,0,Type 2 Diabetes Mellitus,201820,Diabetes mellitus,NA,NA,NA,NA,17,198,PREMIER
+100,0,Type 2 Diabetes Mellitus,201826,Type 2 diabetes mellitus,NA,NA,NA,NA,-5,21,PREMIER
+100,0,Type 2 Diabetes Mellitus,376065,Neurological disorder with type 2 diabetes mellitus,NA,NA,NA,NA,8,327,PREMIER
+100,0,Type 2 Diabetes Mellitus,376112,Diabetic polyneuropathy,NA,NA,NA,NA,41,841,PREMIER
+100,0,Type 2 Diabetes Mellitus,376979,Cataract due to diabetes mellitus,NA,NA,NA,NA,36,792,PREMIER
+100,0,Type 2 Diabetes Mellitus,380096,Proliferative retinopathy with diabetes mellitus,NA,NA,NA,NA,44,1927,PREMIER
+100,0,Type 2 Diabetes Mellitus,442793,Diabetic complication,NA,NA,NA,NA,6,46,PREMIER
+100,0,Type 2 Diabetes Mellitus,443727,Diabetic ketoacidosis,NA,NA,NA,NA,5,6,PREMIER
+100,0,Type 2 Diabetes Mellitus,443729,Peripheral circulatory disorder associated with type 2 diabetes mellitus,NA,NA,NA,NA,13,420,PREMIER
+100,0,Type 2 Diabetes Mellitus,443731,Renal disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,32,862,PREMIER
+100,0,Type 2 Diabetes Mellitus,443732,Disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,76,1307,PREMIER
+100,0,Type 2 Diabetes Mellitus,443733,Disorder of eye with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+100,0,Type 2 Diabetes Mellitus,443734,Ketoacidosis in type 2 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+100,0,Type 2 Diabetes Mellitus,4008576,Diabetes mellitus without complication,NA,NA,NA,NA,105,554,PREMIER
+100,0,Type 2 Diabetes Mellitus,4048028,Diabetic mononeuropathy,NA,NA,NA,NA,5,44,PREMIER
+100,0,Type 2 Diabetes Mellitus,4096671,Malnutrition-related diabetes mellitus with peripheral circulatory complications,NA,NA,NA,NA,-5,37,PREMIER
+100,0,Type 2 Diabetes Mellitus,4099216,Type 2 diabetes mellitus with multiple complications,NA,NA,NA,NA,25,2719,PREMIER
+100,0,Type 2 Diabetes Mellitus,4128221,Microalbuminuric diabetic nephropathy,NA,NA,NA,NA,-5,8,PREMIER
+100,0,Type 2 Diabetes Mellitus,4137220,Diabetic glomerulonephritis,NA,NA,NA,NA,16,83,PREMIER
+100,0,Type 2 Diabetes Mellitus,4159742,Diabetic foot ulcer,NA,NA,NA,NA,5,69,PREMIER
+100,0,Type 2 Diabetes Mellitus,4174977,Retinopathy due to diabetes mellitus,NA,NA,NA,NA,57,1852,PREMIER
+100,0,Type 2 Diabetes Mellitus,4175440,Diabetic autonomic neuropathy,NA,NA,NA,NA,-5,26,PREMIER
+100,0,Type 2 Diabetes Mellitus,4193704,Type 2 diabetes mellitus without complication,NA,NA,NA,NA,84,1227,PREMIER
+100,0,Type 2 Diabetes Mellitus,4200875,Type 2 diabetes mellitus with peripheral angiopathy,NA,NA,NA,NA,-5,8,PREMIER
+100,0,Type 2 Diabetes Mellitus,4221495,Cataract due to diabetes mellitus type 2,NA,NA,NA,NA,-5,18,PREMIER
+100,0,Type 2 Diabetes Mellitus,4222415,Mononeuropathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+100,0,Type 2 Diabetes Mellitus,4222876,Gangrene associated with type 2 diabetes mellitus,NA,NA,NA,NA,-5,8,PREMIER
+100,0,Type 2 Diabetes Mellitus,4226121,Retinopathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,34,PREMIER
+100,0,Type 2 Diabetes Mellitus,4226238,Hyperosmolar coma due to diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+100,0,Type 2 Diabetes Mellitus,4226354,Gangrene associated with diabetes mellitus,NA,NA,NA,NA,-5,43,PREMIER
+100,0,Type 2 Diabetes Mellitus,36717156,Acidosis due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,14,PREMIER
+100,0,Type 2 Diabetes Mellitus,37016768,Autonomic neuropathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+100,0,Type 2 Diabetes Mellitus,37017432,Polyneuropathy due to type 2 diabetes mellitus,NA,NA,NA,NA,21,678,PREMIER
+100,0,Type 2 Diabetes Mellitus,43530656,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,173,PREMIER
+100,0,Type 2 Diabetes Mellitus,43530685,Proliferative retinopathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,15,PREMIER
+100,0,Type 2 Diabetes Mellitus,43531616,Diabetic dermopathy associated with diabetes mellitus type 2,NA,NA,NA,NA,-5,11,PREMIER
+100,0,Type 2 Diabetes Mellitus,44793113,Diabetes mellitus with multiple complications,NA,NA,NA,NA,11,89,PREMIER
+100,0,Type 2 Diabetes Mellitus,45757363,Hypoglycemia due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,22,PREMIER
+100,0,Type 2 Diabetes Mellitus,45769905,Microalbuminuria due to type 2 diabetes mellitus,NA,NA,NA,NA,19,1054,PREMIER
+100,0,Type 2 Diabetes Mellitus,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+101,0,Hypertension,201313,Hypertensive renal disease,NA,NA,NA,NA,6,134,PREMIER
+101,0,Hypertension,314378,Hypertensive heart disease with congestive heart failure,NA,NA,NA,NA,20,559,PREMIER
+101,0,Hypertension,319034,Hypertensive heart disease without congestive heart failure,NA,NA,NA,NA,9,190,PREMIER
+101,0,Hypertension,319826,Secondary hypertension,NA,NA,NA,NA,9,827,PREMIER
+101,0,Hypertension,320128,Essential hypertension,NA,NA,NA,NA,222,5474,PREMIER
+101,0,Hypertension,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+101,0,Hypertension,443771,Renal hypertension,NA,NA,NA,NA,55,4229,PREMIER
+101,0,Hypertension,443919,Hypertensive renal failure,NA,NA,NA,NA,37,2768,PREMIER
+101,0,Hypertension,4013643,Pulmonary arterial hypertension,NA,NA,NA,NA,-5,30,PREMIER
+101,0,Hypertension,4028741,Benign hypertension,NA,NA,NA,NA,25,386,PREMIER
+101,0,Hypertension,4339214,Secondary pulmonary hypertension,NA,NA,NA,NA,-5,19,PREMIER
+102,0,Chronic kidney disease,192279,Kidney disorder due to diabetes mellitus,NA,NA,NA,NA,-5,62,PREMIER
+102,0,Chronic kidney disease,192359,Renal failure syndrome,NA,NA,NA,NA,10,194,PREMIER
+102,0,Chronic kidney disease,193782,End-stage renal disease,NA,NA,NA,NA,8,83,PREMIER
+102,0,Chronic kidney disease,195314,Nephrotic syndrome,NA,NA,NA,NA,-5,39,PREMIER
+102,0,Chronic kidney disease,200687,Renal disorder associated with type 1 diabetes mellitus,NA,NA,NA,NA,-5,32,PREMIER
+102,0,Chronic kidney disease,201313,Hypertensive renal disease,NA,NA,NA,NA,6,134,PREMIER
+102,0,Chronic kidney disease,252365,Membranous glomerulonephritis,NA,NA,NA,NA,-5,9,PREMIER
+102,0,Chronic kidney disease,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+102,0,Chronic kidney disease,443597,Chronic kidney disease stage 3,NA,NA,NA,NA,40,554,PREMIER
+102,0,Chronic kidney disease,443601,Chronic kidney disease stage 2,NA,NA,NA,NA,-5,43,PREMIER
+102,0,Chronic kidney disease,443611,Chronic kidney disease stage 5,NA,NA,NA,NA,163,19022,PREMIER
+102,0,Chronic kidney disease,443612,Chronic kidney disease stage 4,NA,NA,NA,NA,80,1266,PREMIER
+102,0,Chronic kidney disease,443614,Chronic kidney disease stage 1,NA,NA,NA,NA,44,3454,PREMIER
+102,0,Chronic kidney disease,443731,Renal disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,32,862,PREMIER
+102,0,Chronic kidney disease,443919,Hypertensive renal failure,NA,NA,NA,NA,37,2768,PREMIER
+102,0,Chronic kidney disease,4056478,Chronic nephritic syndrome,NA,NA,NA,NA,16,493,PREMIER
+102,0,Chronic kidney disease,4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",NA,NA,NA,NA,-5,57,PREMIER
+102,0,Chronic kidney disease,4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",NA,NA,NA,NA,-5,74,PREMIER
+102,0,Chronic kidney disease,4128221,Microalbuminuric diabetic nephropathy,NA,NA,NA,NA,-5,8,PREMIER
+102,0,Chronic kidney disease,4137220,Diabetic glomerulonephritis,NA,NA,NA,NA,16,83,PREMIER
+102,0,Chronic kidney disease,4272486,Diffuse crescentic glomerulonephritis,NA,NA,NA,NA,-5,6,PREMIER
+102,0,Chronic kidney disease,4298809,Nephritic syndrome,NA,NA,NA,NA,-5,46,PREMIER
+102,0,Chronic kidney disease,45757535,Microalbuminuria due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+102,0,Chronic kidney disease,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+102,0,Chronic kidney disease,45769905,Microalbuminuria due to type 2 diabetes mellitus,NA,NA,NA,NA,19,1054,PREMIER
+102,0,Chronic kidney disease,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+102,0,Chronic kidney disease,46271022,Chronic kidney disease,NA,NA,NA,NA,147,4711,PREMIER
+102,1,Dialysis,4050863,Continuous hemodialysis,NA,NA,NA,NA,11,12,PREMIER
+102,1,Dialysis,4051329,Continuous venovenous hemodialysis,NA,NA,NA,NA,14,64,PREMIER
+102,1,Dialysis,4051330,Continuous venovenous hemofiltration,NA,NA,NA,NA,-5,5,PREMIER
+102,1,Dialysis,4052537,Continuous hemofiltration,NA,NA,NA,NA,-5,-5,PREMIER
+102,1,Dialysis,4080169,Continuous ambulatory peritoneal dialysis,NA,NA,NA,NA,5,59,PREMIER
+102,1,Dialysis,4120120,Hemodialysis,NA,NA,NA,NA,162,177779,PREMIER
+103,0,End stage renal disease,193782,End-stage renal disease,NA,NA,NA,NA,8,83,PREMIER
+103,0,End stage renal disease,443611,Chronic kidney disease stage 5,NA,NA,NA,NA,163,19022,PREMIER
+103,0,End stage renal disease,443919,Hypertensive renal failure,NA,NA,NA,NA,37,2768,PREMIER
+103,0,End stage renal disease,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+103,0,End stage renal disease,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+103,1,Dialysis,4050863,Continuous hemodialysis,NA,NA,NA,NA,11,12,PREMIER
+103,1,Dialysis,4051329,Continuous venovenous hemodialysis,NA,NA,NA,NA,14,64,PREMIER
+103,1,Dialysis,4051330,Continuous venovenous hemofiltration,NA,NA,NA,NA,-5,5,PREMIER
+103,1,Dialysis,4052537,Continuous hemofiltration,NA,NA,NA,NA,-5,-5,PREMIER
+103,1,Dialysis,4080169,Continuous ambulatory peritoneal dialysis,NA,NA,NA,NA,5,59,PREMIER
+103,1,Dialysis,4120120,Hemodialysis,NA,NA,NA,NA,162,177779,PREMIER
+104,5,Heart disease conditions,312327,Acute myocardial infarction,NA,NA,NA,NA,18,134,PREMIER
+104,5,Heart disease conditions,312653,Acute myocarditis,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,314378,Hypertensive heart disease with congestive heart failure,NA,NA,NA,NA,20,559,PREMIER
+104,5,Heart disease conditions,314658,Cardiomegaly,NA,NA,NA,NA,5,39,PREMIER
+104,5,Heart disease conditions,314666,Old myocardial infarction,NA,NA,NA,NA,14,211,PREMIER
+104,5,Heart disease conditions,315273,Mitral valve stenosis,NA,NA,NA,NA,-5,61,PREMIER
+104,5,Heart disease conditions,315286,Chronic ischemic heart disease,NA,NA,NA,NA,19,391,PREMIER
+104,5,Heart disease conditions,315296,Preinfarction syndrome,NA,NA,NA,NA,22,410,PREMIER
+104,5,Heart disease conditions,315564,Aortic valve regurgitation,NA,NA,NA,NA,-5,41,PREMIER
+104,5,Heart disease conditions,316139,Heart failure,NA,NA,NA,NA,37,239,PREMIER
+104,5,Heart disease conditions,317576,Coronary arteriosclerosis,NA,NA,NA,NA,6,50,PREMIER
+104,5,Heart disease conditions,318776,Rheumatic mitral regurgitation,NA,NA,NA,NA,-5,71,PREMIER
+104,5,Heart disease conditions,319034,Hypertensive heart disease without congestive heart failure,NA,NA,NA,NA,9,190,PREMIER
+104,5,Heart disease conditions,319835,Congestive heart failure,NA,NA,NA,NA,7,74,PREMIER
+104,5,Heart disease conditions,319844,Acute ischemic heart disease,NA,NA,NA,NA,5,242,PREMIER
+104,5,Heart disease conditions,320744,Complete atrioventricular block,NA,NA,NA,NA,-5,31,PREMIER
+104,5,Heart disease conditions,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+104,5,Heart disease conditions,321107,Congenital insufficiency of aortic valve,NA,NA,NA,NA,-5,7,PREMIER
+104,5,Heart disease conditions,321318,Angina pectoris,NA,NA,NA,NA,41,396,PREMIER
+104,5,Heart disease conditions,321319,Cardiomyopathy,NA,NA,NA,NA,6,36,PREMIER
+104,5,Heart disease conditions,321588,Heart disease,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,434376,Acute myocardial infarction of anterior wall,NA,NA,NA,NA,-5,45,PREMIER
+104,5,Heart disease conditions,434462,Ventricular septal defect,NA,NA,NA,NA,-5,6,PREMIER
+104,5,Heart disease conditions,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,439834,Rheumatic aortic regurgitation,NA,NA,NA,NA,-5,70,PREMIER
+104,5,Heart disease conditions,439846,Left heart failure,NA,NA,NA,NA,47,286,PREMIER
+104,5,Heart disease conditions,443580,Systolic heart failure,NA,NA,NA,NA,13,57,PREMIER
+104,5,Heart disease conditions,443587,Diastolic heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,443962,Mitral valve regurgitation,NA,NA,NA,NA,8,200,PREMIER
+104,5,Heart disease conditions,4068155,Atrial arrhythmia,NA,NA,NA,NA,-5,12,PREMIER
+104,5,Heart disease conditions,4089462,Ventricular premature complex,NA,NA,NA,NA,7,36,PREMIER
+104,5,Heart disease conditions,4108950,Acquired cardiac septal defect,NA,NA,NA,NA,-5,16,PREMIER
+104,5,Heart disease conditions,4110961,Generalized ischemic myocardial dysfunction,NA,NA,NA,NA,-5,13,PREMIER
+104,5,Heart disease conditions,4115173,Atrial premature complex,NA,NA,NA,NA,6,62,PREMIER
+104,5,Heart disease conditions,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+104,5,Heart disease conditions,4127089,Coronary artery spasm,NA,NA,NA,NA,-5,20,PREMIER
+104,5,Heart disease conditions,4141360,Chronic atrial fibrillation,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,4154290,Paroxysmal atrial fibrillation,NA,NA,NA,NA,14,202,PREMIER
+104,5,Heart disease conditions,4163710,Dilated cardiomyopathy,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,4185572,Ventricular arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,4232697,Persistent atrial fibrillation,NA,NA,NA,NA,-5,20,PREMIER
+104,5,Heart disease conditions,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+104,5,Heart disease conditions,4270024,Acute non-ST segment elevation myocardial infarction,NA,NA,NA,NA,15,233,PREMIER
+104,5,Heart disease conditions,4275423,Supraventricular tachycardia,NA,NA,NA,NA,8,84,PREMIER
+104,5,Heart disease conditions,4289309,Atrial septal defect,NA,NA,NA,NA,-5,59,PREMIER
+104,5,Heart disease conditions,44784217,Cardiac arrhythmia,NA,NA,NA,NA,5,15,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,24296,Primary malignant neoplasm of pituitary gland,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,26638,Primary malignant neoplasm of esophagus,NA,NA,NA,NA,-5,14,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,73153,Malignant neoplasm of lateral wall of urinary bladder,NA,NA,NA,NA,-5,16,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,74582,Primary malignant neoplasm of rectum,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,78097,Secondary malignant neoplasm of bone,NA,NA,NA,NA,-5,8,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,133424,Primary malignant neoplasm of thyroid gland,NA,NA,NA,NA,-5,40,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,134603,Chronic myeloid leukemia,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,135214,Polycythemia vera,NA,NA,NA,NA,-5,133,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,135750,Primary malignant neoplasm of floor of mouth,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,136917,Primary malignant neoplasm of skin of face,NA,NA,NA,NA,-5,36,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,138708,Acute leukemia,NA,NA,NA,NA,-5,30,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,138994,Myelodysplastic syndrome,NA,NA,NA,NA,-5,19,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,139750,Primary malignant neoplasm of skin,NA,NA,NA,NA,6,60,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,192255,Primary malignant neoplasm of pylorus,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,192568,Secondary malignant neoplasm of intra-abdominal lymph nodes,NA,NA,NA,NA,-5,22,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,193144,Secondary malignant neoplasm of adrenal gland,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,193422,Primary malignant neoplasm of body of stomach,NA,NA,NA,NA,-5,46,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,194589,Primary malignant neoplasm of biliary tract,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,195197,Primary malignant neoplasm of vulva,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,195480,Primary malignant neoplasm of renal pelvis,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,196044,Primary malignant neoplasm of stomach,NA,NA,NA,NA,11,255,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,196359,Primary malignant neoplasm of uterine cervix,NA,NA,NA,NA,-5,102,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,196360,Primary malignant neoplasm of bladder,NA,NA,NA,NA,-5,22,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,197500,Primary malignant neoplasm of colon,NA,NA,NA,NA,-5,5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,197806,Primary malignant neoplasm of gallbladder,NA,NA,NA,NA,-5,43,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,198985,Primary malignant neoplasm of kidney,NA,NA,NA,NA,7,223,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,199754,Primary malignant neoplasm of pancreas,NA,NA,NA,NA,9,133,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,200962,Primary malignant neoplasm of prostate,NA,NA,NA,NA,-5,66,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,201519,Primary malignant neoplasm of liver,NA,NA,NA,NA,-5,82,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,254591,Secondary malignant neoplasm of lung,NA,NA,NA,NA,-5,18,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,318096,Secondary malignant neoplasm of lymph node,NA,NA,NA,NA,-5,6,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,432837,Primary malignant neoplasm of cecum,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,434293,Primary malignant neoplasm of body of pancreas,NA,NA,NA,NA,-5,207,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,435752,Primary malignant neoplasm of duodenum,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,435755,Primary malignant neoplasm of skin of eyelid,NA,NA,NA,NA,-5,26,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,436358,Primary malignant neoplasm of exocervix,NA,NA,NA,NA,-5,29,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,436635,Primary malignant neoplasm of sigmoid colon,NA,NA,NA,NA,-5,52,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,437224,Primary malignant neoplasm of greater curvature of stomach,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,437233,Multiple myeloma,NA,NA,NA,NA,-5,23,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,438383,Essential thrombocythemia,NA,NA,NA,NA,-5,26,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,438698,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",NA,NA,NA,NA,-5,35,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,440649,Primary malignant neoplasm of head of pancreas,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,441225,Primary malignant neoplasm of ampulla of Vater,NA,NA,NA,NA,5,80,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,441805,Primary malignant neoplasm of endocervix,NA,NA,NA,NA,-5,29,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4001171,Liver cell carcinoma,NA,NA,NA,NA,15,335,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4001328,"Diffuse non-Hodgkin's lymphoma, lymphoblastic",NA,NA,NA,NA,-5,92,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4001664,Intrahepatic bile duct carcinoma,NA,NA,NA,NA,-5,72,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4002357,"Follicular non-Hodgkin's lymphoma, small cleaved cell",NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4038838,Non-Hodgkin's lymphoma,NA,NA,NA,NA,-5,46,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4092077,Malignant neoplasm of specified parts of peritoneum,NA,NA,NA,NA,-5,12,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4095312,Malignant tumor of nasopharynx,NA,NA,NA,NA,-5,8,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4147411,Follicular non-Hodgkin's lymphoma,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4162253,Primary malignant neoplasm of breast,NA,NA,NA,NA,-5,41,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4188545,Primary malignant neoplasm of breast lower outer quadrant,NA,NA,NA,NA,-5,10,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4246451,Secondary malignant neoplasm of brain,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4247238,Primary malignant neoplasm of endometrium,NA,NA,NA,NA,-5,8,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4247719,Primary malignant neoplasm of ascending colon,NA,NA,NA,NA,-5,14,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4247836,Primary malignant neoplasm of major salivary gland,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4247962,Secondary malignant neoplasm of gastrointestinal tract,NA,NA,NA,NA,-5,-5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4300704,Diffuse large B-cell lymphoma,NA,NA,NA,NA,-5,5,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,4311499,Primary malignant neoplasm of respiratory tract,NA,NA,NA,NA,-5,39,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,40486896,Primary malignant neoplasm of extrahepatic bile duct,NA,NA,NA,NA,5,158,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,NA,NA,NA,NA,5,31,PREMIER
+106,15,HIV drugs,1712912,raltegravir 400 MG Oral Tablet [Isentress],NA,NA,NA,NA,-5,-5,PREMIER
+106,15,HIV drugs,1748986,lopinavir 200 MG / Ritonavir 50 MG Oral Tablet [Kaletra],NA,NA,NA,NA,20,139,PREMIER
+106,15,HIV drugs,21102306,Lamivudine 100 MG Oral Tablet [Zeffix],NA,NA,NA,NA,-5,209,PREMIER
+106,15,HIV drugs,35604229,emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy],NA,NA,NA,NA,-5,-5,PREMIER
+106,15,HIV drugs,42708097,Tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread],NA,NA,NA,NA,8,445,PREMIER
+106,15,HIV drugs,42927712,tenofovir disoproxil 250 MG Oral Tablet [TENOFOBELL],NA,NA,NA,NA,-5,8,PREMIER
+106,15,HIV drugs,45892978,cobicistat 150 MG / darunavir 800 MG Oral Tablet [Prezcobix],NA,NA,NA,NA,-5,10,PREMIER
+107,5,Hepatitis C,198964,Chronic hepatitis C,NA,NA,NA,NA,9,266,PREMIER
+108,0,BMI measurement,3038553,Body mass index (BMI) [Ratio],No matching concept,None,0,No matching concept,661,6365,PREMIER
+108,1,obesity diagnoses,433736,Obesity,NA,NA,NA,NA,18,89,PREMIER
+108,1,obesity diagnoses,438731,Localized adiposity,NA,NA,NA,NA,-5,-5,PREMIER
+108,2,body weight,3025315,Body weight,No matching concept,None,0,No matching concept,795,18403,PREMIER
+109,0,Dementia,378419,Alzheimer's disease,NA,NA,NA,NA,5,68,PREMIER
+109,0,Dementia,443605,Vascular dementia,NA,NA,NA,NA,5,69,PREMIER
+109,0,Dementia,4046089,Vascular dementia of acute onset,NA,NA,NA,NA,-5,6,PREMIER
+109,0,Dementia,4047747,Subcortical vascular dementia,NA,NA,NA,NA,-5,-5,PREMIER
+109,0,Dementia,4182210,Dementia,NA,NA,NA,NA,6,15,PREMIER
+109,0,Dementia,4218017,"Primary degenerative dementia of the Alzheimer type, presenile onset",NA,NA,NA,NA,-5,5,PREMIER
+109,0,Dementia,4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",NA,NA,NA,NA,-5,74,PREMIER
+117,6,All TB drugs,1716904,moxifloxacin 400 MG Oral Tablet [Avelox],NA,NA,NA,NA,24,90,PREMIER
+117,6,All TB drugs,40222617,Ethambutol Hydrochloride 400 MG Oral Tablet [Myambutol],NA,NA,NA,NA,25,252,PREMIER
+117,6,All TB drugs,41353552,5 ML moxifloxacin 5 MG/ML Ophthalmic Solution [Vigamox],NA,NA,NA,NA,44,184,PREMIER
+117,6,All TB drugs,42918825,300 ML linezolid 2 MG/ML Injectable Solution [Zyvox],NA,NA,NA,NA,-5,38,PREMIER
+117,6,All TB drugs,42918875,250 ML moxifloxacin 1.60000000000000009 MG/ML Injectable Solution [Avelox],NA,NA,NA,NA,5,53,PREMIER
+117,6,All TB drugs,42919102,150 ML Levofloxacin 5 MG/ML Injectable Solution [CRAVIT],NA,NA,NA,NA,129,780,PREMIER
+117,6,All TB drugs,42919103,150 ML Levofloxacin 5 MG/ML Injectable Solution [LEVOFLOXACIN CJ],NA,NA,NA,NA,-5,20,PREMIER
+117,6,All TB drugs,42919478,100 ML Levofloxacin 5 MG/ML Injectable Solution [CRAVIT],NA,NA,NA,NA,46,238,PREMIER
+117,6,All TB drugs,42919971,50 ML Levofloxacin 5 MG/ML Injectable Solution [CRAVIT],NA,NA,NA,NA,19,91,PREMIER
+117,6,All TB drugs,42921466,5 ML Levofloxacin 5 MG/ML Ophthalmic Solution [CRAVIT],NA,NA,NA,NA,128,520,PREMIER
+117,6,All TB drugs,42921484,5 ML Levofloxacin 15 MG/ML Ophthalmic Solution [CRAVIT],NA,NA,NA,NA,-5,-5,PREMIER
+117,6,All TB drugs,42921828,2 ML Amikacin 125 MG/ML Injectable Solution [AMIKTAM],NA,NA,NA,NA,17,103,PREMIER
+117,6,All TB drugs,42921841,2 ML Amikacin 250 MG/ML Injectable Solution [ADIKAN],NA,NA,NA,NA,-5,16,PREMIER
+117,6,All TB drugs,42924976,Rifampin 150 MG Oral Capsule [YUHAN RIFAMPIN],NA,NA,NA,NA,11,110,PREMIER
+117,6,All TB drugs,42924980,Rifampin 600 MG Oral Tablet [YUHAN RIFAMPIN],NA,NA,NA,NA,37,384,PREMIER
+117,6,All TB drugs,42924987,Rifampin 300 MG Oral Capsule [YUHAN RIFAMPIN],NA,NA,NA,NA,7,70,PREMIER
+117,6,All TB drugs,42942532,Cilastatin 250 MG / Imipenem 250 MG Injection [PREPENEM],NA,NA,NA,NA,5,66,PREMIER
+117,6,All TB drugs,42942534,Cilastatin 500 MG / Imipenem 500 MG Injection [PREPENEM],NA,NA,NA,NA,6,118,PREMIER
+117,6,All TB drugs,42944487,moxifloxacin 400 MG Oral Tablet [MOVELOXIN],NA,NA,NA,NA,-5,-5,PREMIER
+117,6,All TB drugs,42948574,isoniazid 100 MG Oral Tablet [YUHAN-ZID],NA,NA,NA,NA,51,478,PREMIER
+117,6,All TB drugs,42955258,Prothionamide 125 MG Oral Tablet [PROTHIONAMIDE GUJU],NA,NA,NA,NA,-5,34,PREMIER
+117,6,All TB drugs,42956735,meropenem 1000 MG Injection [MEBAPENEM],NA,NA,NA,NA,5,31,PREMIER
+117,6,All TB drugs,42956767,meropenem 500 MG Injection [MEROPEN YUHAN],NA,NA,NA,NA,40,476,PREMIER
+117,6,All TB drugs,42965215,Levofloxacin 500 MG Oral Tablet [CRAVIT],NA,NA,NA,NA,108,542,PREMIER
+117,6,All TB drugs,42965244,Levofloxacin 250 MG Oral Tablet [CRAVIT],NA,NA,NA,NA,95,354,PREMIER
+117,6,All TB drugs,42965387,Levofloxacin 100 MG Oral Tablet [JEIL CRAVIT],NA,NA,NA,NA,81,195,PREMIER
+117,6,All TB drugs,42965511,Levofloxacin 750 MG Oral Tablet [LEVOPLUS],NA,NA,NA,NA,-5,14,PREMIER
+117,6,All TB drugs,42970084,Pyrazinamide 500 MG Oral Tablet [PYRAZINAMIDE YUHAN],NA,NA,NA,NA,18,103,PREMIER
+117,6,All TB drugs,42970797,Streptomycin 1000 MG Injection [STREPTOMYCIN SULFATE CKD],NA,NA,NA,NA,-5,66,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,253954,Pulmonary tuberculosis,NA,NA,NA,NA,10,51,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,255454,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",NA,NA,NA,NA,-5,26,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,261495,Tuberculosis of pleura,NA,NA,NA,NA,-5,13,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,4090539,"Tuberculous pleurisy, confirmed bacteriologically and histologically",NA,NA,NA,NA,-5,18,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,4091163,"Respiratory tuberculosis, bacteriologically and histologically confirmed",NA,NA,NA,NA,-5,-5,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,4091167,"Tuberculosis of lung, bacteriologically and histologically negative",NA,NA,NA,NA,8,81,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,45771090,Respiratory tuberculosis,NA,NA,NA,NA,5,46,PREMIER
+118,0,Type 1 Diabetes Mellitus,200687,Renal disorder associated with type 1 diabetes mellitus,NA,NA,NA,NA,-5,32,PREMIER
+118,0,Type 1 Diabetes Mellitus,201254,Type 1 diabetes mellitus,NA,NA,NA,NA,-5,7,PREMIER
+118,0,Type 1 Diabetes Mellitus,435216,Disorder due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+118,0,Type 1 Diabetes Mellitus,443412,Type 1 diabetes mellitus without complication,NA,NA,NA,NA,-5,8,PREMIER
+118,0,Type 1 Diabetes Mellitus,4223303,Gangrene associated with type 1 diabetes mellitus,NA,NA,NA,NA,-5,17,PREMIER
+118,0,Type 1 Diabetes Mellitus,4224709,Multiple complications of type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+118,0,Type 1 Diabetes Mellitus,36713094,Peripheral angiopathy due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,20,PREMIER
+118,0,Type 1 Diabetes Mellitus,37016767,Autonomic neuropathy with type 1 diabetes mellitus,NA,NA,NA,NA,-5,7,PREMIER
+118,0,Type 1 Diabetes Mellitus,45757507,Foot ulcer due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,17,PREMIER
+118,0,Type 1 Diabetes Mellitus,45757535,Microalbuminuria due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+118,0,Type 1 Diabetes Mellitus,45763584,Proliferative retinopathy with type 1 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+118,0,Type 1 Diabetes Mellitus,45769832,Diabetic dermopathy due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,6,PREMIER
+118,0,Type 1 Diabetes Mellitus,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+118,2,Rheumatoid arthritis,80809,Rheumatoid arthritis,NA,NA,NA,NA,5,57,PREMIER
+118,2,Rheumatoid arthritis,81097,Felty's syndrome,NA,NA,NA,NA,-5,41,PREMIER
+118,2,Rheumatoid arthritis,4035611,Seropositive rheumatoid arthritis,NA,NA,NA,NA,10,341,PREMIER
+118,2,Rheumatoid arthritis,4083556,Seronegative rheumatoid arthritis,NA,NA,NA,NA,-5,32,PREMIER
+118,2,Rheumatoid arthritis,4117687,Rheumatoid arthritis - ankle and/or foot,NA,NA,NA,NA,-5,-5,PREMIER
+118,3,Psoriasis,140168,Psoriasis,NA,NA,NA,NA,17,46,PREMIER
+118,3,Psoriasis,4100184,Pustular psoriasis of palms and soles,NA,NA,NA,NA,-5,-5,PREMIER
+118,3,Psoriasis,4307925,Psoriasis vulgaris,NA,NA,NA,NA,-5,-5,PREMIER
+118,6,Systemic lupus erythematosus,257628,Systemic lupus erythematosus,NA,NA,NA,NA,6,621,PREMIER
+118,6,Systemic lupus erythematosus,4063581,Drug-induced systemic lupus erythematosus,NA,NA,NA,NA,-5,-5,PREMIER
+118,6,Systemic lupus erythematosus,4344158,Systemic lupus erythematosus with organ/system involvement,NA,NA,NA,NA,5,37,PREMIER
+118,9,Sjogren's syndrome,254443,Sjögren's syndrome,NA,NA,NA,NA,-5,103,PREMIER
+118,11,Myasthenia gravis,76685,Myasthenia gravis,NA,NA,NA,NA,-5,29,PREMIER
+118,12,"
+
+Vasculitis",77310,Deep vein phlebitis and thrombophlebitis of the leg,NA,NA,NA,NA,-5,9,PREMIER
+118,12,"
+
+Vasculitis",193249,Acute hemorrhagic gastritis,NA,NA,NA,NA,21,188,PREMIER
+118,12,"
+
+Vasculitis",313223,Granulomatosis with polyangiitis,NA,NA,NA,NA,-5,57,PREMIER
+118,12,"
+
+Vasculitis",314659,Arteritis,NA,NA,NA,NA,-5,11,PREMIER
+118,12,"
+
+Vasculitis",320741,Thrombophlebitis,NA,NA,NA,NA,-5,-5,PREMIER
+118,12,"
+
+Vasculitis",436642,Behcet's syndrome,NA,NA,NA,NA,-5,53,PREMIER
+118,12,"
+
+Vasculitis",4033864,Livedoid vasculitis,NA,NA,NA,NA,-5,-5,PREMIER
+118,12,"
+
+Vasculitis",4067764,Pigmented purpuric lichenoid dermatitis of Gougerot and Blum,NA,NA,NA,NA,-5,5,PREMIER
+118,12,"
+
+Vasculitis",4101602,Henoch-Schönlein purpura,NA,NA,NA,NA,-5,63,PREMIER
+118,12,"
+
+Vasculitis",4344489,Microscopic polyarteritis nodosa,NA,NA,NA,NA,-5,10,PREMIER
+118,15,Scleroderma,134442,Systemic sclerosis,NA,NA,NA,NA,-5,21,PREMIER
+118,16,Sarcoidosis,438688,Sarcoidosis,NA,NA,NA,NA,-5,5,PREMIER
+118,16,Sarcoidosis,4185547,Cutaneous sarcoidosis,NA,NA,NA,NA,-5,-5,PREMIER
+118,17,Ulcerative colitis,81893,Ulcerative colitis,NA,NA,NA,NA,-5,-5,PREMIER
+118,18,Crohn's disease,195585,Crohn's disease of small intestine,NA,NA,NA,NA,-5,52,PREMIER
+118,18,Crohn's disease,201606,Crohn's disease,NA,NA,NA,NA,-5,19,PREMIER
+119,0, Chronic obstructive lung disease,255573,Chronic obstructive lung disease,NA,NA,NA,NA,18,252,PREMIER
+119,0, Chronic obstructive lung disease,257004,Acute exacerbation of chronic obstructive airways disease,NA,NA,NA,NA,-5,56,PREMIER
+119,0, Chronic obstructive lung disease,4193588,Moderate chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,42,PREMIER
+119,0, Chronic obstructive lung disease,4196712,Mild chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,29,PREMIER
+119,0, Chronic obstructive lung disease,4209097,Severe chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,-5,PREMIER
+119,1,"COPD combo-therapy
+",42920037,30 ACTUAT fluticasone 0.100000000000000006 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Relvar],NA,NA,NA,NA,-5,-5,PREMIER
+119,1,"COPD combo-therapy
+",42920039,30 ACTUAT fluticasone 0.200000000000000011 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Relvar],NA,NA,NA,NA,-5,-5,PREMIER
+119,1,"COPD combo-therapy
+",43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,NA,NA,NA,NA,-5,-5,PREMIER
+119,2,"COPD mono-therapy
+",1112921,Ipratropium,NA,NA,NA,NA,-5,10,PREMIER
+119,2,"COPD mono-therapy
+",19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+119,2,"COPD mono-therapy
+",42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],NA,NA,NA,NA,6,36,PREMIER
+119,2,"COPD mono-therapy
+",42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],NA,NA,NA,NA,-5,9,PREMIER
+119,2,"COPD mono-therapy
+",42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],NA,NA,NA,NA,-5,6,PREMIER
+119,2,"COPD mono-therapy
+",42920472,15 ML Ipratropium 0.299999999999999989 MG/ML Nasal Spray [RHINOVENT],NA,NA,NA,NA,-5,-5,PREMIER
+119,3,Asthma,317009,Asthma,NA,NA,NA,NA,43,563,PREMIER
+119,3,Asthma,4110051,Mixed asthma,NA,NA,NA,NA,-5,20,PREMIER
+119,3,Asthma,4191479,Allergic asthma,NA,NA,NA,NA,12,117,PREMIER
+120,3,LAMA,19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+120,3,LAMA,42921875,2 ML Ipratropium 0.25 MG/ML Inhalant Solution [ATROVENT UDV],NA,NA,NA,NA,159,1710,PREMIER
+120,4,Asthma therapy,19098138,Budesonide 0.25 MG/ML Inhalation Suspension,NA,NA,NA,NA,-5,11,PREMIER
+120,4,Asthma therapy,19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+120,4,Asthma therapy,19130452,60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],NA,NA,NA,NA,-5,9,PREMIER
+120,4,Asthma therapy,42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],NA,NA,NA,NA,15,81,PREMIER
+120,4,Asthma therapy,42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],NA,NA,NA,NA,124,1039,PREMIER
+120,4,Asthma therapy,42921875,2 ML Ipratropium 0.25 MG/ML Inhalant Solution [ATROVENT UDV],NA,NA,NA,NA,159,1710,PREMIER
+120,4,Asthma therapy,42922105,2 ML Budesonide 0.25 MG/ML Inhalant Solution [Budecort],NA,NA,NA,NA,6,29,PREMIER
+120,4,Asthma therapy,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,NA,NA,NA,NA,-5,-5,PREMIER
+125,0,Chronic kidney disease,192279,Kidney disorder due to diabetes mellitus,NA,NA,NA,NA,-5,62,PREMIER
+125,0,Chronic kidney disease,192359,Renal failure syndrome,NA,NA,NA,NA,10,194,PREMIER
+125,0,Chronic kidney disease,193782,End-stage renal disease,NA,NA,NA,NA,8,83,PREMIER
+125,0,Chronic kidney disease,195314,Nephrotic syndrome,NA,NA,NA,NA,-5,39,PREMIER
+125,0,Chronic kidney disease,200687,Renal disorder associated with type 1 diabetes mellitus,NA,NA,NA,NA,-5,32,PREMIER
+125,0,Chronic kidney disease,201313,Hypertensive renal disease,NA,NA,NA,NA,6,134,PREMIER
+125,0,Chronic kidney disease,252365,Membranous glomerulonephritis,NA,NA,NA,NA,-5,9,PREMIER
+125,0,Chronic kidney disease,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+125,0,Chronic kidney disease,443597,Chronic kidney disease stage 3,NA,NA,NA,NA,40,554,PREMIER
+125,0,Chronic kidney disease,443601,Chronic kidney disease stage 2,NA,NA,NA,NA,-5,43,PREMIER
+125,0,Chronic kidney disease,443611,Chronic kidney disease stage 5,NA,NA,NA,NA,163,19022,PREMIER
+125,0,Chronic kidney disease,443612,Chronic kidney disease stage 4,NA,NA,NA,NA,80,1266,PREMIER
+125,0,Chronic kidney disease,443614,Chronic kidney disease stage 1,NA,NA,NA,NA,44,3454,PREMIER
+125,0,Chronic kidney disease,443731,Renal disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,32,862,PREMIER
+125,0,Chronic kidney disease,443919,Hypertensive renal failure,NA,NA,NA,NA,37,2768,PREMIER
+125,0,Chronic kidney disease,4056478,Chronic nephritic syndrome,NA,NA,NA,NA,16,493,PREMIER
+125,0,Chronic kidney disease,4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",NA,NA,NA,NA,-5,57,PREMIER
+125,0,Chronic kidney disease,4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",NA,NA,NA,NA,-5,74,PREMIER
+125,0,Chronic kidney disease,4128221,Microalbuminuric diabetic nephropathy,NA,NA,NA,NA,-5,8,PREMIER
+125,0,Chronic kidney disease,4137220,Diabetic glomerulonephritis,NA,NA,NA,NA,16,83,PREMIER
+125,0,Chronic kidney disease,4272486,Diffuse crescentic glomerulonephritis,NA,NA,NA,NA,-5,6,PREMIER
+125,0,Chronic kidney disease,4298809,Nephritic syndrome,NA,NA,NA,NA,-5,46,PREMIER
+125,0,Chronic kidney disease,45757535,Microalbuminuria due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+125,0,Chronic kidney disease,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+125,0,Chronic kidney disease,45769905,Microalbuminuria due to type 2 diabetes mellitus,NA,NA,NA,NA,19,1054,PREMIER
+125,0,Chronic kidney disease,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+125,0,Chronic kidney disease,46271022,Chronic kidney disease,NA,NA,NA,NA,147,4711,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),252477,Extradural hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,-5,8,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),435959,Subarachnoid hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,5,5,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),443454,Cerebral infarction,NA,NA,NA,NA,64,1136,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4014781,Closed traumatic subdural hemorrhage,NA,NA,NA,NA,8,13,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4046089,Vascular dementia of acute onset,NA,NA,NA,NA,-5,6,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4049659,Subcortical hemorrhage,NA,NA,NA,NA,-5,63,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4110185,"Intracerebral hemorrhage, intraventricular",NA,NA,NA,NA,-5,-5,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4110189,Cerebral infarct due to thrombosis of precerebral arteries,NA,NA,NA,NA,12,207,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),4148906,Spontaneous subarachnoid hemorrhage,NA,NA,NA,NA,7,42,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),37016924,Dissection of cerebral artery,NA,NA,NA,NA,-5,20,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),42535425,Spontaneous hemorrhage of cerebral hemisphere,NA,NA,NA,NA,-5,64,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),42535426,Acute nontraumatic subdural hemorrhage,NA,NA,NA,NA,-5,5,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),42539269,Spontaneous hemorrhage of brain stem,NA,NA,NA,NA,-5,26,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),43530727,Spontaneous cerebral hemorrhage,NA,NA,NA,NA,-5,55,PREMIER
+125,2,HIV excluding HIV-II  ,439727,Human immunodeficiency virus infection,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,24296,Primary malignant neoplasm of pituitary gland,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,26638,Primary malignant neoplasm of esophagus,NA,NA,NA,NA,-5,14,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,73153,Malignant neoplasm of lateral wall of urinary bladder,NA,NA,NA,NA,-5,16,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,74582,Primary malignant neoplasm of rectum,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,78097,Secondary malignant neoplasm of bone,NA,NA,NA,NA,-5,8,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,133424,Primary malignant neoplasm of thyroid gland,NA,NA,NA,NA,-5,40,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,134603,Chronic myeloid leukemia,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,135214,Polycythemia vera,NA,NA,NA,NA,-5,133,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,135750,Primary malignant neoplasm of floor of mouth,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,136917,Primary malignant neoplasm of skin of face,NA,NA,NA,NA,-5,36,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,138708,Acute leukemia,NA,NA,NA,NA,-5,30,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,138994,Myelodysplastic syndrome,NA,NA,NA,NA,-5,19,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,139750,Primary malignant neoplasm of skin,NA,NA,NA,NA,6,60,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,192255,Primary malignant neoplasm of pylorus,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,192568,Secondary malignant neoplasm of intra-abdominal lymph nodes,NA,NA,NA,NA,-5,22,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,193144,Secondary malignant neoplasm of adrenal gland,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,193422,Primary malignant neoplasm of body of stomach,NA,NA,NA,NA,-5,46,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,194589,Primary malignant neoplasm of biliary tract,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,195197,Primary malignant neoplasm of vulva,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,195480,Primary malignant neoplasm of renal pelvis,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,196044,Primary malignant neoplasm of stomach,NA,NA,NA,NA,11,255,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,196359,Primary malignant neoplasm of uterine cervix,NA,NA,NA,NA,-5,102,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,196360,Primary malignant neoplasm of bladder,NA,NA,NA,NA,-5,22,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,197500,Primary malignant neoplasm of colon,NA,NA,NA,NA,-5,5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,197806,Primary malignant neoplasm of gallbladder,NA,NA,NA,NA,-5,43,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,198985,Primary malignant neoplasm of kidney,NA,NA,NA,NA,7,223,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,199754,Primary malignant neoplasm of pancreas,NA,NA,NA,NA,9,133,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,200962,Primary malignant neoplasm of prostate,NA,NA,NA,NA,-5,66,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,201519,Primary malignant neoplasm of liver,NA,NA,NA,NA,-5,82,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,254591,Secondary malignant neoplasm of lung,NA,NA,NA,NA,-5,18,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,318096,Secondary malignant neoplasm of lymph node,NA,NA,NA,NA,-5,6,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,432837,Primary malignant neoplasm of cecum,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,434293,Primary malignant neoplasm of body of pancreas,NA,NA,NA,NA,-5,207,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,435752,Primary malignant neoplasm of duodenum,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,435755,Primary malignant neoplasm of skin of eyelid,NA,NA,NA,NA,-5,26,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,436358,Primary malignant neoplasm of exocervix,NA,NA,NA,NA,-5,29,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,436635,Primary malignant neoplasm of sigmoid colon,NA,NA,NA,NA,-5,52,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,437224,Primary malignant neoplasm of greater curvature of stomach,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,437233,Multiple myeloma,NA,NA,NA,NA,-5,23,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,438383,Essential thrombocythemia,NA,NA,NA,NA,-5,26,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,438698,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",NA,NA,NA,NA,-5,35,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,440649,Primary malignant neoplasm of head of pancreas,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,441225,Primary malignant neoplasm of ampulla of Vater,NA,NA,NA,NA,5,80,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,441805,Primary malignant neoplasm of endocervix,NA,NA,NA,NA,-5,29,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4001171,Liver cell carcinoma,NA,NA,NA,NA,15,335,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4001328,"Diffuse non-Hodgkin's lymphoma, lymphoblastic",NA,NA,NA,NA,-5,92,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4001664,Intrahepatic bile duct carcinoma,NA,NA,NA,NA,-5,72,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4002357,"Follicular non-Hodgkin's lymphoma, small cleaved cell",NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4038838,Non-Hodgkin's lymphoma,NA,NA,NA,NA,-5,46,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4092077,Malignant neoplasm of specified parts of peritoneum,NA,NA,NA,NA,-5,12,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4095312,Malignant tumor of nasopharynx,NA,NA,NA,NA,-5,8,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4147411,Follicular non-Hodgkin's lymphoma,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4162253,Primary malignant neoplasm of breast,NA,NA,NA,NA,-5,41,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4188545,Primary malignant neoplasm of breast lower outer quadrant,NA,NA,NA,NA,-5,10,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4246451,Secondary malignant neoplasm of brain,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4247238,Primary malignant neoplasm of endometrium,NA,NA,NA,NA,-5,8,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4247719,Primary malignant neoplasm of ascending colon,NA,NA,NA,NA,-5,14,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4247836,Primary malignant neoplasm of major salivary gland,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4247962,Secondary malignant neoplasm of gastrointestinal tract,NA,NA,NA,NA,-5,-5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4300704,Diffuse large B-cell lymphoma,NA,NA,NA,NA,-5,5,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,4311499,Primary malignant neoplasm of respiratory tract,NA,NA,NA,NA,-5,39,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,40486896,Primary malignant neoplasm of extrahepatic bile duct,NA,NA,NA,NA,5,158,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,NA,NA,NA,NA,5,31,PREMIER
+125,4,Type 2 Diabetes Mellitus,192279,Kidney disorder due to diabetes mellitus,NA,NA,NA,NA,-5,62,PREMIER
+125,4,Type 2 Diabetes Mellitus,201530,Type 2 diabetes mellitus with hyperosmolar coma,NA,NA,NA,NA,38,776,PREMIER
+125,4,Type 2 Diabetes Mellitus,201820,Diabetes mellitus,NA,NA,NA,NA,17,198,PREMIER
+125,4,Type 2 Diabetes Mellitus,201826,Type 2 diabetes mellitus,NA,NA,NA,NA,-5,21,PREMIER
+125,4,Type 2 Diabetes Mellitus,376065,Neurological disorder with type 2 diabetes mellitus,NA,NA,NA,NA,8,327,PREMIER
+125,4,Type 2 Diabetes Mellitus,376112,Diabetic polyneuropathy,NA,NA,NA,NA,41,841,PREMIER
+125,4,Type 2 Diabetes Mellitus,376979,Cataract due to diabetes mellitus,NA,NA,NA,NA,36,792,PREMIER
+125,4,Type 2 Diabetes Mellitus,380096,Proliferative retinopathy with diabetes mellitus,NA,NA,NA,NA,44,1927,PREMIER
+125,4,Type 2 Diabetes Mellitus,442793,Diabetic complication,NA,NA,NA,NA,6,46,PREMIER
+125,4,Type 2 Diabetes Mellitus,443727,Diabetic ketoacidosis,NA,NA,NA,NA,5,6,PREMIER
+125,4,Type 2 Diabetes Mellitus,443729,Peripheral circulatory disorder associated with type 2 diabetes mellitus,NA,NA,NA,NA,13,420,PREMIER
+125,4,Type 2 Diabetes Mellitus,443731,Renal disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,32,862,PREMIER
+125,4,Type 2 Diabetes Mellitus,443732,Disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,76,1307,PREMIER
+125,4,Type 2 Diabetes Mellitus,443733,Disorder of eye with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+125,4,Type 2 Diabetes Mellitus,443734,Ketoacidosis in type 2 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+125,4,Type 2 Diabetes Mellitus,4008576,Diabetes mellitus without complication,NA,NA,NA,NA,105,554,PREMIER
+125,4,Type 2 Diabetes Mellitus,4048028,Diabetic mononeuropathy,NA,NA,NA,NA,5,44,PREMIER
+125,4,Type 2 Diabetes Mellitus,4096671,Malnutrition-related diabetes mellitus with peripheral circulatory complications,NA,NA,NA,NA,-5,37,PREMIER
+125,4,Type 2 Diabetes Mellitus,4099216,Type 2 diabetes mellitus with multiple complications,NA,NA,NA,NA,25,2719,PREMIER
+125,4,Type 2 Diabetes Mellitus,4128221,Microalbuminuric diabetic nephropathy,NA,NA,NA,NA,-5,8,PREMIER
+125,4,Type 2 Diabetes Mellitus,4137220,Diabetic glomerulonephritis,NA,NA,NA,NA,16,83,PREMIER
+125,4,Type 2 Diabetes Mellitus,4159742,Diabetic foot ulcer,NA,NA,NA,NA,5,69,PREMIER
+125,4,Type 2 Diabetes Mellitus,4174977,Retinopathy due to diabetes mellitus,NA,NA,NA,NA,57,1852,PREMIER
+125,4,Type 2 Diabetes Mellitus,4175440,Diabetic autonomic neuropathy,NA,NA,NA,NA,-5,26,PREMIER
+125,4,Type 2 Diabetes Mellitus,4193704,Type 2 diabetes mellitus without complication,NA,NA,NA,NA,84,1227,PREMIER
+125,4,Type 2 Diabetes Mellitus,4200875,Type 2 diabetes mellitus with peripheral angiopathy,NA,NA,NA,NA,-5,8,PREMIER
+125,4,Type 2 Diabetes Mellitus,4221495,Cataract due to diabetes mellitus type 2,NA,NA,NA,NA,-5,18,PREMIER
+125,4,Type 2 Diabetes Mellitus,4222415,Mononeuropathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+125,4,Type 2 Diabetes Mellitus,4222876,Gangrene associated with type 2 diabetes mellitus,NA,NA,NA,NA,-5,8,PREMIER
+125,4,Type 2 Diabetes Mellitus,4226121,Retinopathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,34,PREMIER
+125,4,Type 2 Diabetes Mellitus,4226238,Hyperosmolar coma due to diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+125,4,Type 2 Diabetes Mellitus,4226354,Gangrene associated with diabetes mellitus,NA,NA,NA,NA,-5,43,PREMIER
+125,4,Type 2 Diabetes Mellitus,36717156,Acidosis due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,14,PREMIER
+125,4,Type 2 Diabetes Mellitus,37016768,Autonomic neuropathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,13,PREMIER
+125,4,Type 2 Diabetes Mellitus,37017432,Polyneuropathy due to type 2 diabetes mellitus,NA,NA,NA,NA,21,678,PREMIER
+125,4,Type 2 Diabetes Mellitus,43530656,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,173,PREMIER
+125,4,Type 2 Diabetes Mellitus,43530685,Proliferative retinopathy with type 2 diabetes mellitus,NA,NA,NA,NA,-5,15,PREMIER
+125,4,Type 2 Diabetes Mellitus,43531616,Diabetic dermopathy associated with diabetes mellitus type 2,NA,NA,NA,NA,-5,11,PREMIER
+125,4,Type 2 Diabetes Mellitus,44793113,Diabetes mellitus with multiple complications,NA,NA,NA,NA,11,89,PREMIER
+125,4,Type 2 Diabetes Mellitus,45757363,Hypoglycemia due to type 2 diabetes mellitus,NA,NA,NA,NA,-5,22,PREMIER
+125,4,Type 2 Diabetes Mellitus,45769905,Microalbuminuria due to type 2 diabetes mellitus,NA,NA,NA,NA,19,1054,PREMIER
+125,4,Type 2 Diabetes Mellitus,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+125,5,Heart Failure ,314378,Hypertensive heart disease with congestive heart failure,NA,NA,NA,NA,20,559,PREMIER
+125,5,Heart Failure ,316139,Heart failure,NA,NA,NA,NA,37,239,PREMIER
+125,5,Heart Failure ,319835,Congestive heart failure,NA,NA,NA,NA,7,74,PREMIER
+125,5,Heart Failure ,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+125,5,Heart Failure ,439846,Left heart failure,NA,NA,NA,NA,47,286,PREMIER
+125,5,Heart Failure ,443580,Systolic heart failure,NA,NA,NA,NA,13,57,PREMIER
+125,5,Heart Failure ,443587,Diastolic heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+125,6,Cardiac arrhythmia composite,320744,Complete atrioventricular block,NA,NA,NA,NA,-5,31,PREMIER
+125,6,Cardiac arrhythmia composite,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+125,6,Cardiac arrhythmia composite,4068155,Atrial arrhythmia,NA,NA,NA,NA,-5,12,PREMIER
+125,6,Cardiac arrhythmia composite,4089462,Ventricular premature complex,NA,NA,NA,NA,7,36,PREMIER
+125,6,Cardiac arrhythmia composite,4115173,Atrial premature complex,NA,NA,NA,NA,6,62,PREMIER
+125,6,Cardiac arrhythmia composite,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+125,6,Cardiac arrhythmia composite,4141360,Chronic atrial fibrillation,NA,NA,NA,NA,-5,-5,PREMIER
+125,6,Cardiac arrhythmia composite,4154290,Paroxysmal atrial fibrillation,NA,NA,NA,NA,14,202,PREMIER
+125,6,Cardiac arrhythmia composite,4169095,Bradycardia,NA,NA,NA,NA,5,9,PREMIER
+125,6,Cardiac arrhythmia composite,4185572,Ventricular arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+125,6,Cardiac arrhythmia composite,4232697,Persistent atrial fibrillation,NA,NA,NA,NA,-5,20,PREMIER
+125,6,Cardiac arrhythmia composite,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+125,6,Cardiac arrhythmia composite,4275423,Supraventricular tachycardia,NA,NA,NA,NA,8,84,PREMIER
+125,6,Cardiac arrhythmia composite,44784217,Cardiac arrhythmia,NA,NA,NA,NA,5,15,PREMIER
+125,7,Heart disease conditions,312327,Acute myocardial infarction,NA,NA,NA,NA,18,134,PREMIER
+125,7,Heart disease conditions,312653,Acute myocarditis,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,314378,Hypertensive heart disease with congestive heart failure,NA,NA,NA,NA,20,559,PREMIER
+125,7,Heart disease conditions,314658,Cardiomegaly,NA,NA,NA,NA,5,39,PREMIER
+125,7,Heart disease conditions,314666,Old myocardial infarction,NA,NA,NA,NA,14,211,PREMIER
+125,7,Heart disease conditions,315273,Mitral valve stenosis,NA,NA,NA,NA,-5,61,PREMIER
+125,7,Heart disease conditions,315286,Chronic ischemic heart disease,NA,NA,NA,NA,19,391,PREMIER
+125,7,Heart disease conditions,315296,Preinfarction syndrome,NA,NA,NA,NA,22,410,PREMIER
+125,7,Heart disease conditions,315564,Aortic valve regurgitation,NA,NA,NA,NA,-5,41,PREMIER
+125,7,Heart disease conditions,316139,Heart failure,NA,NA,NA,NA,37,239,PREMIER
+125,7,Heart disease conditions,317576,Coronary arteriosclerosis,NA,NA,NA,NA,6,50,PREMIER
+125,7,Heart disease conditions,318776,Rheumatic mitral regurgitation,NA,NA,NA,NA,-5,71,PREMIER
+125,7,Heart disease conditions,319034,Hypertensive heart disease without congestive heart failure,NA,NA,NA,NA,9,190,PREMIER
+125,7,Heart disease conditions,319835,Congestive heart failure,NA,NA,NA,NA,7,74,PREMIER
+125,7,Heart disease conditions,319844,Acute ischemic heart disease,NA,NA,NA,NA,5,242,PREMIER
+125,7,Heart disease conditions,320744,Complete atrioventricular block,NA,NA,NA,NA,-5,31,PREMIER
+125,7,Heart disease conditions,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+125,7,Heart disease conditions,321107,Congenital insufficiency of aortic valve,NA,NA,NA,NA,-5,7,PREMIER
+125,7,Heart disease conditions,321318,Angina pectoris,NA,NA,NA,NA,41,396,PREMIER
+125,7,Heart disease conditions,321319,Cardiomyopathy,NA,NA,NA,NA,6,36,PREMIER
+125,7,Heart disease conditions,321588,Heart disease,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,434376,Acute myocardial infarction of anterior wall,NA,NA,NA,NA,-5,45,PREMIER
+125,7,Heart disease conditions,434462,Ventricular septal defect,NA,NA,NA,NA,-5,6,PREMIER
+125,7,Heart disease conditions,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,439834,Rheumatic aortic regurgitation,NA,NA,NA,NA,-5,70,PREMIER
+125,7,Heart disease conditions,439846,Left heart failure,NA,NA,NA,NA,47,286,PREMIER
+125,7,Heart disease conditions,443580,Systolic heart failure,NA,NA,NA,NA,13,57,PREMIER
+125,7,Heart disease conditions,443587,Diastolic heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,443962,Mitral valve regurgitation,NA,NA,NA,NA,8,200,PREMIER
+125,7,Heart disease conditions,4068155,Atrial arrhythmia,NA,NA,NA,NA,-5,12,PREMIER
+125,7,Heart disease conditions,4089462,Ventricular premature complex,NA,NA,NA,NA,7,36,PREMIER
+125,7,Heart disease conditions,4108950,Acquired cardiac septal defect,NA,NA,NA,NA,-5,16,PREMIER
+125,7,Heart disease conditions,4110961,Generalized ischemic myocardial dysfunction,NA,NA,NA,NA,-5,13,PREMIER
+125,7,Heart disease conditions,4115173,Atrial premature complex,NA,NA,NA,NA,6,62,PREMIER
+125,7,Heart disease conditions,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+125,7,Heart disease conditions,4127089,Coronary artery spasm,NA,NA,NA,NA,-5,20,PREMIER
+125,7,Heart disease conditions,4141360,Chronic atrial fibrillation,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,4154290,Paroxysmal atrial fibrillation,NA,NA,NA,NA,14,202,PREMIER
+125,7,Heart disease conditions,4163710,Dilated cardiomyopathy,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,4185572,Ventricular arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,4232697,Persistent atrial fibrillation,NA,NA,NA,NA,-5,20,PREMIER
+125,7,Heart disease conditions,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+125,7,Heart disease conditions,4270024,Acute non-ST segment elevation myocardial infarction,NA,NA,NA,NA,15,233,PREMIER
+125,7,Heart disease conditions,4275423,Supraventricular tachycardia,NA,NA,NA,NA,8,84,PREMIER
+125,7,Heart disease conditions,4289309,Atrial septal defect,NA,NA,NA,NA,-5,59,PREMIER
+125,7,Heart disease conditions,44784217,Cardiac arrhythmia,NA,NA,NA,NA,5,15,PREMIER
+199,11,"Birth, Abortion, Miscarriage",76482,Missed miscarriage,NA,NA,NA,NA,6,70,PREMIER
+199,11,"Birth, Abortion, Miscarriage",80165,Fetal disproportion,NA,NA,NA,NA,10,94,PREMIER
+199,11,"Birth, Abortion, Miscarriage",196758,Tumor of body of uterus affecting pregnancy,NA,NA,NA,NA,-5,40,PREMIER
+199,11,"Birth, Abortion, Miscarriage",197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,NA,NA,NA,NA,-5,24,PREMIER
+199,11,"Birth, Abortion, Miscarriage",197339,"Congenital abnormality of uterus, affecting pregnancy",NA,NA,NA,NA,-5,-5,PREMIER
+199,11,"Birth, Abortion, Miscarriage",436176,Miscarriage without complication,NA,NA,NA,NA,-5,-5,PREMIER
+199,11,"Birth, Abortion, Miscarriage",436740,Cervical incompetence,NA,NA,NA,NA,-5,-5,PREMIER
+199,11,"Birth, Abortion, Miscarriage",441641,Delivery normal,NA,NA,NA,NA,5,11,PREMIER
+199,11,"Birth, Abortion, Miscarriage",441919,Twin pregnancy,NA,NA,NA,NA,-5,6,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4061458,Delivery by cesarean hysterectomy,NA,NA,NA,NA,8,11,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4118056,Fetal or neonatal effect of maternal premature rupture of membrane,NA,NA,NA,NA,-5,-5,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4128030,Delivery procedure,NA,NA,NA,NA,-5,-5,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4150970,Medical induction of labor,NA,NA,NA,NA,14,21,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4171115,Low birth weight infant,NA,NA,NA,NA,-5,35,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4205240,Spontaneous vertex delivery,NA,NA,NA,NA,11,19,PREMIER
+199,11,"Birth, Abortion, Miscarriage",4311671,Episiotomy,NA,NA,NA,NA,22,33,PREMIER
+199,11,"Birth, Abortion, Miscarriage",36675035,Prematurity of infant,NA,NA,NA,NA,-5,118,PREMIER
+199,11,"Birth, Abortion, Miscarriage",40539858,Pregnancy with abortive outcome,NA,NA,NA,NA,-5,6,PREMIER
+199,11,"Birth, Abortion, Miscarriage",44784550,Preterm spontaneous labor with preterm delivery,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",72693,Poor fetal growth affecting management,NA,NA,NA,NA,-5,29,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",74104,Fetal condition affecting obstetrical care of mother,NA,NA,NA,NA,13,123,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",74698,Breech presentation,NA,NA,NA,NA,-5,29,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",76482,Missed miscarriage,NA,NA,NA,NA,6,70,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",80165,Fetal disproportion,NA,NA,NA,NA,10,94,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",81636,Excessive fetal growth affecting management of mother,NA,NA,NA,NA,7,24,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",194702,Premature rupture of membranes,NA,NA,NA,NA,16,32,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",196751,Placenta previa with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",196758,Tumor of body of uterus affecting pregnancy,NA,NA,NA,NA,-5,40,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,NA,NA,NA,NA,-5,24,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",197339,"Congenital abnormality of uterus, affecting pregnancy",NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",197938,Uterine inertia,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",198488,Placental abruption,NA,NA,NA,NA,-5,20,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",201958,Disorder involving the integument of fetus OR newborn,NA,NA,NA,NA,-5,9,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",377680,Facial nerve injury as birth trauma,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",433536,Severe pre-eclampsia,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",433542,Precipitate labor,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",434111,Oligohydramnios,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",434708,Cord around neck with compression,NA,NA,NA,NA,5,9,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",435604,"Viral disease in mother complicating pregnancy, childbirth AND/OR puerperium",NA,NA,NA,NA,-5,22,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",436166,Mild hyperemesis gravidarum,NA,NA,NA,NA,-5,14,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",436176,Miscarriage without complication,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",436740,Cervical incompetence,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",437611,Ectopic pregnancy,NA,NA,NA,NA,-5,5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",437623,Polyhydramnios,NA,NA,NA,NA,-5,14,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",439393,Pre-eclampsia,NA,NA,NA,NA,-5,6,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",439658,Disorder of pregnancy,NA,NA,NA,NA,-5,29,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",440216,Abnormal glucose tolerance test,NA,NA,NA,NA,9,54,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",440457,Threatened miscarriage,NA,NA,NA,NA,9,132,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",440795,Complication occurring during labor and delivery,NA,NA,NA,NA,5,9,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",441641,Delivery normal,NA,NA,NA,NA,5,11,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",441919,Twin pregnancy,NA,NA,NA,NA,-5,6,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",442069,Vacuum extractor delivery - delivered,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",443929,Postpartum hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",444114,Maternal AND/OR fetal condition affecting labor AND/OR delivery,NA,NA,NA,NA,5,46,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4024659,Gestational diabetes mellitus,NA,NA,NA,NA,6,90,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4028913,Ultrasound procedure on female genital system AND/OR pregnancy related structure,NA,NA,NA,NA,73,136,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4034088,Partial hydatidiform mole,NA,NA,NA,NA,-5,18,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4049790,Meconium in amniotic fluid affecting management of mother,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4060424,"Mental disorders during pregnancy, childbirth and the puerperium",NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4060556,"Uterine scar from previous surgery in pregnancy, childbirth and the puerperium",NA,NA,NA,NA,13,101,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4060672,Fetus with drug damage,NA,NA,NA,NA,-5,15,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4061457,Delivery by elective cesarean section,NA,NA,NA,NA,10,21,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4061458,Delivery by cesarean hysterectomy,NA,NA,NA,NA,8,11,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4062557,False labor,NA,NA,NA,NA,5,32,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4064724,Abnormal chromosomal and genetic finding on antenatal screening of mother,NA,NA,NA,NA,-5,12,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4066112,Delivery by emergency cesarean section,NA,NA,NA,NA,9,48,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4082534,Ultrasonography for antepartum monitoring of fetus,NA,NA,NA,NA,20,37,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4112701,Prenatal examination and care of mother,NA,NA,NA,NA,22,35,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4118056,Fetal or neonatal effect of maternal premature rupture of membrane,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4123182,Removal of Shirodkar suture from cervix,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4126390,Finding of pattern of delivery,NA,NA,NA,NA,-5,6,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4128030,Delivery procedure,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4146482,Urinary tract infection in pregnancy,NA,NA,NA,NA,-5,8,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4150970,Medical induction of labor,NA,NA,NA,NA,14,21,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4167493,Pregnancy-induced hypertension,NA,NA,NA,NA,-5,25,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4170448,Intrauterine hypoxia,NA,NA,NA,NA,-5,15,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4171113,Fetal growth abnormality,NA,NA,NA,NA,-5,6,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4171115,Low birth weight infant,NA,NA,NA,NA,-5,35,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4174548,Catheterization of umbilical vein,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4185545,Lysis of anterior adhesions of iris,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4205240,Spontaneous vertex delivery,NA,NA,NA,NA,11,19,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4290881,Birth injury to scalp,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4299535,Pregnant,NA,NA,NA,NA,-5,12,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4307820,Unplanned pregnancy,NA,NA,NA,NA,-5,15,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4311671,Episiotomy,NA,NA,NA,NA,22,33,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",4327042,Fetal electrocardiogram,NA,NA,NA,NA,24,103,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",36712695,Suspected fetal abnormality affecting management of mother,NA,NA,NA,NA,-5,18,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",36712703,Preterm labor without delivery,NA,NA,NA,NA,9,24,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",40539858,Pregnancy with abortive outcome,NA,NA,NA,NA,-5,6,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",42538185,Umbilical cord complication during labor and delivery,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",43531007,Pre-existing diabetes mellitus in pregnancy,NA,NA,NA,NA,-5,14,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",44784550,Preterm spontaneous labor with preterm delivery,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",44784551,Preterm spontaneous labor with term delivery,NA,NA,NA,NA,-5,-5,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",44790261,Ultrasound monitoring of early pregnancy,NA,NA,NA,NA,29,49,PREMIER
+200,1,Fever (38.0?C or higher) pre-coordinated measurement and conditions,437663,Fever,NA,NA,NA,NA,515,893,PREMIER
+200,2,Fever (38.0?C or higher) measurement and observation,3020891,Body temperature,No matching concept,None,0,No matching concept,892,93685,PREMIER
+200,3,Cough,254761,Cough,NA,NA,NA,NA,110,509,PREMIER
+200,3,Cough,433596,Abnormal sputum,NA,NA,NA,NA,-5,-5,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),439926,Malaise and fatigue,NA,NA,NA,NA,49,149,PREMIER
+200,5,Altered Smell or Taste,4185711,Loss of sense of smell,NA,NA,NA,NA,-5,50,PREMIER
+200,6,Dyspnea,312437,Dyspnea,NA,NA,NA,NA,101,419,PREMIER
+200,7,Myalgia,442752,Muscle pain,NA,NA,NA,NA,32,189,PREMIER
+200,7,Myalgia,4121597,Myalgia/myositis - shoulder,NA,NA,NA,NA,5,8,PREMIER
+200,7,Myalgia,4125937,Myalgia/myositis - multiple,NA,NA,NA,NA,20,183,PREMIER
+200,7,Myalgia,4126064,Myalgia/myositis - ankle/foot,NA,NA,NA,NA,-5,7,PREMIER
+203,0,Chronic kidney disease,192279,Kidney disorder due to diabetes mellitus,NA,NA,NA,NA,-5,62,PREMIER
+203,0,Chronic kidney disease,192359,Renal failure syndrome,NA,NA,NA,NA,10,194,PREMIER
+203,0,Chronic kidney disease,193782,End-stage renal disease,NA,NA,NA,NA,8,83,PREMIER
+203,0,Chronic kidney disease,195314,Nephrotic syndrome,NA,NA,NA,NA,-5,39,PREMIER
+203,0,Chronic kidney disease,200687,Renal disorder associated with type 1 diabetes mellitus,NA,NA,NA,NA,-5,32,PREMIER
+203,0,Chronic kidney disease,201313,Hypertensive renal disease,NA,NA,NA,NA,6,134,PREMIER
+203,0,Chronic kidney disease,252365,Membranous glomerulonephritis,NA,NA,NA,NA,-5,9,PREMIER
+203,0,Chronic kidney disease,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+203,0,Chronic kidney disease,443597,Chronic kidney disease stage 3,NA,NA,NA,NA,40,554,PREMIER
+203,0,Chronic kidney disease,443601,Chronic kidney disease stage 2,NA,NA,NA,NA,-5,43,PREMIER
+203,0,Chronic kidney disease,443611,Chronic kidney disease stage 5,NA,NA,NA,NA,163,19022,PREMIER
+203,0,Chronic kidney disease,443612,Chronic kidney disease stage 4,NA,NA,NA,NA,80,1266,PREMIER
+203,0,Chronic kidney disease,443614,Chronic kidney disease stage 1,NA,NA,NA,NA,44,3454,PREMIER
+203,0,Chronic kidney disease,443731,Renal disorder due to type 2 diabetes mellitus,NA,NA,NA,NA,32,862,PREMIER
+203,0,Chronic kidney disease,443919,Hypertensive renal failure,NA,NA,NA,NA,37,2768,PREMIER
+203,0,Chronic kidney disease,4056478,Chronic nephritic syndrome,NA,NA,NA,NA,16,493,PREMIER
+203,0,Chronic kidney disease,4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",NA,NA,NA,NA,-5,57,PREMIER
+203,0,Chronic kidney disease,4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",NA,NA,NA,NA,-5,74,PREMIER
+203,0,Chronic kidney disease,4128221,Microalbuminuric diabetic nephropathy,NA,NA,NA,NA,-5,8,PREMIER
+203,0,Chronic kidney disease,4137220,Diabetic glomerulonephritis,NA,NA,NA,NA,16,83,PREMIER
+203,0,Chronic kidney disease,4272486,Diffuse crescentic glomerulonephritis,NA,NA,NA,NA,-5,6,PREMIER
+203,0,Chronic kidney disease,4298809,Nephritic syndrome,NA,NA,NA,NA,-5,46,PREMIER
+203,0,Chronic kidney disease,45757535,Microalbuminuria due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,-5,PREMIER
+203,0,Chronic kidney disease,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+203,0,Chronic kidney disease,45769905,Microalbuminuria due to type 2 diabetes mellitus,NA,NA,NA,NA,19,1054,PREMIER
+203,0,Chronic kidney disease,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+203,0,Chronic kidney disease,46271022,Chronic kidney disease,NA,NA,NA,NA,147,4711,PREMIER
+205,13,HIV excluding HIV-II  ,439727,Human immunodeficiency virus infection,NA,NA,NA,NA,-5,-5,PREMIER

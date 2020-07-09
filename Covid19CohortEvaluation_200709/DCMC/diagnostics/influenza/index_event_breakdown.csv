@@ -1,0 +1,11 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+4266367,Influenza,8,111,PREMIER
+3044141,Influenza virus A Ag [Presence] in Nasopharynx,5,111,PREMIER
+3045831,Influenza virus B Ag [Presence] in Nasopharynx,5,111,PREMIER
+4266367,Influenza,9,112,PREMIER
+3044141,Influenza virus A Ag [Presence] in Nasopharynx,5,112,PREMIER
+3045831,Influenza virus B Ag [Presence] in Nasopharynx,5,112,PREMIER
+9201,Inpatient Visit,-5,113,PREMIER
+262,Emergency Room and Inpatient Visit,-5,113,PREMIER
+9201,Inpatient Visit,-5,114,PREMIER
+262,Emergency Room and Inpatient Visit,-5,114,PREMIER

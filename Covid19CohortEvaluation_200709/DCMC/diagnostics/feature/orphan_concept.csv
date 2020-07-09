@@ -1,0 +1,157 @@
+cohort_id,concept_set_id,concept_set_name,concept_count,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,database_id
+121,3,Asthma,-5,4062501,Asthma screening,Procedure,SNOMED,Procedure,S,171231001,1970-01-01,2099-12-31,NA,PREMIER
+121,4,Respiratory therapy,6,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,2018-08-21,2099-12-31,NA,PREMIER
+121,4,Respiratory therapy,75,42919217,120 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646088,2018-08-21,2099-12-31,NA,PREMIER
+121,4,Respiratory therapy,-5,42919252,100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646121,2018-08-21,2099-12-31,NA,PREMIER
+122,3,LAMA,6,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,2018-08-21,2099-12-31,NA,PREMIER
+122,7,ICS,-5,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,Drug,RxNorm Extension,Clinical Drug,S,OMOP453830,2017-08-24,2099-12-31,NA,PREMIER
+122,7,ICS,75,42919217,120 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646088,2018-08-21,2099-12-31,NA,PREMIER
+123,9,LABA + LAMA + ICS,-5,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,Drug,RxNorm Extension,Clinical Drug,S,OMOP453830,2017-08-24,2099-12-31,NA,PREMIER
+123,9,LABA + LAMA + ICS,75,42919217,120 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646088,2018-08-21,2099-12-31,NA,PREMIER
+123,9,LABA + LAMA + ICS,6,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,2018-08-21,2099-12-31,NA,PREMIER
+174,3,Asthma,-5,4062501,Asthma screening,Procedure,SNOMED,Procedure,S,171231001,1970-01-01,2099-12-31,NA,PREMIER
+143,1,Fever (38.0?C or higher) pre-coordinated measurement and conditions,-5,4226022,Drug-induced hyperpyrexia,Condition,SNOMED,Clinical Finding,S,405543000,1970-01-01,2099-12-31,NA,PREMIER
+144,1,Cough,83,261687,Hemoptysis,Condition,SNOMED,Clinical Finding,S,66857006,1970-01-01,2099-12-31,NA,PREMIER
+144,1,Cough,195,261889,Simple chronic bronchitis,Condition,SNOMED,Clinical Finding,S,61937009,1970-01-01,2099-12-31,NA,PREMIER
+145,2,Myalgia,131,40405599,Fibromyalgia,Condition,SNOMED,Clinical Finding,S,203082005,1970-01-01,2099-12-31,NA,PREMIER
+145,2,Myalgia,-5,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,1970-01-01,2099-12-31,NA,PREMIER
+146,3,Malaise or Fatigue or (Malaise and Fatigue),-5,4147498,"Encephalitis, myelitis and encephalomyelitis",Condition,SNOMED,Clinical Finding,S,267576008,1970-01-01,2099-12-31,NA,PREMIER
+146,3,Malaise or Fatigue or (Malaise and Fatigue),29,76685,Myasthenia gravis,Condition,SNOMED,Clinical Finding,S,91637004,1970-01-01,2099-12-31,NA,PREMIER
+146,3,Malaise or Fatigue or (Malaise and Fatigue),-5,4189235,Third cranial nerve weakness,Condition,SNOMED,Clinical Finding,S,388980004,1970-01-01,2099-12-31,NA,PREMIER
+146,3,Malaise or Fatigue or (Malaise and Fatigue),15,4202045,Postviral fatigue syndrome,Condition,SNOMED,Clinical Finding,S,51771007,1970-01-01,2099-12-31,NA,PREMIER
+152,2,Pneumonia,92,3046861,Legionella sp Ag [Presence] in Urine,Measurement,LOINC,Lab Test,S,32781-7,1970-01-01,2099-12-31,NA,PREMIER
+152,2,Pneumonia,115,3011363,Streptococcus pneumoniae Ag [Presence] in Urine,Measurement,LOINC,Lab Test,S,24027-5,1970-01-01,2099-12-31,NA,PREMIER
+152,2,Pneumonia,104,36305584,Mycoplasma pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,Measurement,LOINC,Lab Test,S,88720-8,2018-06-15,2099-12-31,NA,PREMIER
+152,2,Pneumonia,104,36303621,Chlamydophila pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,Measurement,LOINC,Lab Test,S,88718-2,2018-06-15,2099-12-31,NA,PREMIER
+152,2,Pneumonia,150,3010521,Mycoplasma pneumoniae IgM Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,5257-1,1970-01-01,2099-12-31,NA,PREMIER
+152,2,Pneumonia,40,37020998,Streptococcus pneumoniae DNA [Presence] in Respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,92125-4,2019-06-21,2099-12-31,NA,PREMIER
+152,2,Pneumonia,40,3003733,Legionella pneumophila Ag [Presence] in Unspecified specimen,Measurement,LOINC,Lab Test,S,17057-1,1998-06-04,2099-12-31,NA,PREMIER
+152,2,Pneumonia,15,4187218,Pneumonitis due to inhaled substance,Condition,SNOMED,Clinical Finding,S,415126001,1970-01-01,2099-12-31,NA,PREMIER
+152,2,Pneumonia,144,3045068,Mycoplasma pneumoniae IgG Ab [Presence] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,45224-3,2006-04-28,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,6,4272486,Diffuse crescentic glomerulonephritis,Condition,SNOMED,Clinical Finding,S,64212008,1970-01-01,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,9,4177206,Tubulointerstitial nephritis,Condition,SNOMED,Clinical Finding,S,428255004,2008-01-31,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,5,4264718,Chronic interstitial nephritis,Condition,SNOMED,Clinical Finding,S,60926001,1970-01-01,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,74,4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",Condition,SNOMED,Clinical Finding,S,197595006,1970-01-01,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,9,252365,Membranous glomerulonephritis,Condition,SNOMED,Clinical Finding,S,77182004,1970-01-01,2099-12-31,NA,PREMIER
+154,1,Acute kidney injury,83,4137220,Diabetic glomerulonephritis,Condition,SNOMED,Clinical Finding,S,425455002,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,16,321042,Cardiac arrest,Condition,SNOMED,Clinical Finding,S,410429000,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,190,319034,Hypertensive heart disease without congestive heart failure,Condition,SNOMED,Clinical Finding,S,60899001,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,20,261600,Acute pulmonary edema,Condition,SNOMED,Clinical Finding,S,40541001,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+159,1,Heart Failure ,14,4120088,Cardiac arrest with successful resuscitation,Condition,SNOMED,Clinical Finding,S,233927002,1970-01-01,2099-12-31,NA,PREMIER
+160,0,Cardiac arrhythmia composite,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+160,0,Cardiac arrhythmia composite,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+160,0,Cardiac arrhythmia composite,-5,4049987,Radiofrequency ablation operation for arrhythmia,Procedure,SNOMED,Procedure,S,233163003,1970-01-01,2099-12-31,NA,PREMIER
+160,0,Cardiac arrhythmia composite,-5,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,Procedure,S,443355007,2010-01-31,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,42,42919980,50 ML Lidocaine 2 MG/ML Topical Spray [BERACAINE],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646838,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,165,42922188,1.80000000000000004 ML Epinephrine 0.0100000000000000002 MG/ML / Lidocaine 20 MG/ML Injectable Solution [LIDOCAINEEPINEPHRINE YUHAN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4649004,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,45,42920539,15 ML Lidocaine 20 MG/ML Oral Solution [TAEJOON LIDOCAINE VISCOUS],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4647386,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,37,42965991,Lidocaine 700 MG Transdermal System [LIDOTOP],Drug,RxNorm Extension,Branded Drug,S,OMOP4692455,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,32,40227012,Lidocaine Hydrochloride 10 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,1010033,2010-10-03,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,10,42921502,5 ML Lidocaine 20 MG/ML Injectable Solution [LIDOCAINE HCL DAIHAN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4648330,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,501,40244393,Lidocaine 100 MG/ML Topical Spray,Drug,RxNorm,Clinical Drug,S,1191692,2011-12-04,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,133,40227062,Lidocaine Hydrochloride 20 MG/ML Topical Solution,Drug,RxNorm,Clinical Drug,S,1010774,2010-10-03,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,218,40227049,Lidocaine Hydrochloride 20 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,1010671,2010-10-03,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,400,42920420,20 ML Lidocaine 10 MG/ML Injectable Solution [LIDOCAINE HCL DAIHAN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4647270,2018-08-21,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,71,1378389,Paclitaxel 100 MG Injection [Abraxane],Drug,RxNorm,Branded Drug,S,583218,2005-11-13,2099-12-31,NA,PREMIER
+160,1,Antiarrhythmics,299,42920418,20 ML Lidocaine 20 MG/ML Injectable Solution [JEIL LIDOCAINE],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4647268,2018-08-21,2099-12-31,NA,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,36,4089462,Ventricular premature complex,Condition,SNOMED,Clinical Finding,S,251175005,1970-01-01,2099-12-31,NA,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,84,4275423,Supraventricular tachycardia,Condition,SNOMED,Clinical Finding,S,6456007,1970-01-01,2099-12-31,NA,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+169,2,Preterm delivery,-5,373766,Retinopathy of prematurity,Condition,SNOMED,Clinical Finding,S,415297005,1970-01-01,2099-12-31,NA,PREMIER
+170,0,Abortion,132,440457,Threatened miscarriage,Condition,SNOMED,Clinical Finding,S,54048003,1970-01-01,2099-12-31,NA,PREMIER
+170,0,Abortion,6,40539858,Pregnancy with abortive outcome,Condition,SNOMED,Clinical Finding,S,363681007,1970-01-01,2099-12-31,NA,PREMIER
+173,0,Cesarean Section,21,4061457,Delivery by elective cesarean section,Condition,SNOMED,Clinical Finding,S,200148001,1970-01-01,2099-12-31,NA,PREMIER
+173,0,Cesarean Section,11,4061458,Delivery by cesarean hysterectomy,Condition,SNOMED,Clinical Finding,S,200150009,1970-01-01,2099-12-31,NA,PREMIER
+173,0,Cesarean Section,48,4066112,Delivery by emergency cesarean section,Condition,SNOMED,Clinical Finding,S,200149009,1970-01-01,2099-12-31,NA,PREMIER
+181,5,Dialysis,126,4197217,Arteriovenous anastomosis for renal dialysis,Procedure,SNOMED,Procedure,S,79827002,1970-01-01,2099-12-31,NA,PREMIER
+181,5,Dialysis,25,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90771000119100,2015-01-31,2099-12-31,NA,PREMIER
+181,5,Dialysis,-5,42539666,Insertion of tunneled hemodialysis catheter,Procedure,SNOMED,Procedure,S,736922008,2018-01-31,2099-12-31,NA,PREMIER
+181,5,Dialysis,142,4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED,Procedure,S,63421002,1970-01-01,2099-12-31,NA,PREMIER
+181,5,Dialysis,9,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,180272001,1970-01-01,2099-12-31,NA,PREMIER
+181,5,Dialysis,1644,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,2015-01-31,2099-12-31,NA,PREMIER
+181,5,Dialysis,12,4235076,Replacement of peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,438342006,2009-01-31,2099-12-31,NA,PREMIER
+181,5,Dialysis,-5,4070976,Mechanical complication of dialysis catheter,Condition,SNOMED,Clinical Finding,S,17778006,1970-01-01,2099-12-31,NA,PREMIER
+181,5,Dialysis,62,4183419,Arteriovenous shunt for renal dialysis by external cannula,Procedure,SNOMED,Procedure,S,54817007,1970-01-01,2099-12-31,NA,PREMIER
+182,3,Chest pain or angina,8,132553,Herpangina,Condition,SNOMED,Clinical Finding,S,186659004,1970-01-01,2099-12-31,NA,PREMIER
+183,3,Angina,8,132553,Herpangina,Condition,SNOMED,Clinical Finding,S,186659004,1970-01-01,2099-12-31,NA,PREMIER
+186,3,Acute myocardial Infarction,211,314666,Old myocardial infarction,Condition,SNOMED,Clinical Finding,S,1755008,1970-01-01,2099-12-31,NA,PREMIER
+186,4,Sudden cardiac death,-5,140435,Arrested dental caries,Condition,SNOMED,Clinical Finding,S,80753001,1970-01-01,2099-12-31,NA,PREMIER
+186,4,Sudden cardiac death,-5,317109,Respiratory arrest,Condition,SNOMED,Clinical Finding,S,87317003,1970-01-01,2099-12-31,NA,PREMIER
+191,0,Ischemic stroke,65,381316,Cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,230690007,1970-01-01,2099-12-31,NA,PREMIER
+191,0,Ischemic stroke,-5,4047747,Subcortical vascular dementia,Condition,SNOMED,Clinical Finding,S,230286002,1970-01-01,2099-12-31,NA,PREMIER
+191,0,Ischemic stroke,69,443605,Vascular dementia,Condition,SNOMED,Clinical Finding,S,429998004,2009-01-31,2099-12-31,NA,PREMIER
+191,0,Ischemic stroke,25,4112026,Sequelae of cerebral infarction,Condition,SNOMED,Clinical Finding,S,195243003,1970-01-01,2099-12-31,NA,PREMIER
+191,0,Ischemic stroke,148,373503,Transient cerebral ischemia,Condition,SNOMED,Clinical Finding,S,266257000,1970-01-01,2099-12-31,NA,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,5,435959,Subarachnoid hemorrhage following injury without open intracranial wound,Condition,SNOMED,Clinical Finding,S,28048009,1970-01-01,2099-12-31,NA,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,34,4111721,Sequelae of intracerebral hemorrhage,Condition,SNOMED,Clinical Finding,S,195241001,1970-01-01,2099-12-31,NA,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,55,4111720,Sequelae of subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,195240000,1970-01-01,2099-12-31,NA,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,-5,4110185,"Intracerebral hemorrhage, intraventricular",Condition,SNOMED,Clinical Finding,S,195168007,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,11,4204555,Chronic peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,5492000,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,29,4291028,Peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,37442009,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,20,4222896,Chronic duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,40214005,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,6,21600109,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),Drug,ATC,ATC 4th,C,A02BX,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,11,4163865,Acute peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,45485004,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,48,4296611,Chronic gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,76796008,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,443,4248429,Gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,73481001,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,665,4209746,Duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,56776001,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,122,4195231,Acute gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,67964002,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,9,197925,Hemorrhage of rectum and anus,Condition,SNOMED,Clinical Finding,S,266464001,1970-01-01,2099-12-31,NA,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,111,4138962,Acute duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,32490005,1970-01-01,2099-12-31,NA,PREMIER
+189,4,Transient ischemic attack (TIA) Transient cerebral Ischemia (TCA),214,440392,Retinal vascular occlusion,Condition,SNOMED,Clinical Finding,S,73757007,1970-01-01,2099-12-31,NA,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),25,4112026,Sequelae of cerebral infarction,Condition,SNOMED,Clinical Finding,S,195243003,1970-01-01,2099-12-31,NA,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),65,381316,Cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,230690007,1970-01-01,2099-12-31,NA,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),55,4111720,Sequelae of subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,195240000,1970-01-01,2099-12-31,NA,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),34,4111721,Sequelae of intracerebral hemorrhage,Condition,SNOMED,Clinical Finding,S,195241001,1970-01-01,2099-12-31,NA,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),148,373503,Transient cerebral ischemia,Condition,SNOMED,Clinical Finding,S,266257000,1970-01-01,2099-12-31,NA,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,-5,4110185,"Intracerebral hemorrhage, intraventricular",Condition,SNOMED,Clinical Finding,S,195168007,1970-01-01,2099-12-31,NA,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,34,4111721,Sequelae of intracerebral hemorrhage,Condition,SNOMED,Clinical Finding,S,195241001,1970-01-01,2099-12-31,NA,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,5,435959,Subarachnoid hemorrhage following injury without open intracranial wound,Condition,SNOMED,Clinical Finding,S,28048009,1970-01-01,2099-12-31,NA,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,55,4111720,Sequelae of subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,195240000,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,20,4222896,Chronic duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,40214005,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,195977,Contusion of trunk,Condition,SNOMED,Clinical Finding,S,36787001,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,5,44784306,Colonoscopic control of bleeding,Procedure,SNOMED,Procedure,S,698409004,2014-01-31,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,74816,Contusion of toe,Condition,SNOMED,Clinical Finding,S,58075000,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,6,381444,Contusion of eye,Condition,SNOMED,Clinical Finding,S,367423000,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,26,81175,Contusion of chest,Condition,SNOMED,Clinical Finding,S,10050004,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,4058370,Contusion of toe(s) with damage to nail,Condition,SNOMED,Clinical Finding,S,211438006,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,6,78605,Contusion of elbow,Condition,SNOMED,Clinical Finding,S,91613004,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,73075,Contusion of upper limb,Condition,SNOMED,Clinical Finding,S,68142008,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,195401,Contusion of hip,Condition,SNOMED,Clinical Finding,S,44801007,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,436278,Contusion of thigh,Condition,SNOMED,Clinical Finding,S,84416003,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,4219836,Contusion of ocular adnexa and periocular tissues,Condition,SNOMED,Clinical Finding,S,417654008,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,11,4163865,Acute peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,45485004,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,102,3011625,Bleeding time,Measurement,LOINC,Lab Test,S,11067-6,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,9,2001005,Control of epistaxis by anterior nasal packing,Procedure,ICD9Proc,4-dig billing code,S,21.01,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,7,73090,Contusion of foot,Condition,SNOMED,Clinical Finding,S,74814004,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,270,22340,Esophageal varices without bleeding,Condition,SNOMED,Clinical Finding,S,14223005,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,2001007,Control of epistaxis by cauterization (and packing),Procedure,ICD9Proc,4-dig billing code,S,21.03,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,5,80573,Contusion of ankle,Condition,SNOMED,Clinical Finding,S,55042009,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,73649,Contusion of finger,Condition,SNOMED,Clinical Finding,S,69787006,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,40481439,Incision and drainage of hematoma,Procedure,SNOMED,Procedure,S,443385002,2010-01-31,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,4168085,Nasal packing for control of hemorrhage,Procedure,SNOMED,Procedure,S,274491002,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,34,4111721,Sequelae of intracerebral hemorrhage,Condition,SNOMED,Clinical Finding,S,195241001,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,29,4291028,Peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,37442009,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,665,4209746,Duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,56776001,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,443,4248429,Gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,73481001,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,11,4204555,Chronic peptic ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,5492000,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,8,78619,Contusion of knee,Condition,SNOMED,Clinical Finding,S,22878006,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,4183853,Control of epistaxis by ligation of artery,Procedure,SNOMED,Procedure,S,54194003,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,72,4103703,Melena,Condition,SNOMED,Clinical Finding,S,2901004,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,122,4195231,Acute gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,67964002,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,-5,4168088,Postoperative hemorrhage control,Procedure,SNOMED,Procedure,S,274508002,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,111,4138962,Acute duodenal ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,32490005,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,48,4296611,Chronic gastric ulcer without hemorrhage AND without perforation,Condition,SNOMED,Clinical Finding,S,76796008,1970-01-01,2099-12-31,NA,PREMIER
+194,2,Bleeding,55,4111720,Sequelae of subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,195240000,1970-01-01,2099-12-31,NA,PREMIER
+195,3,Antipsychotics,7,42952843,clebopride 0.5 MG Oral Tablet [BORYUNG CLEBORIL],Drug,RxNorm Extension,Branded Drug,S,OMOP4679405,2018-08-21,2099-12-31,NA,PREMIER
+195,3,Antipsychotics,159,42962544,levosulpiride 25 MG Oral Tablet [LEVOPRIDE],Drug,RxNorm Extension,Branded Drug,S,OMOP4689033,2018-08-21,2099-12-31,NA,PREMIER
+195,4,SSRI,-5,21602665,dapoxetine,Drug,ATC,ATC 5th,C,G04BX14,1970-01-01,2099-12-31,NA,PREMIER
+195,13,Dementia,49,4012809,Dementia test,Procedure,SNOMED,Procedure,S,165320004,1970-01-01,2099-12-31,NA,PREMIER
+195,13,Dementia,39,45763923,Assessment of psychotic and behavioral symptoms of dementia,Procedure,SNOMED,Procedure,S,700464008,2015-01-31,2099-12-31,NA,PREMIER
+195,14,Mania,493,42922198,1.69999999999999996 ML Articaine 40 MG/ML / Epinephrine 0.0179999999999999986 MG/ML Cartridge [Septanest],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4649014,2018-08-21,2099-12-31,NA,PREMIER
+195,15,Psychosis,493,42922198,1.69999999999999996 ML Articaine 40 MG/ML / Epinephrine 0.0179999999999999986 MG/ML Cartridge [Septanest],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4649014,2018-08-21,2099-12-31,NA,PREMIER
+195,17,Depressive disorder,12,40489350,Assessment using Beck depression inventory,Procedure,SNOMED,Procedure,S,446765009,2011-01-31,2099-12-31,NA,PREMIER
+195,17,Depressive disorder,21,4064377,Depression screening,Procedure,SNOMED,Procedure,S,171207006,1970-01-01,2099-12-31,NA,PREMIER
+196,1,Psychosis,493,42922198,1.69999999999999996 ML Articaine 40 MG/ML / Epinephrine 0.0179999999999999986 MG/ML Cartridge [Septanest],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4649014,2018-08-21,2099-12-31,NA,PREMIER

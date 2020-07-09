@@ -1,0 +1,174 @@
+2020-07-09 04:39:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	R version: R version 3.6.3 (2020-02-29)  Platform: x86_64-pc-linux-gnu  Locale: C  Attached base packages: - stats - graphics - grDevices - utils - datasets - methods - base  Other attached packages: - Covid19CharacterizationCharybdis (0.0.1) - DatabaseConnector (3.0.0)
+2020-07-09 04:39:38	[Main thread]	FATAL	DatabaseConnector	connect	Error in connect(dbms = connectionDetails$dbms, user = connectionDetails$user,  :    Error: database name not included in server string but is required for PostgreSQL. Please specify server as <host>/<database> Calls: runStudy -> <Anonymous> -> connect 
+2020-07-09 04:39:38	[Main thread]	WARN	Covid19CharacterizationCharybdis	runStudy	Could not find logger DEFAULT
+2020-07-09 04:40:07	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	R version: R version 3.6.3 (2020-02-29)  Platform: x86_64-pc-linux-gnu  Locale: C  Attached base packages: - stats - graphics - grDevices - utils - datasets - methods - base  Other attached packages: - Covid19CharacterizationCharybdis (0.0.1) - DatabaseConnector (3.0.0)
+2020-07-09 04:40:07	[Main thread]	FATAL	DatabaseConnector	connect	Error in connect(dbms = connectionDetails$dbms, user = connectionDetails$user,  :    Error: database name not included in server string but is required for PostgreSQL. Please specify server as <host>/<database> Calls: runStudy -> <Anonymous> -> connect 
+2020-07-09 04:40:07	[Main thread]	WARN	Covid19CharacterizationCharybdis	runStudy	Could not find logger DEFAULT
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	R version: R version 3.6.3 (2020-02-29)  Platform: x86_64-pc-linux-gnu  Locale: C  Attached base packages: - stats - graphics - grDevices - utils - datasets - methods - base  Other attached packages: - Covid19CharacterizationCharybdis (0.0.1) - DatabaseConnector (3.0.0)
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	  ---- Creating target cohorts ---- 
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	instantiateCohortSet	Cohort table already exists and in incremental mode, so not recreating table.
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '126' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '128' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '130' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '132' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '134' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '136' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '138' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '140' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '127' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '129' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '131' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '133' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '135' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '137' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '139' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '141' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '111' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '113' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '115' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '112' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '114' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '116' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	******************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	  ---- Creating strata cohorts  ---- 
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	******************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '100' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '101' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '119' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '120' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '102' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '103' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '104' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '105' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '199' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '106' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '117' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '107' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '108' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '109' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '125' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '118' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '200' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '203' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '204' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '205' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '206' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	 ---- Creating feature cohorts ---- 
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '121' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '122' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '123' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '124' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '110' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '142' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '143' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '144' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '145' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '146' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '147' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '148' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '149' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '150' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '151' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '152' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '153' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '154' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '155' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '156' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '157' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '158' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '159' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '160' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '161' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '162' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '163' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '164' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '165' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '166' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '167' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '168' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '169' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '170' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '171' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '172' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '173' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '174' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '175' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '176' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '177' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '178' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '179' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '180' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '181' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '182' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '183' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '184' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '185' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '186' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '187' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '188' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '189' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '190' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '191' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '192' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '193' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '194' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '195' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '196' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '197' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	isTaskRequired	Skipping cohortId = '198' because unchanged from earlier run
+2020-07-09 04:52:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	instantiateCohortSet	63/64: Instantiation cohort Acute kidney injury (AKI) using diagnosis codes and change in measurements during hospitlization  (201.sql)
+2020-07-09 04:52:33	[Main thread]	INFO	Covid19CharacterizationCharybdis	instantiateCohortSet	64/64: Instantiation cohort Discharge from hospitalization  (202.sql)
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	 ---- Creating stratified target cohorts ---- 
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Full 30-day follow up
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by < 30-day follow up
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Sex = Female
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Sex = Male
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Age >= 18
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Age < 18
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Age >= 65
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Age < 65
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Black or African American
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by White
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: Jan 2020
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: Feb 2020
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: Mar 2020
+2020-07-09 04:52:34	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: Apr 2020
+2020-07-09 04:52:35	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: May 2020
+2020-07-09 04:52:35	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromFile	Stratify by Index date: Jun 2020
+2020-07-09 04:52:36	[Main thread]	INFO	Covid19CharacterizationCharybdis	createBulkStrataFromCohorts	Stratify by cohorts
+2020-07-09 04:52:36	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:36	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	 ---- Copy cohorts to main table ---- 
+2020-07-09 04:52:36	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	copyAndCensorCohorts	Copy and censor cohorts to main analysis table
+2020-07-09 04:52:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	 ---- Create feature proportions ---- 
+2020-07-09 04:52:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	**********************************************************
+2020-07-09 04:52:38	[Main thread]	INFO	Covid19CharacterizationCharybdis	createFeatureProportions	Compute feature proportions for all target and strata
+2020-07-09 04:52:39	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Saving database metadata
+2020-07-09 04:52:39	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Counting staging cohorts
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	getCohortCounts	Counting cohorts took 0.099 secs
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 191 values (39.4%) from cohortEntries because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 194 values (40%) from cohortSubjects because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Counting cohorts
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	getCohortCounts	Counting cohorts took 0.0845 secs
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 37 values (19.7%) from cohortEntries because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 37 values (19.7%) from cohortSubjects because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Extract feature counts
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 11643 values (63.2%) from featureCount because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 4275 values (51.2%) from mean because value below minimum
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	********************************************************************************************
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Bulk characterization of all cohorts for all time windows
+2020-07-09 04:52:40	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	********************************************************************************************
+2020-07-09 04:53:29	[Main thread]	INFO	Covid19CharacterizationCharybdis	enforceMinCellValue	   censoring 280709 values (69.9%) from mean because value below minimum
+2020-07-09 04:53:29	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	********************************************************************************************
+2020-07-09 04:53:29	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Formatting Results
+2020-07-09 04:53:29	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	********************************************************************************************
+2020-07-09 04:53:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	exportResults	Adding results to zip file
+2020-07-09 04:53:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	exportResults	Results are ready for sharing at:/CHARYBDIS/Runs/PREMIER/Results_PREMIER.zip
+2020-07-09 04:53:31	[Main thread]	INFO	Covid19CharacterizationCharybdis	runStudy	Running study took 1.01 mins

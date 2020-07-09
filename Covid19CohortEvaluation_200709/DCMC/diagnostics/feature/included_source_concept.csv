@@ -1,0 +1,368 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+110,0,Gestational diabetes,4024659,Gestational diabetes mellitus,NA,NA,NA,NA,6,90,PREMIER
+121,0, Chronic obstructive lung disease,255573,Chronic obstructive lung disease,NA,NA,NA,NA,18,252,PREMIER
+121,0, Chronic obstructive lung disease,257004,Acute exacerbation of chronic obstructive airways disease,NA,NA,NA,NA,-5,56,PREMIER
+121,0, Chronic obstructive lung disease,4193588,Moderate chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,42,PREMIER
+121,0, Chronic obstructive lung disease,4196712,Mild chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,29,PREMIER
+121,0, Chronic obstructive lung disease,4209097,Severe chronic obstructive pulmonary disease,NA,NA,NA,NA,-5,-5,PREMIER
+121,3,Asthma,317009,Asthma,NA,NA,NA,NA,43,563,PREMIER
+121,3,Asthma,4110051,Mixed asthma,NA,NA,NA,NA,-5,20,PREMIER
+121,3,Asthma,4191479,Allergic asthma,NA,NA,NA,NA,12,117,PREMIER
+121,4,Respiratory therapy,19098138,Budesonide 0.25 MG/ML Inhalation Suspension,NA,NA,NA,NA,-5,11,PREMIER
+121,4,Respiratory therapy,19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+121,4,Respiratory therapy,19130452,60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],NA,NA,NA,NA,-5,9,PREMIER
+121,4,Respiratory therapy,42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],NA,NA,NA,NA,15,81,PREMIER
+121,4,Respiratory therapy,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],NA,NA,NA,NA,6,36,PREMIER
+121,4,Respiratory therapy,42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],NA,NA,NA,NA,124,1039,PREMIER
+121,4,Respiratory therapy,42922105,2 ML Budesonide 0.25 MG/ML Inhalant Solution [Budecort],NA,NA,NA,NA,6,29,PREMIER
+121,4,Respiratory therapy,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,NA,NA,NA,NA,-5,-5,PREMIER
+122,1,"Leukotriene receptor antagonists
+",1154192,montelukast 10 MG Oral Tablet [Singulair],NA,NA,NA,NA,25,364,PREMIER
+122,1,"Leukotriene receptor antagonists
+",1154193,montelukast 5 MG Chewable Tablet [Singulair],NA,NA,NA,NA,-5,-5,PREMIER
+122,1,"Leukotriene receptor antagonists
+",1154196,montelukast 4 MG Chewable Tablet [Singulair],NA,NA,NA,NA,-5,6,PREMIER
+122,1,"Leukotriene receptor antagonists
+",19102732,montelukast 4 MG Oral Granules [Singulair],NA,NA,NA,NA,-5,19,PREMIER
+122,1,"Leukotriene receptor antagonists
+",42959455,ibudilast 10 MG Oral Capsule [KETAS],NA,NA,NA,NA,12,101,PREMIER
+122,1,"Leukotriene receptor antagonists
+",42962458,pranlukast hydrate 70 MG Tablet for Oral Suspension [CITUS],NA,NA,NA,NA,-5,18,PREMIER
+122,1,"Leukotriene receptor antagonists
+",42962462,pranlukast hydrate 50 MG Oral Tablet [CITUS],NA,NA,NA,NA,-5,-5,PREMIER
+122,1,"Leukotriene receptor antagonists
+",42962481,pranlukast hydrate 113 MG Oral Capsule [ONON],NA,NA,NA,NA,14,80,PREMIER
+122,3,LAMA,19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+122,3,LAMA,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],NA,NA,NA,NA,6,36,PREMIER
+122,5,SABA,42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],NA,NA,NA,NA,15,81,PREMIER
+122,5,SABA,42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],NA,NA,NA,NA,124,1039,PREMIER
+122,7,ICS,19098138,Budesonide 0.25 MG/ML Inhalation Suspension,NA,NA,NA,NA,-5,11,PREMIER
+122,7,ICS,42919252,100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler],NA,NA,NA,NA,-5,-5,PREMIER
+122,7,ICS,42922105,2 ML Budesonide 0.25 MG/ML Inhalant Solution [Budecort],NA,NA,NA,NA,6,29,PREMIER
+122,8,combo,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,NA,NA,NA,NA,-5,-5,PREMIER
+122,9,SABA + SAMA,42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],NA,NA,NA,NA,15,81,PREMIER
+122,9,SABA + SAMA,42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],NA,NA,NA,NA,124,1039,PREMIER
+123,9,LABA + LAMA + ICS,19098138,Budesonide 0.25 MG/ML Inhalation Suspension,NA,NA,NA,NA,-5,11,PREMIER
+123,9,LABA + LAMA + ICS,19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],NA,NA,NA,NA,-5,69,PREMIER
+123,9,LABA + LAMA + ICS,42919252,100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler],NA,NA,NA,NA,-5,-5,PREMIER
+123,9,LABA + LAMA + ICS,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],NA,NA,NA,NA,6,36,PREMIER
+123,9,LABA + LAMA + ICS,42922105,2 ML Budesonide 0.25 MG/ML Inhalant Solution [Budecort],NA,NA,NA,NA,6,29,PREMIER
+124,8,Combo,43190570,Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler,NA,NA,NA,NA,-5,-5,PREMIER
+142,4,Eclampsia and Pre-eclampsia,433536,Severe pre-eclampsia,NA,NA,NA,NA,-5,-5,PREMIER
+142,4,Eclampsia and Pre-eclampsia,439393,Pre-eclampsia,NA,NA,NA,NA,-5,6,PREMIER
+143,1,Fever (38.0?C or higher) pre-coordinated measurement and conditions,437663,Fever,NA,NA,NA,NA,515,893,PREMIER
+143,2,Fever (38.0?C or higher) measurement and observation,3020891,Body temperature,No matching concept,None,0,No matching concept,892,93685,PREMIER
+144,1,Cough,254761,Cough,NA,NA,NA,NA,110,509,PREMIER
+144,1,Cough,433596,Abnormal sputum,NA,NA,NA,NA,-5,-5,PREMIER
+145,2,Myalgia,442752,Muscle pain,NA,NA,NA,NA,32,189,PREMIER
+145,2,Myalgia,4121597,Myalgia/myositis - shoulder,NA,NA,NA,NA,5,8,PREMIER
+145,2,Myalgia,4125937,Myalgia/myositis - multiple,NA,NA,NA,NA,20,183,PREMIER
+145,2,Myalgia,4126064,Myalgia/myositis - ankle/foot,NA,NA,NA,NA,-5,7,PREMIER
+146,3,Malaise or Fatigue or (Malaise and Fatigue),439926,Malaise and fatigue,NA,NA,NA,NA,49,149,PREMIER
+147,3,Shortness of breath (dyspnea),312437,Dyspnea,NA,NA,NA,NA,101,419,PREMIER
+148,0,Altered Smell or Taste,4185711,Loss of sense of smell,NA,NA,NA,NA,-5,50,PREMIER
+149,2,SARS-Cov-2 testing,37310281,2019 novel coronavirus not detected,NA,NA,NA,NA,28,187,PREMIER
+152,1,Inpatient or Inpatient/ER visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,PREMIER
+152,1,Inpatient or Inpatient/ER visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,PREMIER
+152,2,Pneumonia,253790,Pneumonia due to Klebsiella pneumoniae,NA,NA,NA,NA,-5,-5,PREMIER
+152,2,Pneumonia,255848,Pneumonia,NA,NA,NA,NA,155,505,PREMIER
+152,2,Pneumonia,256722,Bronchopneumonia,NA,NA,NA,NA,14,57,PREMIER
+152,2,Pneumonia,256723,Pneumonia and influenza,NA,NA,NA,NA,10,28,PREMIER
+152,2,Pneumonia,257315,Bacterial pneumonia,NA,NA,NA,NA,21,460,PREMIER
+152,2,Pneumonia,261324,Pneumonia due to Streptococcus,NA,NA,NA,NA,-5,-5,PREMIER
+152,2,Pneumonia,261326,Viral pneumonia,NA,NA,NA,NA,5,9,PREMIER
+152,2,Pneumonia,4025165,Abscess of lung with pneumonia,NA,NA,NA,NA,-5,17,PREMIER
+152,2,Pneumonia,4133224,Lobar pneumonia,NA,NA,NA,NA,-5,-5,PREMIER
+153,3,Acute respiratory distress syndrome (ARDS) or Acute Respiratory Failure,319049,Acute respiratory failure,NA,NA,NA,NA,-5,-5,PREMIER
+153,3,Acute respiratory distress syndrome (ARDS) or Acute Respiratory Failure,46271075,Acute hypoxemic respiratory failure,NA,NA,NA,NA,16,18,PREMIER
+154,1,Acute kidney injury,196455,Hepatorenal syndrome,NA,NA,NA,NA,-5,26,PREMIER
+154,1,Acute kidney injury,197320,Acute renal failure syndrome,NA,NA,NA,NA,57,271,PREMIER
+154,1,Acute kidney injury,197329,Acute renal failure due to acute cortical necrosis,NA,NA,NA,NA,-5,-5,PREMIER
+154,1,Acute kidney injury,4054992,Rapidly progressive nephritic syndrome,NA,NA,NA,NA,-5,49,PREMIER
+154,1,Acute kidney injury,4102631,Acute interstitial nephritis,NA,NA,NA,NA,40,482,PREMIER
+154,1,Acute kidney injury,4189531,Acute nephritis,NA,NA,NA,NA,-5,21,PREMIER
+154,1,Acute kidney injury,45757466,Acute renal failure due to tubular necrosis,NA,NA,NA,NA,-5,-5,PREMIER
+154,2,ESRD,193782,End-stage renal disease,NA,NA,NA,NA,8,83,PREMIER
+154,2,ESRD,443611,Chronic kidney disease stage 5,NA,NA,NA,NA,163,19022,PREMIER
+154,2,ESRD,45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,NA,NA,NA,NA,-5,25,PREMIER
+154,2,ESRD,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,NA,NA,NA,NA,26,1644,PREMIER
+154,3,transplant,4309006,Kidney transplant failure and rejection,NA,NA,NA,NA,-5,114,PREMIER
+154,3,transplant,4322471,Transplant of kidney,NA,NA,NA,NA,-5,-5,PREMIER
+154,3,transplant,42539502,Transplanted kidney present,NA,NA,NA,NA,-5,262,PREMIER
+155,5,Sepsis,132797,Sepsis,NA,NA,NA,NA,21,29,PREMIER
+155,5,Sepsis,196236,Septic shock,NA,NA,NA,NA,13,15,PREMIER
+155,5,Sepsis,434821,Systemic inflammatory response syndrome,NA,NA,NA,NA,17,18,PREMIER
+155,5,Sepsis,40479649,Systemic inflammatory response syndrome associated with organ dysfunction,NA,NA,NA,NA,-5,-5,PREMIER
+155,5,Sepsis,40489907,Sepsis due to Staphylococcus aureus,NA,NA,NA,NA,-5,-5,PREMIER
+155,5,Sepsis,40493038,Sepsis due to Gram negative bacteria,NA,NA,NA,NA,-5,44,PREMIER
+155,5,Sepsis,46270041,Sepsis of newborn due to group B Streptococcus,NA,NA,NA,NA,-5,-5,PREMIER
+156,11,Venous thromboembolism (pulmonary embolism and deep vein thrombosis),77310,Deep vein phlebitis and thrombophlebitis of the leg,NA,NA,NA,NA,-5,9,PREMIER
+156,11,Venous thromboembolism (pulmonary embolism and deep vein thrombosis),320741,Thrombophlebitis,NA,NA,NA,NA,-5,-5,PREMIER
+156,11,Venous thromboembolism (pulmonary embolism and deep vein thrombosis),440417,Pulmonary embolism,NA,NA,NA,NA,15,95,PREMIER
+157,13,Pulmonary Embolism,440417,Pulmonary embolism,NA,NA,NA,NA,15,95,PREMIER
+159,1,Heart Failure ,314378,Hypertensive heart disease with congestive heart failure,NA,NA,NA,NA,20,559,PREMIER
+159,1,Heart Failure ,316139,Heart failure,NA,NA,NA,NA,37,239,PREMIER
+159,1,Heart Failure ,319835,Congestive heart failure,NA,NA,NA,NA,7,74,PREMIER
+159,1,Heart Failure ,439696,Hypertensive heart and renal disease with (congestive) heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+159,1,Heart Failure ,439846,Left heart failure,NA,NA,NA,NA,47,286,PREMIER
+159,1,Heart Failure ,443580,Systolic heart failure,NA,NA,NA,NA,13,57,PREMIER
+159,1,Heart Failure ,443587,Diastolic heart failure,NA,NA,NA,NA,-5,-5,PREMIER
+160,0,Cardiac arrhythmia composite,320744,Complete atrioventricular block,NA,NA,NA,NA,-5,31,PREMIER
+160,0,Cardiac arrhythmia composite,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+160,0,Cardiac arrhythmia composite,4068155,Atrial arrhythmia,NA,NA,NA,NA,-5,12,PREMIER
+160,0,Cardiac arrhythmia composite,4089462,Ventricular premature complex,NA,NA,NA,NA,7,36,PREMIER
+160,0,Cardiac arrhythmia composite,4115173,Atrial premature complex,NA,NA,NA,NA,6,62,PREMIER
+160,0,Cardiac arrhythmia composite,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+160,0,Cardiac arrhythmia composite,4141360,Chronic atrial fibrillation,NA,NA,NA,NA,-5,-5,PREMIER
+160,0,Cardiac arrhythmia composite,4154290,Paroxysmal atrial fibrillation,NA,NA,NA,NA,14,202,PREMIER
+160,0,Cardiac arrhythmia composite,4169095,Bradycardia,NA,NA,NA,NA,5,9,PREMIER
+160,0,Cardiac arrhythmia composite,4185572,Ventricular arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+160,0,Cardiac arrhythmia composite,4232697,Persistent atrial fibrillation,NA,NA,NA,NA,-5,20,PREMIER
+160,0,Cardiac arrhythmia composite,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+160,0,Cardiac arrhythmia composite,4275423,Supraventricular tachycardia,NA,NA,NA,NA,8,84,PREMIER
+160,0,Cardiac arrhythmia composite,44784217,Cardiac arrhythmia,NA,NA,NA,NA,5,15,PREMIER
+160,1,Antiarrhythmics,19133832,Amiodarone hydrochloride 200 MG Oral Tablet [Cordarone],NA,NA,NA,NA,9,189,PREMIER
+160,1,Antiarrhythmics,40163618,dronedarone 400 MG Oral Tablet [Multaq],NA,NA,NA,NA,-5,-5,PREMIER
+160,1,Antiarrhythmics,40841232,Propafenone 325 MG Extended Release Oral Capsule [Rytmonorm],NA,NA,NA,NA,-5,21,PREMIER
+160,1,Antiarrhythmics,41184652,Propafenone 225 MG Extended Release Oral Capsule [Rytmonorm],NA,NA,NA,NA,-5,112,PREMIER
+160,1,Antiarrhythmics,41349044,3 ML Amiodarone 50 MG/ML Injectable Solution [Cordarone],NA,NA,NA,NA,11,37,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,2008358,Other electric countershock of heart,NA,NA,NA,NA,11,18,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,4048694,Electronic analysis of internal pacemaker system,NA,NA,NA,NA,-5,22,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,4049402,Transthoracic cardiac pacing procedure,NA,NA,NA,NA,8,10,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,4049987,Radiofrequency ablation operation for arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,4290930,Insertion of pacemaker pulse generator,NA,NA,NA,NA,6,7,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,40479379,Insertion of single chamber pacing cardioverter defibrillator pulse generator,NA,NA,NA,NA,-5,-5,PREMIER
+160,2,Procedures/Devices to treat cardiac arrhythmia or pacemakers,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,NA,NA,NA,NA,-5,-5,PREMIER
+161,0,Pacemaker,4048694,Electronic analysis of internal pacemaker system,NA,NA,NA,NA,-5,22,PREMIER
+161,0,Pacemaker,4049402,Transthoracic cardiac pacing procedure,NA,NA,NA,NA,8,10,PREMIER
+161,0,Pacemaker,4290930,Insertion of pacemaker pulse generator,NA,NA,NA,NA,6,7,PREMIER
+161,0,Pacemaker,40479379,Insertion of single chamber pacing cardioverter defibrillator pulse generator,NA,NA,NA,NA,-5,-5,PREMIER
+161,0,Pacemaker,40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,NA,NA,NA,NA,-5,-5,PREMIER
+161,1,Bradycardia or heart block,320744,Complete atrioventricular block,NA,NA,NA,NA,-5,31,PREMIER
+161,1,Bradycardia or heart block,4169095,Bradycardia,NA,NA,NA,NA,5,9,PREMIER
+161,1,Bradycardia or heart block,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+162,0,Supraventricular arrythymia,4068155,Atrial arrhythmia,NA,NA,NA,NA,-5,12,PREMIER
+162,0,Supraventricular arrythymia,4115173,Atrial premature complex,NA,NA,NA,NA,6,62,PREMIER
+162,0,Supraventricular arrythymia,4141360,Chronic atrial fibrillation,NA,NA,NA,NA,-5,-5,PREMIER
+162,0,Supraventricular arrythymia,4154290,Paroxysmal atrial fibrillation,NA,NA,NA,NA,14,202,PREMIER
+162,0,Supraventricular arrythymia,4232697,Persistent atrial fibrillation,NA,NA,NA,NA,-5,20,PREMIER
+162,0,Supraventricular arrythymia,4261842,Sick sinus syndrome,NA,NA,NA,NA,-5,-5,PREMIER
+162,0,Supraventricular arrythymia,4275423,Supraventricular tachycardia,NA,NA,NA,NA,8,84,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+163,0,ventricular arrhythmia or cardiac arrest,4185572,Ventricular arrhythmia,NA,NA,NA,NA,-5,-5,PREMIER
+169,2,Preterm delivery,4118056,Fetal or neonatal effect of maternal premature rupture of membrane,NA,NA,NA,NA,-5,-5,PREMIER
+169,2,Preterm delivery,4171115,Low birth weight infant,NA,NA,NA,NA,-5,35,PREMIER
+169,2,Preterm delivery,36675035,Prematurity of infant,NA,NA,NA,NA,-5,118,PREMIER
+169,2,Preterm delivery,44784550,Preterm spontaneous labor with preterm delivery,NA,NA,NA,NA,-5,-5,PREMIER
+170,0,Abortion,76482,Missed miscarriage,NA,NA,NA,NA,6,70,PREMIER
+170,0,Abortion,436176,Miscarriage without complication,NA,NA,NA,NA,-5,-5,PREMIER
+171,3,Premature rupture of membranes,194702,Premature rupture of membranes,NA,NA,NA,NA,16,32,PREMIER
+171,3,Premature rupture of membranes,4118056,Fetal or neonatal effect of maternal premature rupture of membrane,NA,NA,NA,NA,-5,-5,PREMIER
+172,4,Fetal growth restriction,72693,Poor fetal growth affecting management,NA,NA,NA,NA,-5,29,PREMIER
+174,3,Asthma,317009,Asthma,NA,NA,NA,NA,43,563,PREMIER
+174,3,Asthma,4110051,Mixed asthma,NA,NA,NA,NA,-5,20,PREMIER
+174,3,Asthma,4191479,Allergic asthma,NA,NA,NA,NA,12,117,PREMIER
+178,5,Mechanical ventilation,4013354,Insertion of endotracheal tube,NA,NA,NA,NA,50,67,PREMIER
+178,5,Mechanical ventilation,4074665,Controlled ventilation,NA,NA,NA,NA,-5,-5,PREMIER
+178,5,Mechanical ventilation,4230167,Artificial respiration,NA,NA,NA,NA,66,333,PREMIER
+178,5,Mechanical ventilation,4335583,Tracheal intubation using rigid bronchoscope,NA,NA,NA,NA,-5,-5,PREMIER
+181,5,Dialysis,4050863,Continuous hemodialysis,NA,NA,NA,NA,11,12,PREMIER
+181,5,Dialysis,4051329,Continuous venovenous hemodialysis,NA,NA,NA,NA,14,64,PREMIER
+181,5,Dialysis,4051330,Continuous venovenous hemofiltration,NA,NA,NA,NA,-5,5,PREMIER
+181,5,Dialysis,4052537,Continuous hemofiltration,NA,NA,NA,NA,-5,-5,PREMIER
+181,5,Dialysis,4080169,Continuous ambulatory peritoneal dialysis,NA,NA,NA,NA,5,59,PREMIER
+181,5,Dialysis,4120120,Hemodialysis,NA,NA,NA,NA,162,177779,PREMIER
+182,3,Chest pain or angina,77670,Chest pain,NA,NA,NA,NA,124,749,PREMIER
+182,3,Chest pain or angina,315296,Preinfarction syndrome,NA,NA,NA,NA,22,410,PREMIER
+182,3,Chest pain or angina,321318,Angina pectoris,NA,NA,NA,NA,41,396,PREMIER
+183,3,Angina,315296,Preinfarction syndrome,NA,NA,NA,NA,22,410,PREMIER
+183,3,Angina,321318,Angina pectoris,NA,NA,NA,NA,41,396,PREMIER
+184,0,"hepatic failure, necrosis or coma",196455,Hepatorenal syndrome,NA,NA,NA,NA,-5,26,PREMIER
+184,0,"hepatic failure, necrosis or coma",4245975,Hepatic failure,NA,NA,NA,NA,11,81,PREMIER
+185,9,Acute pancreatitis,199074,Acute pancreatitis,NA,NA,NA,NA,9,27,PREMIER
+185,9,Acute pancreatitis,44806251,Biliary acute pancreatitis,NA,NA,NA,NA,-5,12,PREMIER
+186,3,Acute myocardial Infarction,312327,Acute myocardial infarction,NA,NA,NA,NA,18,134,PREMIER
+186,3,Acute myocardial Infarction,434376,Acute myocardial infarction of anterior wall,NA,NA,NA,NA,-5,45,PREMIER
+186,3,Acute myocardial Infarction,4270024,Acute non-ST segment elevation myocardial infarction,NA,NA,NA,NA,15,233,PREMIER
+186,4,Sudden cardiac death,321042,Cardiac arrest,NA,NA,NA,NA,11,16,PREMIER
+186,4,Sudden cardiac death,4120088,Cardiac arrest with successful resuscitation,NA,NA,NA,NA,-5,14,PREMIER
+187,2,Inpatient or ER visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,PREMIER
+187,2,Inpatient or ER visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,PREMIER
+187,2,Inpatient or ER visit,9203,Emergency Room Visit,NA,NA,NA,NA,607,1787,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,25844,Ulcer of esophagus,NA,NA,NA,NA,-5,-5,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,26727,Hematemesis,NA,NA,NA,NA,6,7,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,28779,Bleeding esophageal varices,NA,NA,NA,NA,7,111,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,192671,Gastrointestinal hemorrhage,NA,NA,NA,NA,10,27,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,193249,Acute hemorrhagic gastritis,NA,NA,NA,NA,21,188,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,316457,Mallory-Weiss syndrome,NA,NA,NA,NA,-5,5,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,442190,Hemorrhage of colon,NA,NA,NA,NA,-5,12,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4027729,Acute duodenal ulcer with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4057953,Acute gastric ulcer with perforation,NA,NA,NA,NA,-5,-5,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4173408,Chronic duodenal ulcer with perforation,NA,NA,NA,NA,-5,6,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4211001,Chronic gastric ulcer with hemorrhage,NA,NA,NA,NA,-5,15,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4231580,Acute gastric ulcer with hemorrhage,NA,NA,NA,NA,8,38,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4232181,Chronic duodenal ulcer with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,4265479,Acute duodenal ulcer with perforation,NA,NA,NA,NA,-5,152,PREMIER
+187,5,Gastrointestinal hemorrhage GI bleeding,46269907,Intestinal hemorrhage with diverticulosis,NA,NA,NA,NA,-5,-5,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,4148906,Spontaneous subarachnoid hemorrhage,NA,NA,NA,NA,7,42,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,42535425,Spontaneous hemorrhage of cerebral hemisphere,NA,NA,NA,NA,-5,64,PREMIER
+188,7,intracranial bleed Hemorrhagic stroke,43530727,Spontaneous cerebral hemorrhage,NA,NA,NA,NA,-5,55,PREMIER
+189,4,Transient ischemic attack (TIA) Transient cerebral Ischemia (TCA),373503,Transient cerebral ischemia,NA,NA,NA,NA,14,148,PREMIER
+189,4,Transient ischemic attack (TIA) Transient cerebral Ischemia (TCA),374055,Basilar artery syndrome,NA,NA,NA,NA,22,402,PREMIER
+189,4,Transient ischemic attack (TIA) Transient cerebral Ischemia (TCA),4110194,Middle cerebral artery syndrome,NA,NA,NA,NA,-5,19,PREMIER
+189,4,Transient ischemic attack (TIA) Transient cerebral Ischemia (TCA),4338523,Amaurosis fugax,NA,NA,NA,NA,-5,-5,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),252477,Extradural hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,-5,8,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),435959,Subarachnoid hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,5,5,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),443454,Cerebral infarction,NA,NA,NA,NA,64,1136,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4014781,Closed traumatic subdural hemorrhage,NA,NA,NA,NA,8,13,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4046089,Vascular dementia of acute onset,NA,NA,NA,NA,-5,6,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4049659,Subcortical hemorrhage,NA,NA,NA,NA,-5,63,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4110185,"Intracerebral hemorrhage, intraventricular",NA,NA,NA,NA,-5,-5,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4110189,Cerebral infarct due to thrombosis of precerebral arteries,NA,NA,NA,NA,12,207,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),4148906,Spontaneous subarachnoid hemorrhage,NA,NA,NA,NA,7,42,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),37016924,Dissection of cerebral artery,NA,NA,NA,NA,-5,20,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),42535425,Spontaneous hemorrhage of cerebral hemisphere,NA,NA,NA,NA,-5,64,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),42535426,Acute nontraumatic subdural hemorrhage,NA,NA,NA,NA,-5,5,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),42539269,Spontaneous hemorrhage of brain stem,NA,NA,NA,NA,-5,26,PREMIER
+190,3,Stroke (ischemic or hemorrhagic),43530727,Spontaneous cerebral hemorrhage,NA,NA,NA,NA,-5,55,PREMIER
+191,0,Ischemic stroke,443454,Cerebral infarction,NA,NA,NA,NA,64,1136,PREMIER
+191,0,Ischemic stroke,4046089,Vascular dementia of acute onset,NA,NA,NA,NA,-5,6,PREMIER
+191,0,Ischemic stroke,4110189,Cerebral infarct due to thrombosis of precerebral arteries,NA,NA,NA,NA,12,207,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,4148906,Spontaneous subarachnoid hemorrhage,NA,NA,NA,NA,7,42,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,42535425,Spontaneous hemorrhage of cerebral hemisphere,NA,NA,NA,NA,-5,64,PREMIER
+192,4,intracranial bleed Hemorrhagic stroke,43530727,Spontaneous cerebral hemorrhage,NA,NA,NA,NA,-5,55,PREMIER
+194,2,Bleeding,26727,Hematemesis,NA,NA,NA,NA,6,7,PREMIER
+194,2,Bleeding,28779,Bleeding esophageal varices,NA,NA,NA,NA,7,111,PREMIER
+194,2,Bleeding,76784,Hemarthrosis,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,192671,Gastrointestinal hemorrhage,NA,NA,NA,NA,10,27,PREMIER
+194,2,Bleeding,193249,Acute hemorrhagic gastritis,NA,NA,NA,NA,21,188,PREMIER
+194,2,Bleeding,194690,Nontraumatic hemoperitoneum,NA,NA,NA,NA,-5,9,PREMIER
+194,2,Bleeding,195321,Postmenopausal bleeding,NA,NA,NA,NA,-5,15,PREMIER
+194,2,Bleeding,196751,Placenta previa with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,197925,Hemorrhage of rectum and anus,NA,NA,NA,NA,-5,9,PREMIER
+194,2,Bleeding,200562,Traumatic pneumohemothorax without open wound into thorax,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,252477,Extradural hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,-5,8,PREMIER
+194,2,Bleeding,261687,Hemoptysis,NA,NA,NA,NA,19,83,PREMIER
+194,2,Bleeding,315276,Vitreous hemorrhage,NA,NA,NA,NA,35,872,PREMIER
+194,2,Bleeding,316457,Mallory-Weiss syndrome,NA,NA,NA,NA,-5,5,PREMIER
+194,2,Bleeding,320739,Dissection of aorta,NA,NA,NA,NA,-5,17,PREMIER
+194,2,Bleeding,374025,Retinal hemorrhage,NA,NA,NA,NA,-5,17,PREMIER
+194,2,Bleeding,378756,Conjunctival hemorrhage,NA,NA,NA,NA,15,138,PREMIER
+194,2,Bleeding,432904,Hyphema,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,435959,Subarachnoid hemorrhage following injury without open intracranial wound,NA,NA,NA,NA,5,5,PREMIER
+194,2,Bleeding,437312,Bleeding,NA,NA,NA,NA,8,58,PREMIER
+194,2,Bleeding,441259,Non-thrombocytopenic purpura,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,442190,Hemorrhage of colon,NA,NA,NA,NA,-5,12,PREMIER
+194,2,Bleeding,443929,Postpartum hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,4014781,Closed traumatic subdural hemorrhage,NA,NA,NA,NA,8,13,PREMIER
+194,2,Bleeding,4027729,Acute duodenal ulcer with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,4049659,Subcortical hemorrhage,NA,NA,NA,NA,-5,63,PREMIER
+194,2,Bleeding,4067764,Pigmented purpuric lichenoid dermatitis of Gougerot and Blum,NA,NA,NA,NA,-5,5,PREMIER
+194,2,Bleeding,4096682,Bleeding from nose,NA,NA,NA,NA,19,52,PREMIER
+194,2,Bleeding,4101602,Henoch-Schönlein purpura,NA,NA,NA,NA,-5,63,PREMIER
+194,2,Bleeding,4110185,"Intracerebral hemorrhage, intraventricular",NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,4129155,Vaginal bleeding,NA,NA,NA,NA,-5,42,PREMIER
+194,2,Bleeding,4135466,Hemothorax,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,4137430,Idiopathic thrombocytopenic purpura,NA,NA,NA,NA,-5,66,PREMIER
+194,2,Bleeding,4148906,Spontaneous subarachnoid hemorrhage,NA,NA,NA,NA,7,42,PREMIER
+194,2,Bleeding,4169954,Genitourinary tract hemorrhage,NA,NA,NA,NA,27,103,PREMIER
+194,2,Bleeding,4211001,Chronic gastric ulcer with hemorrhage,NA,NA,NA,NA,-5,15,PREMIER
+194,2,Bleeding,4231580,Acute gastric ulcer with hemorrhage,NA,NA,NA,NA,8,38,PREMIER
+194,2,Bleeding,4232181,Chronic duodenal ulcer with hemorrhage,NA,NA,NA,NA,-5,-5,PREMIER
+194,2,Bleeding,37016924,Dissection of cerebral artery,NA,NA,NA,NA,-5,20,PREMIER
+194,2,Bleeding,42535425,Spontaneous hemorrhage of cerebral hemisphere,NA,NA,NA,NA,-5,64,PREMIER
+194,2,Bleeding,42535426,Acute nontraumatic subdural hemorrhage,NA,NA,NA,NA,-5,5,PREMIER
+194,2,Bleeding,42539269,Spontaneous hemorrhage of brain stem,NA,NA,NA,NA,-5,26,PREMIER
+194,2,Bleeding,43530727,Spontaneous cerebral hemorrhage,NA,NA,NA,NA,-5,55,PREMIER
+194,2,Bleeding,46269907,Intestinal hemorrhage with diverticulosis,NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,736053,Risperidone 2 MG Oral Tablet,NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,757759,aripiprazole 2 MG Oral Tablet [Abilify],NA,NA,NA,NA,8,111,PREMIER
+195,3,Antipsychotics,766815,quetiapine 25 MG Oral Tablet [Seroquel],NA,NA,NA,NA,38,470,PREMIER
+195,3,Antipsychotics,766816,quetiapine 100 MG Oral Tablet [Seroquel],NA,NA,NA,NA,-5,139,PREMIER
+195,3,Antipsychotics,767022,quetiapine 150 MG Extended Release Oral Tablet [Seroquel],NA,NA,NA,NA,-5,113,PREMIER
+195,3,Antipsychotics,785874,olanzapine 10 MG Injection,NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,19004693,Risperidone 1 MG Oral Tablet [Risperdal],NA,NA,NA,NA,10,197,PREMIER
+195,3,Antipsychotics,19004694,Risperidone 2 MG Oral Tablet [Risperdal],NA,NA,NA,NA,-5,12,PREMIER
+195,3,Antipsychotics,19016799,olanzapine 5 MG Oral Tablet [Zyprexa],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,19016821,olanzapine 10 MG Oral Tablet [Zyprexa],NA,NA,NA,NA,-5,12,PREMIER
+195,3,Antipsychotics,19017556,quetiapine 200 MG Oral Tablet [Seroquel],NA,NA,NA,NA,-5,10,PREMIER
+195,3,Antipsychotics,19017932,Amisulpride 200 MG Oral Tablet [Solian],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,19047064,olanzapine 2.5 MG Oral Tablet [Zyprexa],NA,NA,NA,NA,-5,25,PREMIER
+195,3,Antipsychotics,19098477,aripiprazole 10 MG Oral Tablet [Abilify],NA,NA,NA,NA,-5,74,PREMIER
+195,3,Antipsychotics,19098478,aripiprazole 15 MG Oral Tablet [Abilify],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,19102836,aripiprazole 5 MG Oral Tablet [Abilify],NA,NA,NA,NA,-5,9,PREMIER
+195,3,Antipsychotics,19133813,quetiapine 50 MG Extended Release Oral Tablet [Seroquel],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,19134839,quetiapine 200 MG Extended Release Oral Tablet [Seroquel],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,21035528,Amisulpride 100 MG Oral Tablet [Solian],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,42922217,1.5 ML paliperidone 100 MG/ML Prefilled Syringe [INVEGA SUSTENNA],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,42922320,1 ML Haloperidol 5 MG/ML Injectable Solution [PERIDOL],NA,NA,NA,NA,46,120,PREMIER
+195,3,Antipsychotics,42936536,Haloperidol 1.5 MG Oral Tablet [PERIDOL],NA,NA,NA,NA,-5,18,PREMIER
+195,3,Antipsychotics,42936555,Haloperidol 5 MG Oral Tablet [PERIDOL],NA,NA,NA,NA,-5,-5,PREMIER
+195,3,Antipsychotics,42947900,Chlorpromazine 50 MG Oral Tablet [MYUNGIN CHLORPROMAZINE HCL],NA,NA,NA,NA,5,12,PREMIER
+195,3,Antipsychotics,42966499,Lithium Carbonate 300 MG Oral Tablet [LITHAN],NA,NA,NA,NA,-5,6,PREMIER
+195,4,SSRI,715965,Escitalopram 10 MG Oral Tablet [Lexapro],NA,NA,NA,NA,32,540,PREMIER
+195,4,SSRI,722158,Paroxetine Hydrochloride 12.5 MG Extended Release Oral Tablet [Paxil],NA,NA,NA,NA,6,83,PREMIER
+195,4,SSRI,19004895,Fluoxetine 20 MG Oral Capsule [Prozac],NA,NA,NA,NA,8,122,PREMIER
+195,4,SSRI,19023636,Citalopram 20 MG Oral Tablet,NA,NA,NA,NA,-5,-5,PREMIER
+195,4,SSRI,19037642,Sertraline 100 MG Oral Tablet [Zoloft],NA,NA,NA,NA,-5,60,PREMIER
+195,4,SSRI,19037684,Sertraline 50 MG Oral Tablet [Zoloft],NA,NA,NA,NA,7,504,PREMIER
+195,4,SSRI,42931913,Sertraline 50 MG Oral Tablet [SANDOZ SERTRALINE],NA,NA,NA,NA,-5,27,PREMIER
+195,4,SSRI,42931916,Sertraline 50 MG Oral Tablet [SELTRA],NA,NA,NA,NA,-5,7,PREMIER
+195,4,SSRI,42944918,Escitalopram 10 MG Disintegrating Oral Tablet [LEXAPRO MELTZ],NA,NA,NA,NA,-5,9,PREMIER
+195,4,SSRI,42953204,Paroxetine 20 MG Oral Tablet [HANDOK SEROXAT],NA,NA,NA,NA,-5,28,PREMIER
+195,4,SSRI,43204248,Fluoxetine 20 MG Disintegrating Oral Tablet [Prozac],NA,NA,NA,NA,-5,32,PREMIER
+195,5,SNRI,1593115,desvenlafaxine succinate 50 MG Extended Release Oral Tablet [Pristiq],NA,NA,NA,NA,-5,38,PREMIER
+195,5,SNRI,35775278,duloxetine 60 MG Extended Release Oral Capsule [Cymbalta],NA,NA,NA,NA,-5,40,PREMIER
+195,5,SNRI,35775279,duloxetine 30 MG Extended Release Oral Capsule [Cymbalta],NA,NA,NA,NA,21,260,PREMIER
+195,5,SNRI,42956054,venlafaxine 75 MG Extended Release Oral Capsule [EFEXOR XR],NA,NA,NA,NA,-5,-5,PREMIER
+195,5,SNRI,42956069,venlafaxine 37.5 MG Extended Release Oral Capsule [VENLAFACT],NA,NA,NA,NA,-5,80,PREMIER
+195,6,Tricyclic Anti-depressants,40224909,Doxepin Hydrochloride 50 MG/ML Topical Cream,NA,NA,NA,NA,-5,-5,PREMIER
+195,6,Tricyclic Anti-depressants,42931443,Amitriptyline 10 MG Oral Tablet [ENAFON],NA,NA,NA,NA,40,770,PREMIER
+195,6,Tricyclic Anti-depressants,42931453,Amitriptyline 25 MG Oral Tablet [ETRAVIL],NA,NA,NA,NA,-5,64,PREMIER
+195,6,Tricyclic Anti-depressants,42950313,Clomipramine 10 MG Oral Capsule [GROMIN],NA,NA,NA,NA,-5,-5,PREMIER
+195,6,Tricyclic Anti-depressants,42950316,Clomipramine 25 MG Oral Capsule [GROMIN],NA,NA,NA,NA,-5,-5,PREMIER
+195,6,Tricyclic Anti-depressants,42957457,Nortriptyline 10 MG Oral Tablet [SENSIVAL],NA,NA,NA,NA,20,168,PREMIER
+195,12,Other antidepressants,725172,Mirtazapine 15 MG Oral Tablet [Remeron],NA,NA,NA,NA,-5,161,PREMIER
+195,12,Other antidepressants,40222068,Bupropion Hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin],NA,NA,NA,NA,-5,12,PREMIER
+195,12,Other antidepressants,42918705,500 ML Alanine 14.9000000000000004 MG/ML / Arginine 11.5 MG/ML / Aspartic Acid 3.39999999999999991 MG/ML / Glutamate 5.75999999999999979 MG/ML / Glutamine 20 MG/ML / Histidine 6.79999999999999982 MG/ML / ... Injectable Solution [Glamin],NA,NA,NA,NA,80,282,PREMIER
+195,12,Other antidepressants,42918901,250 ML Alanine 14.9000000000000004 MG/ML / Arginine 11.5 MG/ML / Aspartic Acid 3.39999999999999991 MG/ML / Glutamate 5.75999999999999979 MG/ML / Glutamine 20 MG/ML / Histidine 6.79999999999999982 MG/ML / ... Injectable Solution [Glamin],NA,NA,NA,NA,13,24,PREMIER
+195,12,Other antidepressants,42925864,tianeptine 12.5 MG Oral Tablet [STABLON],NA,NA,NA,NA,7,60,PREMIER
+195,12,Other antidepressants,42925869,tianeptine 12.5 MG Oral Tablet [STANEPTINE],NA,NA,NA,NA,9,117,PREMIER
+195,12,Other antidepressants,42953141,Mirtazapine 15 MG Oral Tablet [MIRTAX],NA,NA,NA,NA,-5,53,PREMIER
+195,12,Other antidepressants,42953150,Mirtazapine 15 MG Disintegrating Oral Tablet [TEVA MIRTAZAPINE],NA,NA,NA,NA,-5,86,PREMIER
+195,12,Other antidepressants,42953160,Mirtazapine 30 MG Oral Tablet [MIRTAX],NA,NA,NA,NA,-5,9,PREMIER
+195,12,Other antidepressants,42953167,Mirtazapine 30 MG Disintegrating Oral Tablet [TEVA MIRTAZAPINE],NA,NA,NA,NA,-5,67,PREMIER
+195,12,Other antidepressants,42959251,4-methyl-2-oxopentanoate calcium 101 MG / Calcium alpha-Ketophenylalanine 68 MG / Calcium alpha-ketovaline 86 MG / CALCIUM DL-ALPHA-HYDROXYMETHIONINATE 59 MG / Histidine 40 MG / Lysine 100 MG / ... Oral Tablet [KETOSTERIL],NA,NA,NA,NA,14,191,PREMIER
+195,12,Other antidepressants,42972219,Trazodone 25 MG Oral Tablet [TRITTICO],NA,NA,NA,NA,14,220,PREMIER
+195,12,Other antidepressants,42972227,Trazodone 50 MG Oral Tablet [TRITTICO],NA,NA,NA,NA,6,43,PREMIER
+195,12,Other antidepressants,44125936,Bupropion 150 MG Extended Release Oral Tablet [Wellbutrin XL],NA,NA,NA,NA,-5,-5,PREMIER
+195,12,Other antidepressants,44506623,vortioxetine 10 MG Oral Tablet [Brintellix],NA,NA,NA,NA,-5,8,PREMIER
+195,13,Dementia,378419,Alzheimer's disease,NA,NA,NA,NA,5,68,PREMIER
+195,13,Dementia,443605,Vascular dementia,NA,NA,NA,NA,5,69,PREMIER
+195,13,Dementia,4046089,Vascular dementia of acute onset,NA,NA,NA,NA,-5,6,PREMIER
+195,13,Dementia,4047747,Subcortical vascular dementia,NA,NA,NA,NA,-5,-5,PREMIER
+195,13,Dementia,4182210,Dementia,NA,NA,NA,NA,6,15,PREMIER
+195,13,Dementia,4218017,"Primary degenerative dementia of the Alzheimer type, presenile onset",NA,NA,NA,NA,-5,5,PREMIER
+195,13,Dementia,4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",NA,NA,NA,NA,-5,74,PREMIER
+195,14,Mania,436665,Bipolar disorder,NA,NA,NA,NA,-5,13,PREMIER
+195,14,Mania,440078,"Bipolar affective disorder, current episode manic",NA,NA,NA,NA,-5,19,PREMIER
+195,15,Psychosis,432590,Delusional disorder,NA,NA,NA,NA,-5,-5,PREMIER
+195,15,Psychosis,433450,Paranoid schizophrenia,NA,NA,NA,NA,-5,5,PREMIER
+195,15,Psychosis,435783,Schizophrenia,NA,NA,NA,NA,-5,-5,PREMIER
+195,15,Psychosis,4101149,Non-organic psychosis,NA,NA,NA,NA,-5,61,PREMIER
+195,17,Depressive disorder,433440,Dysthymia,NA,NA,NA,NA,-5,49,PREMIER
+195,17,Depressive disorder,435220,Severe recurrent major depression without psychotic features,NA,NA,NA,NA,-5,78,PREMIER
+195,17,Depressive disorder,440383,Depressive disorder,NA,NA,NA,NA,25,365,PREMIER
+195,17,Depressive disorder,4077577,Moderate recurrent major depression,NA,NA,NA,NA,-5,52,PREMIER
+195,17,Depressive disorder,4250023,Severe major depression with psychotic features,NA,NA,NA,NA,-5,-5,PREMIER
+195,17,Depressive disorder,4282316,Recurrent major depression,NA,NA,NA,NA,-5,16,PREMIER
+195,17,Depressive disorder,4307111,Moderate major depression,NA,NA,NA,NA,-5,18,PREMIER
+195,17,Depressive disorder,4327337,Severe major depression without psychotic features,NA,NA,NA,NA,8,46,PREMIER
+195,17,Depressive disorder,4336957,Mild major depression,NA,NA,NA,NA,-5,-5,PREMIER
+195,17,Depressive disorder,4338031,Mixed anxiety and depressive disorder,NA,NA,NA,NA,-5,34,PREMIER
+196,1,Psychosis,432590,Delusional disorder,NA,NA,NA,NA,-5,-5,PREMIER
+196,1,Psychosis,433450,Paranoid schizophrenia,NA,NA,NA,NA,-5,5,PREMIER
+196,1,Psychosis,435783,Schizophrenia,NA,NA,NA,NA,-5,-5,PREMIER
+196,1,Psychosis,4101149,Non-organic psychosis,NA,NA,NA,NA,-5,61,PREMIER
+196,1,Psychosis,4275889,Visual hallucinations,NA,NA,NA,NA,-5,12,PREMIER

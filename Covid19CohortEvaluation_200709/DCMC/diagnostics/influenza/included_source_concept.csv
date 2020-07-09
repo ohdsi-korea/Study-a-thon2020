@@ -1,0 +1,17 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+111,0,Influenza conditions,256723,Pneumonia and influenza,NA,NA,NA,NA,10,28,PREMIER
+111,0,Influenza conditions,4266367,Influenza,NA,NA,NA,NA,65,162,PREMIER
+111,0,Influenza conditions,36714388,Influenza caused by seasonal influenza virus,NA,NA,NA,NA,-5,-5,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3044141,Influenza virus A Ag [Presence] in Nasopharynx,No matching concept,None,0,No matching concept,395,743,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3044938,Influenza virus A RNA [Presence] in Unspecified specimen by NAA with probe detection,No matching concept,None,0,No matching concept,21,21,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3045831,Influenza virus B Ag [Presence] in Nasopharynx,No matching concept,None,0,No matching concept,405,788,PREMIER
+112,2,Influenza test measurements excluding antibody tests,46235757,Influenza virus A RNA [Presence] in Nasopharynx by NAA with probe detection,No matching concept,None,0,No matching concept,60,64,PREMIER
+112,2,Influenza test measurements excluding antibody tests,46236736,Influenza virus A H1 RNA [Presence] in Nasopharynx by NAA with probe detection,No matching concept,None,0,No matching concept,60,64,PREMIER
+112,2,Influenza test measurements excluding antibody tests,46236737,Influenza virus A H3 RNA [Presence] in Nasopharynx by NAA with probe detection,No matching concept,None,0,No matching concept,60,64,PREMIER
+112,2,Influenza test measurements excluding antibody tests,46236738,Influenza virus A H1 2009 pandemic RNA [Presence] in Nasopharynx by NAA with probe detection,No matching concept,None,0,No matching concept,60,64,PREMIER
+114,4,Inpatient Visit,262,Emergency Room and Inpatient Visit,NA,NA,NA,NA,438,828,PREMIER
+114,4,Inpatient Visit,9201,Inpatient Visit,NA,NA,NA,NA,417,1494,PREMIER
+115,19,Mechanical ventilation,4013354,Insertion of endotracheal tube,NA,NA,NA,NA,50,67,PREMIER
+115,19,Mechanical ventilation,4074665,Controlled ventilation,NA,NA,NA,NA,-5,-5,PREMIER
+115,19,Mechanical ventilation,4230167,Artificial respiration,NA,NA,NA,NA,66,333,PREMIER
+115,19,Mechanical ventilation,4335583,Tracheal intubation using rigid bronchoscope,NA,NA,NA,NA,-5,-5,PREMIER
