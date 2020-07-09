@@ -1,0 +1,13 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+37310281,2019 novel coronavirus not detected,6,126,PREMIER
+37310281,2019 novel coronavirus not detected,36,127,PREMIER
+37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,17,132,PREMIER
+37311061,Disease caused by severe acute respiratory syndrome coronavirus 2,83,133,PREMIER
+9201,Inpatient Visit,8,134,PREMIER
+262,Emergency Room and Inpatient Visit,-5,134,PREMIER
+9201,Inpatient Visit,26,135,PREMIER
+262,Emergency Room and Inpatient Visit,13,135,PREMIER
+4335583,Tracheal intubation using rigid bronchoscope,-5,136,PREMIER
+4335583,Tracheal intubation using rigid bronchoscope,-5,137,PREMIER
+4013354,Insertion of endotracheal tube,-5,137,PREMIER
+4074665,Controlled ventilation,-5,137,PREMIER

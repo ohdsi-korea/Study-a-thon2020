@@ -1,0 +1,444 @@
+Loading required package: DatabaseConnector
+R version:
+R version 3.6.3 (2020-02-29)
+
+Platform:
+x86_64-pc-linux-gnu
+
+Locale:
+C
+
+Attached base packages:
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- methods
+- base
+
+Other attached packages:
+- Covid19CharacterizationCharybdis (0.0.1)
+- DatabaseConnector (3.0.0)
+Connecting using PostgreSQL driver
+Creating cohorts in incremental mode
+Cohort table already exists and in incremental mode, so not recreating table.
+Skipping cohortId = '126' because unchanged from earlier run
+Skipping cohortId = '128' because unchanged from earlier run
+Skipping cohortId = '130' because unchanged from earlier run
+Skipping cohortId = '132' because unchanged from earlier run
+Skipping cohortId = '134' because unchanged from earlier run
+Skipping cohortId = '136' because unchanged from earlier run
+Skipping cohortId = '138' because unchanged from earlier run
+Skipping cohortId = '140' because unchanged from earlier run
+Skipping cohortId = '127' because unchanged from earlier run
+Skipping cohortId = '129' because unchanged from earlier run
+Skipping cohortId = '131' because unchanged from earlier run
+Skipping cohortId = '133' because unchanged from earlier run
+Skipping cohortId = '135' because unchanged from earlier run
+Skipping cohortId = '137' because unchanged from earlier run
+Skipping cohortId = '139' because unchanged from earlier run
+Skipping cohortId = '141' because unchanged from earlier run
+Skipping cohortId = '111' because unchanged from earlier run
+Skipping cohortId = '113' because unchanged from earlier run
+Skipping cohortId = '115' because unchanged from earlier run
+Skipping cohortId = '112' because unchanged from earlier run
+Skipping cohortId = '114' because unchanged from earlier run
+Skipping cohortId = '116' because unchanged from earlier run
+Skipping cohortId = '100' because unchanged from earlier run
+Skipping cohortId = '101' because unchanged from earlier run
+Skipping cohortId = '119' because unchanged from earlier run
+Skipping cohortId = '120' because unchanged from earlier run
+Skipping cohortId = '102' because unchanged from earlier run
+Skipping cohortId = '103' because unchanged from earlier run
+Skipping cohortId = '104' because unchanged from earlier run
+Skipping cohortId = '105' because unchanged from earlier run
+Skipping cohortId = '199' because unchanged from earlier run
+Skipping cohortId = '106' because unchanged from earlier run
+Skipping cohortId = '117' because unchanged from earlier run
+Skipping cohortId = '107' because unchanged from earlier run
+Skipping cohortId = '108' because unchanged from earlier run
+Skipping cohortId = '109' because unchanged from earlier run
+Skipping cohortId = '125' because unchanged from earlier run
+Skipping cohortId = '118' because unchanged from earlier run
+Skipping cohortId = '200' because unchanged from earlier run
+Skipping cohortId = '203' because unchanged from earlier run
+Skipping cohortId = '204' because unchanged from earlier run
+Skipping cohortId = '205' because unchanged from earlier run
+Skipping cohortId = '206' because unchanged from earlier run
+Skipping cohortId = '121' because unchanged from earlier run
+Skipping cohortId = '122' because unchanged from earlier run
+Skipping cohortId = '123' because unchanged from earlier run
+Skipping cohortId = '124' because unchanged from earlier run
+Skipping cohortId = '110' because unchanged from earlier run
+Skipping cohortId = '142' because unchanged from earlier run
+Skipping cohortId = '143' because unchanged from earlier run
+Skipping cohortId = '144' because unchanged from earlier run
+Skipping cohortId = '145' because unchanged from earlier run
+Skipping cohortId = '146' because unchanged from earlier run
+Skipping cohortId = '147' because unchanged from earlier run
+Skipping cohortId = '148' because unchanged from earlier run
+Skipping cohortId = '149' because unchanged from earlier run
+Skipping cohortId = '150' because unchanged from earlier run
+Skipping cohortId = '151' because unchanged from earlier run
+Skipping cohortId = '152' because unchanged from earlier run
+Skipping cohortId = '153' because unchanged from earlier run
+Skipping cohortId = '154' because unchanged from earlier run
+Skipping cohortId = '155' because unchanged from earlier run
+Skipping cohortId = '156' because unchanged from earlier run
+Skipping cohortId = '157' because unchanged from earlier run
+Skipping cohortId = '158' because unchanged from earlier run
+Skipping cohortId = '159' because unchanged from earlier run
+Skipping cohortId = '160' because unchanged from earlier run
+Skipping cohortId = '161' because unchanged from earlier run
+Skipping cohortId = '162' because unchanged from earlier run
+Skipping cohortId = '163' because unchanged from earlier run
+Skipping cohortId = '164' because unchanged from earlier run
+Skipping cohortId = '165' because unchanged from earlier run
+Skipping cohortId = '166' because unchanged from earlier run
+Skipping cohortId = '167' because unchanged from earlier run
+Skipping cohortId = '168' because unchanged from earlier run
+Skipping cohortId = '169' because unchanged from earlier run
+Skipping cohortId = '170' because unchanged from earlier run
+Skipping cohortId = '171' because unchanged from earlier run
+Skipping cohortId = '172' because unchanged from earlier run
+Skipping cohortId = '173' because unchanged from earlier run
+Skipping cohortId = '174' because unchanged from earlier run
+Skipping cohortId = '175' because unchanged from earlier run
+Skipping cohortId = '176' because unchanged from earlier run
+Skipping cohortId = '177' because unchanged from earlier run
+Skipping cohortId = '178' because unchanged from earlier run
+Skipping cohortId = '179' because unchanged from earlier run
+Skipping cohortId = '180' because unchanged from earlier run
+Skipping cohortId = '181' because unchanged from earlier run
+Skipping cohortId = '182' because unchanged from earlier run
+Skipping cohortId = '183' because unchanged from earlier run
+Skipping cohortId = '184' because unchanged from earlier run
+Skipping cohortId = '185' because unchanged from earlier run
+Skipping cohortId = '186' because unchanged from earlier run
+Skipping cohortId = '187' because unchanged from earlier run
+Skipping cohortId = '188' because unchanged from earlier run
+Skipping cohortId = '189' because unchanged from earlier run
+Skipping cohortId = '190' because unchanged from earlier run
+Skipping cohortId = '191' because unchanged from earlier run
+Skipping cohortId = '192' because unchanged from earlier run
+Skipping cohortId = '193' because unchanged from earlier run
+Skipping cohortId = '194' because unchanged from earlier run
+Skipping cohortId = '195' because unchanged from earlier run
+Skipping cohortId = '196' because unchanged from earlier run
+Skipping cohortId = '197' because unchanged from earlier run
+Skipping cohortId = '198' because unchanged from earlier run
+Instantiating cohort set took 0.567 secs
+Running cohort diagnostics
+Saving database metadata
+Counting cohorts
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts") because unchanged from earlier run
+Starting concept set diagnostics at 2020-07-09 02:15:27
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts") because unchanged from earlier run
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts") because unchanged from earlier run
+Creating time distributions
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions") because unchanged from earlier run
+Running time distribution took 0.0106 secs
+Breaking down index events
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents") because unchanged from earlier run
+Running index event breakdown took 0.0062 secs
+Computing incidence rate
+Skipping cohortId = c(126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141), task = c("runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate") because unchanged from earlier run
+Running Incidence Rate took 0.0063 secs
+Adding results to zip file
+Results are ready for sharing at: /CHARYBDIS/Runs/PREMIER/diagnostics/covid/Results_PREMIER.zip
+Computing all diagnostics took 0.108 secs
+Saving database metadata
+Counting cohorts
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts") because unchanged from earlier run
+Starting concept set diagnostics at 2020-07-09 02:15:27
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts") because unchanged from earlier run
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts") because unchanged from earlier run
+Creating time distributions
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions") because unchanged from earlier run
+Running time distribution took 0.00665 secs
+Breaking down index events
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents") because unchanged from earlier run
+Running index event breakdown took 0.00638 secs
+Computing incidence rate
+Skipping cohortId = c(111, 112, 113, 114, 115, 116), task = c("runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate") because unchanged from earlier run
+Running Incidence Rate took 0.00633 secs
+Adding results to zip file
+Results are ready for sharing at: /CHARYBDIS/Runs/PREMIER/diagnostics/influenza/Results_PREMIER.zip
+Computing all diagnostics took 0.0913 secs
+Saving database metadata
+Counting cohorts
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts") because unchanged from earlier run
+Starting concept set diagnostics at 2020-07-09 02:15:27
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", 
+"runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts") because unchanged from earlier run
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts") because unchanged from earlier run
+Creating time distributions
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions"
+) because unchanged from earlier run
+Running time distribution took 0.00631 secs
+Breaking down index events
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", 
+"runBreakdownIndexEvents", "runBreakdownIndexEvents") because unchanged from earlier run
+Running index event breakdown took 0.0063 secs
+Computing incidence rate
+Skipping cohortId = c(100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 117, 118, 119, 120, 125, 199, 200, 203, 204, 205, 206), task = c("runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate") because unchanged from earlier run
+Running Incidence Rate took 0.00626 secs
+Adding results to zip file
+Results are ready for sharing at: /CHARYBDIS/Runs/PREMIER/diagnostics/strata/Results_PREMIER.zip
+Computing all diagnostics took 0.119 secs
+Saving database metadata
+Counting cohorts
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", 
+"getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", 
+"getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts", "getCohortCounts") because unchanged from earlier run
+Starting concept set diagnostics at 2020-07-09 02:15:27
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", 
+"runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", 
+"runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", 
+"runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts", "runIncludedSourceConcepts") because unchanged from earlier run
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", 
+"runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", 
+"runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts", "runOrphanConcepts") because unchanged from earlier run
+Creating time distributions
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", 
+"runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", 
+"runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions", "runTimeDistributions") because unchanged from earlier run
+Running time distribution took 0.00654 secs
+Breaking down index events
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", 
+"runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", 
+"runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", 
+"runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents", "runBreakdownIndexEvents") because unchanged from earlier run
+Running index event breakdown took 0.00647 secs
+Computing incidence rate
+Skipping cohortId = c(110, 121, 122, 123, 124, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198), task = c("runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", 
+"runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", 
+"runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate", "runIncidenceRate") because unchanged from earlier run
+Running Incidence Rate took 0.00651 secs
+Adding results to zip file
+Results are ready for sharing at: /CHARYBDIS/Runs/PREMIER/diagnostics/feature/Results_PREMIER.zip
+Computing all diagnostics took 0.173 secs
+CHARYBDIS cohort diagnostics are bundled for sharing at:  /CHARYBDIS/Runs/PREMIER/diagnostics/Results_diagnostics_PREMIER.zip
+R version:
+R version 3.6.3 (2020-02-29)
+
+Platform:
+x86_64-pc-linux-gnu
+
+Locale:
+C
+
+Attached base packages:
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- methods
+- base
+
+Other attached packages:
+- Covid19CharacterizationCharybdis (0.0.1)
+- DatabaseConnector (3.0.0)
+Connecting using PostgreSQL driver
+**********************************************************
+  ---- Creating target cohorts ---- 
+**********************************************************
+Cohort table already exists and in incremental mode, so not recreating table.
+Skipping cohortId = '126' because unchanged from earlier run
+Skipping cohortId = '128' because unchanged from earlier run
+Skipping cohortId = '130' because unchanged from earlier run
+Skipping cohortId = '132' because unchanged from earlier run
+Skipping cohortId = '134' because unchanged from earlier run
+Skipping cohortId = '136' because unchanged from earlier run
+Skipping cohortId = '138' because unchanged from earlier run
+Skipping cohortId = '140' because unchanged from earlier run
+Skipping cohortId = '127' because unchanged from earlier run
+Skipping cohortId = '129' because unchanged from earlier run
+Skipping cohortId = '131' because unchanged from earlier run
+Skipping cohortId = '133' because unchanged from earlier run
+Skipping cohortId = '135' because unchanged from earlier run
+Skipping cohortId = '137' because unchanged from earlier run
+Skipping cohortId = '139' because unchanged from earlier run
+Skipping cohortId = '141' because unchanged from earlier run
+Skipping cohortId = '111' because unchanged from earlier run
+Skipping cohortId = '113' because unchanged from earlier run
+Skipping cohortId = '115' because unchanged from earlier run
+Skipping cohortId = '112' because unchanged from earlier run
+Skipping cohortId = '114' because unchanged from earlier run
+Skipping cohortId = '116' because unchanged from earlier run
+Instantiating cohort set took 0.134 secs
+******************************************
+  ---- Creating strata cohorts  ---- 
+******************************************
+Skipping cohortId = '100' because unchanged from earlier run
+Skipping cohortId = '101' because unchanged from earlier run
+Skipping cohortId = '119' because unchanged from earlier run
+Skipping cohortId = '120' because unchanged from earlier run
+Skipping cohortId = '102' because unchanged from earlier run
+Skipping cohortId = '103' because unchanged from earlier run
+Skipping cohortId = '104' because unchanged from earlier run
+Skipping cohortId = '105' because unchanged from earlier run
+Skipping cohortId = '199' because unchanged from earlier run
+Skipping cohortId = '106' because unchanged from earlier run
+Skipping cohortId = '117' because unchanged from earlier run
+Skipping cohortId = '107' because unchanged from earlier run
+Skipping cohortId = '108' because unchanged from earlier run
+Skipping cohortId = '109' because unchanged from earlier run
+Skipping cohortId = '125' because unchanged from earlier run
+Skipping cohortId = '118' because unchanged from earlier run
+Skipping cohortId = '200' because unchanged from earlier run
+Skipping cohortId = '203' because unchanged from earlier run
+Skipping cohortId = '204' because unchanged from earlier run
+Skipping cohortId = '205' because unchanged from earlier run
+Skipping cohortId = '206' because unchanged from earlier run
+Instantiating cohort set took 0.0976 secs
+**********************************************************
+ ---- Creating feature cohorts ---- 
+**********************************************************
+Skipping cohortId = '121' because unchanged from earlier run
+Skipping cohortId = '122' because unchanged from earlier run
+Skipping cohortId = '123' because unchanged from earlier run
+Skipping cohortId = '124' because unchanged from earlier run
+Skipping cohortId = '110' because unchanged from earlier run
+Skipping cohortId = '142' because unchanged from earlier run
+Skipping cohortId = '143' because unchanged from earlier run
+Skipping cohortId = '144' because unchanged from earlier run
+Skipping cohortId = '145' because unchanged from earlier run
+Skipping cohortId = '146' because unchanged from earlier run
+Skipping cohortId = '147' because unchanged from earlier run
+Skipping cohortId = '148' because unchanged from earlier run
+Skipping cohortId = '149' because unchanged from earlier run
+Skipping cohortId = '150' because unchanged from earlier run
+Skipping cohortId = '151' because unchanged from earlier run
+Skipping cohortId = '152' because unchanged from earlier run
+Skipping cohortId = '153' because unchanged from earlier run
+Skipping cohortId = '154' because unchanged from earlier run
+Skipping cohortId = '155' because unchanged from earlier run
+Skipping cohortId = '156' because unchanged from earlier run
+Skipping cohortId = '157' because unchanged from earlier run
+Skipping cohortId = '158' because unchanged from earlier run
+Skipping cohortId = '159' because unchanged from earlier run
+Skipping cohortId = '160' because unchanged from earlier run
+Skipping cohortId = '161' because unchanged from earlier run
+Skipping cohortId = '162' because unchanged from earlier run
+Skipping cohortId = '163' because unchanged from earlier run
+Skipping cohortId = '164' because unchanged from earlier run
+Skipping cohortId = '165' because unchanged from earlier run
+Skipping cohortId = '166' because unchanged from earlier run
+Skipping cohortId = '167' because unchanged from earlier run
+Skipping cohortId = '168' because unchanged from earlier run
+Skipping cohortId = '169' because unchanged from earlier run
+Skipping cohortId = '170' because unchanged from earlier run
+Skipping cohortId = '171' because unchanged from earlier run
+Skipping cohortId = '172' because unchanged from earlier run
+Skipping cohortId = '173' because unchanged from earlier run
+Skipping cohortId = '174' because unchanged from earlier run
+Skipping cohortId = '175' because unchanged from earlier run
+Skipping cohortId = '176' because unchanged from earlier run
+Skipping cohortId = '177' because unchanged from earlier run
+Skipping cohortId = '178' because unchanged from earlier run
+Skipping cohortId = '179' because unchanged from earlier run
+Skipping cohortId = '180' because unchanged from earlier run
+Skipping cohortId = '181' because unchanged from earlier run
+Skipping cohortId = '182' because unchanged from earlier run
+Skipping cohortId = '183' because unchanged from earlier run
+Skipping cohortId = '184' because unchanged from earlier run
+Skipping cohortId = '185' because unchanged from earlier run
+Skipping cohortId = '186' because unchanged from earlier run
+Skipping cohortId = '187' because unchanged from earlier run
+Skipping cohortId = '188' because unchanged from earlier run
+Skipping cohortId = '189' because unchanged from earlier run
+Skipping cohortId = '190' because unchanged from earlier run
+Skipping cohortId = '191' because unchanged from earlier run
+Skipping cohortId = '192' because unchanged from earlier run
+Skipping cohortId = '193' because unchanged from earlier run
+Skipping cohortId = '194' because unchanged from earlier run
+Skipping cohortId = '195' because unchanged from earlier run
+Skipping cohortId = '196' because unchanged from earlier run
+Skipping cohortId = '197' because unchanged from earlier run
+Skipping cohortId = '198' because unchanged from earlier run
+Skipping cohortId = '201' because unchanged from earlier run
+Skipping cohortId = '202' because unchanged from earlier run
+Instantiating cohort set took 0.263 secs
+**********************************************************
+ ---- Creating stratified target cohorts ---- 
+**********************************************************
+Stratify by Full 30-day follow up
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.03 secs
+Stratify by < 30-day follow up
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0279 secs
+Stratify by Sex = Female
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.231 secs
+Stratify by Sex = Male
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0281 secs
+Stratify by Age >= 18
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0288 secs
+Stratify by Age < 18
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.234 secs
+Stratify by Age >= 65
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0287 secs
+Stratify by Age < 65
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0293 secs
+Stratify by Black or African American
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0263 secs
+Stratify by White
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0299 secs
+Stratify by Index date: Jan 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0429 secs
+Stratify by Index date: Feb 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0414 secs
+Stratify by Index date: Mar 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.04 secs
+Stratify by Index date: Apr 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0352 secs
+Stratify by Index date: May 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0357 secs
+Stratify by Index date: Jun 2020
+  |                                                                              |                                                                      |   0%  |                                                                              |============                                                          |  17%  |                                                                              |=======================                                               |  33%  |                                                                              |===================================                                   |  50%  |                                                                              |===============================================                       |  67%  |                                                                              |==========================================================            |  83%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0346 secs
+Stratify by cohorts
+  |                                                                              |                                                                      |   0%  |                                                                              |=====                                                                 |   7%  |                                                                              |==========                                                            |  14%  |                                                                              |===============                                                       |  21%  |                                                                              |====================                                                  |  29%  |                                                                              |=========================                                             |  36%  |                                                                              |==============================                                        |  43%  |                                                                              |===================================                                   |  50%  |                                                                              |========================================                              |  57%  |                                                                              |=============================================                         |  64%  |                                                                              |==================================================                    |  71%  |                                                                              |=======================================================               |  79%  |                                                                              |============================================================          |  86%  |                                                                              |=================================================================     |  93%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.152 secs
+**********************************************************
+ ---- Copy cohorts to main table ---- 
+**********************************************************
+Copy and censor cohorts to main analysis table
+  |                                                                              |                                                                      |   0%  |                                                                              |======                                                                |   8%  |                                                                              |============                                                          |  17%  |                                                                              |==================                                                    |  25%  |                                                                              |=======================                                               |  33%  |                                                                              |=============================                                         |  42%  |                                                                              |===================================                                   |  50%  |                                                                              |=========================================                             |  58%  |                                                                              |===============================================                       |  67%  |                                                                              |====================================================                  |  75%  |                                                                              |==========================================================            |  83%  |                                                                              |================================================================      |  92%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.211 secs
+**********************************************************
+ ---- Create feature proportions ---- 
+**********************************************************
+Compute feature proportions for all target and strata
+  |                                                                              |                                                                      |   0%  |                                                                              |==========                                                            |  14%  |                                                                              |====================                                                  |  29%  |                                                                              |==============================                                        |  43%  |                                                                              |========================================                              |  57%  |                                                                              |==================================================                    |  71%  |                                                                              |============================================================          |  86%  |                                                                              |======================================================================| 100%
+Executing SQL took 0.0862 secs
+Saving database metadata
+Counting staging cohorts
+Counting cohorts took 0.0968 secs
+   censoring 237 values (48.5%) from cohortEntries because value below minimum
+   censoring 239 values (48.9%) from cohortSubjects because value below minimum
+Counting cohorts
+Counting cohorts took 0.0889 secs
+   censoring 40 values (37%) from cohortEntries because value below minimum
+   censoring 40 values (37%) from cohortSubjects because value below minimum
+Extract feature counts
+   censoring 3551 values (85.7%) from featureCount because value below minimum
+Error in `colnames<-`(`*tmp*`, value = SqlRender::camelCaseToSnakeCase(colnames(data))) : 
+  attempt to set 'colnames' on an object with less than two dimensions
+Calls: runStudy -> writeToCsv -> colnames<-

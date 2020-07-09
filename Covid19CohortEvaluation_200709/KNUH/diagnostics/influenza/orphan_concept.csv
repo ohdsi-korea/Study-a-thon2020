@@ -1,0 +1,21 @@
+cohort_id,concept_set_id,concept_set_name,concept_count,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,database_id
+111,0,Influenza conditions,12,46276001,influenza A virus (H1N1) antigen / influenza A virus (H3N2) antigen / influenza B virus antigen Prefilled Syringe,Drug,RxNorm,Clinical Drug Form,S,1657137,20150908,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,529118,"Haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine",Drug,RxNorm,Ingredient,S,798279,20080629,20991231,NA,PREMIER
+111,0,Influenza conditions,10,21601335,"influenza, inactivated, split virus or surface antigen",Drug,ATC,ATC 5th,C,J07BB02,19700101,20991231,NA,PREMIER
+111,0,Influenza conditions,178,3044141,Influenza virus A Ag [Presence] in Nasopharynx,Measurement,LOINC,Lab Test,S,43874-7,20060220,20991231,NA,PREMIER
+111,0,Influenza conditions,143,3044408,Influenza virus A+B Ag [Presence] in Nose,Measurement,LOINC,Lab Test,S,44567-6,20060309,20991231,NA,PREMIER
+111,0,Influenza conditions,89,3045831,Influenza virus B Ag [Presence] in Nasopharynx,Measurement,LOINC,Lab Test,S,43895-2,20060220,20991231,NA,PREMIER
+111,0,Influenza conditions,5,21493349,Haemophilus influenzae DNA [Presence] in Cerebral spinal fluid by NAA with non-probe detection,Measurement,LOINC,Lab Test,S,82183-5,20160624,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,3000251,Influenza virus B Ag [Presence] in Throat,Measurement,LOINC,Lab Test,S,31863-4,20020510,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,37019976,Parainfluenza virus 3 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91800-3,20190621,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,37019984,Parainfluenza virus 4 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91799-7,20190621,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,37020881,Parainfluenza virus 1 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91802-9,20190621,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,37021346,Parainfluenza virus 2 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91801-1,20190621,20991231,NA,PREMIER
+111,0,Influenza conditions,-5,3003551,Influenza virus A Ag [Presence] in Throat,Measurement,LOINC,Lab Test,S,31858-4,20020510,20991231,NA,PREMIER
+111,0,Influenza conditions,23,44784283,Requires influenza virus vaccination,Observation,SNOMED,Clinical Finding,S,698353005,20140131,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,6,36714388,Influenza caused by seasonal influenza virus,Condition,SNOMED,Clinical Finding,S,719590007,20170131,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,-5,37019976,Parainfluenza virus 3 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91800-3,20190621,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,-5,37019984,Parainfluenza virus 4 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91799-7,20190621,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,-5,37020881,Parainfluenza virus 1 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91802-9,20190621,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,-5,37021346,Parainfluenza virus 2 RNA [Presence] in Upper respiratory specimen by NAA with probe detection,Measurement,LOINC,Lab Test,S,91801-1,20190621,20991231,NA,PREMIER
+112,2,Influenza test measurements excluding antibody tests,23,44784283,Requires influenza virus vaccination,Observation,SNOMED,Clinical Finding,S,698353005,20140131,20991231,NA,PREMIER

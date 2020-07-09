@@ -1,0 +1,193 @@
+cohort_id,concept_set_id,concept_set_name,concept_count,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,database_id
+100,0,Type 2 Diabetes Mellitus,13,4024659,Gestational diabetes mellitus,Condition,SNOMED,Clinical Finding,S,11687002,19700101,20991231,NA,PREMIER
+100,1,History of diabetes,-5,4226121,Retinopathy with type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422034002,19700101,20991231,NA,PREMIER
+100,1,History of diabetes,24,37017432,Polyneuropathy due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,713706002,20160131,20991231,NA,PREMIER
+100,1,History of diabetes,-5,4099216,Type 2 diabetes mellitus with multiple complications,Condition,SNOMED,Clinical Finding,S,190388001,19700101,20991231,NA,PREMIER
+100,1,History of diabetes,-5,443732,Disorder due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,422014003,19700101,20991231,NA,PREMIER
+100,1,History of diabetes,484,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,20150131,20991231,NA,PREMIER
+100,1,History of diabetes,78,4193704,Type 2 diabetes mellitus without complication,Condition,SNOMED,Clinical Finding,S,313436004,19700101,20991231,NA,PREMIER
+101,0,Hypertension,-5,4283352,Pre-eclampsia added to pre-existing hypertension,Condition,SNOMED,Clinical Finding,S,67359005,19700101,20991231,NA,PREMIER
+101,0,Hypertension,9,4118910,Maternal hypertension,Condition,SNOMED,Clinical Finding,S,288250001,19700101,20991231,NA,PREMIER
+119,2,"COPD mono-therapy
+",202,42921876,2 ML Ipratropium 0.25 MG/ML Inhalant Solution [AVENTRO],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4648695,20180821,20991231,NA,PREMIER
+119,2,"COPD mono-therapy
+",10,42921875,2 ML Ipratropium 0.25 MG/ML Inhalant Solution [ATROVENT UDV],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4648694,20180821,20991231,NA,PREMIER
+120,3,LAMA,16,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646520,20180821,20991231,NA,PREMIER
+120,3,LAMA,-5,42920051,30 ACTUAT umeclidinium 0.00207999999999999982 MG/ACTUAT Nasal Spray [Incruse Ellipta],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646908,20180821,20991231,NA,PREMIER
+120,3,LAMA,23,42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646529,20180821,20991231,NA,PREMIER
+120,3,LAMA,14,42920049,30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Anoro],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646906,20180821,20991231,NA,PREMIER
+120,3,LAMA,-5,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,23,42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646529,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,17,42919217,120 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646088,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,16,42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646520,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,14,42920049,30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.0250000000000000014 MG/ACTUAT Nasal Spray [Anoro],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646906,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,-5,42920051,30 ACTUAT umeclidinium 0.00207999999999999982 MG/ACTUAT Nasal Spray [Incruse Ellipta],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646908,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,10,42919661,60 ACTUAT Budesonide 0.160000000000000003 MG/ACTUAT / formoterol 0.00449999999999999966 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646524,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,9,42919663,60 ACTUAT Budesonide 0.320000000000000007 MG/ACTUAT / formoterol 0.00899999999999999932 MG/ACTUAT Nasal Spray [SYMBICORT TURBUHALER],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646526,20180821,20991231,NA,PREMIER
+120,4,Asthma therapy,-5,42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646899,20180821,20991231,NA,PREMIER
+102,0,Chronic kidney disease,-5,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,19700101,20991231,NA,PREMIER
+102,0,Chronic kidney disease,6,4056481,Isolated proteinuria with specified morphological lesion,Condition,SNOMED,Clinical Finding,S,197716006,19700101,20991231,NA,PREMIER
+102,0,Chronic kidney disease,18,4058985,"Acute nephritic syndrome, focal and segmental glomerular lesions",Condition,SNOMED,Clinical Finding,S,197682007,19700101,20991231,NA,PREMIER
+102,0,Chronic kidney disease,17,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,19700101,20991231,NA,PREMIER
+102,0,Chronic kidney disease,-5,194685,Non-obstructive reflux-associated chronic pyelonephritis,Condition,SNOMED,Clinical Finding,S,197764002,19700101,20991231,NA,PREMIER
+102,0,Chronic kidney disease,21,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,19700101,20991231,NA,PREMIER
+102,1,Dialysis,107,3022243,Creatinine [Mass/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,Lab Test,S,11042-9,19700101,20991231,NA,PREMIER
+102,1,Dialysis,9,4070976,Mechanical complication of dialysis catheter,Condition,SNOMED,Clinical Finding,S,17778006,19700101,20991231,NA,PREMIER
+102,1,Dialysis,-5,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,180272001,19700101,20991231,NA,PREMIER
+102,1,Dialysis,348,36305689,Fungus identified in Peritoneal dialysis fluid by Culture,Measurement,LOINC,Lab Test,S,87978-3,20180615,20991231,NA,PREMIER
+102,1,Dialysis,-5,4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED,Procedure,S,63421002,19700101,20991231,NA,PREMIER
+102,1,Dialysis,18,3034104,Urea nitrogen [Mass/volume] in Serum or Plasma --post dialysis,Measurement,LOINC,Lab Test,S,11064-3,19700101,20991231,NA,PREMIER
+102,1,Dialysis,484,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,20150131,20991231,NA,PREMIER
+102,1,Dialysis,-5,4289454,Venous catheterization for renal dialysis,Procedure,SNOMED,Procedure,S,69380006,19700101,20991231,NA,PREMIER
+102,1,Dialysis,123,3022164,Urea nitrogen [Mass/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,Lab Test,S,11065-0,19700101,20991231,NA,PREMIER
+102,1,Dialysis,-5,4235076,Replacement of peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,438342006,20090131,20991231,NA,PREMIER
+103,1,Dialysis,18,3034104,Urea nitrogen [Mass/volume] in Serum or Plasma --post dialysis,Measurement,LOINC,Lab Test,S,11064-3,19700101,20991231,NA,PREMIER
+103,1,Dialysis,107,3022243,Creatinine [Mass/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,Lab Test,S,11042-9,19700101,20991231,NA,PREMIER
+103,1,Dialysis,123,3022164,Urea nitrogen [Mass/volume] in Serum or Plasma --pre dialysis,Measurement,LOINC,Lab Test,S,11065-0,19700101,20991231,NA,PREMIER
+103,1,Dialysis,-5,4235076,Replacement of peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,438342006,20090131,20991231,NA,PREMIER
+103,1,Dialysis,-5,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter,Procedure,SNOMED,Procedure,S,180272001,19700101,20991231,NA,PREMIER
+103,1,Dialysis,-5,4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED,Procedure,S,63421002,19700101,20991231,NA,PREMIER
+103,1,Dialysis,348,36305689,Fungus identified in Peritoneal dialysis fluid by Culture,Measurement,LOINC,Lab Test,S,87978-3,20180615,20991231,NA,PREMIER
+103,1,Dialysis,-5,4289454,Venous catheterization for renal dialysis,Procedure,SNOMED,Procedure,S,69380006,19700101,20991231,NA,PREMIER
+103,1,Dialysis,9,4070976,Mechanical complication of dialysis catheter,Condition,SNOMED,Clinical Finding,S,17778006,19700101,20991231,NA,PREMIER
+103,1,Dialysis,484,45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Condition,SNOMED,Clinical Finding,S,90791000119104,20150131,20991231,NA,PREMIER
+104,5,Heart disease conditions,-5,4124694,Bacterial pericarditis,Condition,SNOMED,Clinical Finding,S,233883000,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4001670,Intraductal carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,109889007,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,13,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,9679-2,19961101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4179963,Family history of breast cancer,Observation,SNOMED,Context-dependent,S,429740004,20080131,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,86,3000337,Cancer Ag 15-3 [Units/volume] in Pleural fluid,Measurement,LOINC,Lab Test,S,19186-6,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,5,192855,Cancer in situ of urinary bladder,Condition,SNOMED,Clinical Finding,S,92546004,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,40488812,Sarcoma of dendritic cells,Condition,SNOMED,Clinical Finding,S,446643000,20110131,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,28109,Carcinoma in situ of esophagus,Condition,SNOMED,Clinical Finding,S,92585006,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4032594,Inflammation of scrotum,Condition,SNOMED,Clinical Finding,S,236781003,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,253796,Pneumothorax,Condition,SNOMED,Clinical Finding,S,36118008,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4243874,Carcinoma in situ of exocervix,Condition,SNOMED,Clinical Finding,S,92588008,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,15,37016875,Plain radiography of pelvis,Procedure,SNOMED,Procedure,S,713021002,20160131,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,102,42529199,Cancer Ag 125 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83082-8,20170221,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,98,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,10334-1,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,8,4050089,Open wound of front wall of thorax,Condition,SNOMED,Clinical Finding,S,210410008,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,176,4327032,CT of thorax with contrast,Procedure,SNOMED,Procedure,S,75385009,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,196064,Carcinoma in situ of digestive organ,Condition,SNOMED,Clinical Finding,S,109850001,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,Condition,SNOMED,Clinical Finding,S,1639007,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,14,4304092,CT of abdomen and pelvis,Procedure,SNOMED,Procedure,S,419394006,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,34,81250,Carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,189336000,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,111,42529201,Cancer Ag 19-9 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83084-4,20170221,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,9,4097527,MRI of pelvis,Procedure,SNOMED,Procedure,S,2690005,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,16,194611,Carcinoma in situ of uterine cervix,Condition,SNOMED,Clinical Finding,S,92564006,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,10,2791494,"Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS,ICD10PCS,S,BR3CY0Z,20140422,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,47,200970,Carcinoma in situ of prostate,Condition,SNOMED,Clinical Finding,S,92691004,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,492,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,24108-3,20000301,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4048727,Screening for cancer,Procedure,SNOMED,Procedure,S,15886004,19700101,20991231,NA,PREMIER
+105,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4073624,Cancer education,Procedure,SNOMED,Procedure,S,243072006,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,4060556,"Uterine scar from previous surgery in pregnancy, childbirth and the puerperium",Condition,SNOMED,Clinical Finding,S,199461004,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",8,4066112,Delivery by emergency cesarean section,Condition,SNOMED,Clinical Finding,S,200149009,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",Condition,SNOMED,Clinical Finding,S,199296002,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,433823,"Infectious disease in mother complicating pregnancy, childbirth AND/OR puerperium",Condition,SNOMED,Clinical Finding,S,40609001,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,434701,"Anemia in mother complicating pregnancy, childbirth AND/OR puerperium",Condition,SNOMED,Clinical Finding,S,45828008,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,4061457,Delivery by elective cesarean section,Condition,SNOMED,Clinical Finding,S,200148001,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,435875,"Complication of pregnancy, childbirth and/or the puerperium",Condition,SNOMED,Clinical Finding,S,198609003,19700101,20991231,NA,PREMIER
+199,11,"Birth, Abortion, Miscarriage",-5,440457,Threatened miscarriage,Condition,SNOMED,Clinical Finding,S,54048003,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",111,440417,Pulmonary embolism,Condition,SNOMED,Clinical Finding,S,59282003,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4337035,Multiple wedge excisions of lung,Procedure,SNOMED,Procedure,S,232634005,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",62,3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine,Measurement,LOINC,Lab Test,S,2106-3,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4050699,Multiple superficial injuries of head,Condition,SNOMED,Clinical Finding,S,211024005,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",40,444094,Finding related to pregnancy,Condition,SNOMED,Clinical Finding,S,118185001,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",5,21493352,Streptococcus agalactiae DNA [Presence] in Cerebral spinal fluid by NAA with non-probe detection,Measurement,LOINC,Lab Test,S,82186-8,20160624,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",-5,4099216,Type 2 diabetes mellitus with multiple complications,Condition,SNOMED,Clinical Finding,S,190388001,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",10,258866,Respiratory distress syndrome in the newborn,Condition,SNOMED,Clinical Finding,S,46775006,19700101,20991231,NA,PREMIER
+199,12,"Pregnancy conditions, procedures, and observations",12,320342,Secondary malignant neoplasm of lymph nodes of multiple sites,Condition,SNOMED,Clinical Finding,S,94396003,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,34,3036339,rifAMPin [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,428-3,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,89,3035551,levoFLOXacin [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,20396-8,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,763,42918949,200 ML Ciprofloxacin 2 MG/ML Injectable Solution [CITOPCIN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4645826,20180821,20991231,NA,PREMIER
+117,6,All TB drugs,21,36304372,Mycobacterium tuberculosis complex rpoB gene rifAMPin resistance mutation [Presence] by Molecular method,Measurement,LOINC,Lab Test,S,89372-7,20180615,20991231,NA,PREMIER
+117,6,All TB drugs,6,3036947,Moxifloxacin [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,31037-5,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,78,41432609,200 ML Ciprofloxacin 2 MG/ML Injectable Solution [Ciprobay],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP2630571,20170824,20991231,NA,PREMIER
+117,6,All TB drugs,29,42919374,100 ML Ciprofloxacin 2 MG/ML Injectable Solution [CITOPCIN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4646242,20180821,20991231,NA,PREMIER
+117,6,All TB drugs,15,41423884,100 ML Ciprofloxacin 2 MG/ML Injectable Solution [Ciprobay],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP2621846,20170824,20991231,NA,PREMIER
+117,6,All TB drugs,8,41097844,Ciprofloxacin 250 MG Oral Tablet [Ciprobay],Drug,RxNorm Extension,Branded Drug,S,OMOP2295806,20170824,20991231,NA,PREMIER
+117,6,All TB drugs,7,42948272,Ciprofloxacin 500 MG Extended Release Oral Tablet [CIPROURO],Drug,RxNorm Extension,Branded Drug,S,OMOP4674864,20180821,20991231,NA,PREMIER
+117,6,All TB drugs,288,3010007,Ciprofloxacin [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,185-9,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,255,3035643,Imipenem [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,279-0,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,189,3002274,Amikacin [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,12-5,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,94,3005241,Linezolid [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,29254-0,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,93,3007224,Meropenem [Susceptibility] by Minimum inhibitory concentration (MIC),Measurement,LOINC,Lab Test,S,6652-2,19700101,20991231,NA,PREMIER
+117,6,All TB drugs,324,42948179,Ciprofloxacin 250 MG Oral Tablet [CITOPCIN],Drug,RxNorm Extension,Branded Drug,S,OMOP4674768,20180821,20991231,NA,PREMIER
+117,6,All TB drugs,109,42918950,200 ML Ciprofloxacin 2 MG/ML Injectable Solution [CYCIN],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4645827,20180821,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,5,4062637,Tuberculosis screening,Procedure,SNOMED,Procedure,S,171126009,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,19,439743,Late effects of respiratory tuberculosis,Condition,SNOMED,Clinical Finding,S,187252008,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,25,3009944,Mycobacterium tuberculosis DNA [Presence] in Pleural fluid by NAA with probe detection,Measurement,LOINC,Lab Test,S,14559-9,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,22,42869528,Mycobacterium tuberculosis stimulated gamma interferon [Interpretation] in Blood Qualitative,Measurement,LOINC,Lab Test,S,71773-6,20120514,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,21,36304372,Mycobacterium tuberculosis complex rpoB gene rifAMPin resistance mutation [Presence] by Molecular method,Measurement,LOINC,Lab Test,S,89372-7,20180615,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,21,3027813,Mycobacterium tuberculosis DNA [Presence] in Sputum by NAA with probe detection,Measurement,LOINC,Lab Test,S,14556-5,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,18,36304997,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ and CD8+ T-cells [Units/volume] in Blood,Measurement,LOINC,Lab Test,S,88518-6,20180615,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,11,36305335,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ and CD8+ T-cells [Units/volume] corrected for background in Blood,Measurement,LOINC,Lab Test,S,88517-8,20180615,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,9,3026478,Mycobacterium tuberculosis DNA [Presence] in Urine by NAA with probe detection,Measurement,LOINC,Lab Test,S,14560-7,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,7,3050388,Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ T-cells [Units/volume] in Blood,Measurement,LOINC,Lab Test,S,46217-6,19700101,20991231,NA,PREMIER
+117,7,Respiratory and pulmonary tuberculosis,8,40479809,Exposure to Mycobacterium tuberculosis,Observation,SNOMED,Event,S,444507004,20100131,20991231,NA,PREMIER
+107,5,Hepatitis C,360,3013801,Hepatitis C virus Ab [Presence] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,13955-0,19700101,20991231,NA,PREMIER
+107,5,Hepatitis C,-5,4015842,Viral hepatitis carrier,Condition,SNOMED,Clinical Finding,S,170489004,19700101,20991231,NA,PREMIER
+108,2,body weight,97,4260263,Diffusion weighted magnetic resonance imaging,Procedure,SNOMED,Procedure,S,440408002,20090131,20991231,NA,PREMIER
+109,0,Dementia,36,45763923,Assessment of psychotic and behavioral symptoms of dementia,Procedure,SNOMED,Procedure,S,700464008,20150131,20991231,NA,PREMIER
+109,0,Dementia,43,4012809,Dementia test,Procedure,SNOMED,Procedure,S,165320004,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,21,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,18,4058985,"Acute nephritic syndrome, focal and segmental glomerular lesions",Condition,SNOMED,Clinical Finding,S,197682007,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,17,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,6,4056481,Isolated proteinuria with specified morphological lesion,Condition,SNOMED,Clinical Finding,S,197716006,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,-5,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,19700101,20991231,NA,PREMIER
+125,0,Chronic kidney disease,-5,194685,Non-obstructive reflux-associated chronic pyelonephritis,Condition,SNOMED,Clinical Finding,S,197764002,19700101,20991231,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),5,4112026,Sequelae of cerebral infarction,Condition,SNOMED,Clinical Finding,S,195243003,19700101,20991231,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),-5,4047747,Subcortical vascular dementia,Condition,SNOMED,Clinical Finding,S,230286002,19700101,20991231,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),18,381316,Cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,230690007,19700101,20991231,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),-5,373503,Transient cerebral ischemia,Condition,SNOMED,Clinical Finding,S,266257000,19700101,20991231,NA,PREMIER
+125,1,Stroke (ischemic or hemorrhagic),5,443605,Vascular dementia,Condition,SNOMED,Clinical Finding,S,429998004,20090131,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4243874,Carcinoma in situ of exocervix,Condition,SNOMED,Clinical Finding,S,92588008,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,47,200970,Carcinoma in situ of prostate,Condition,SNOMED,Clinical Finding,S,92691004,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4048727,Screening for cancer,Procedure,SNOMED,Procedure,S,15886004,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,9,4097527,MRI of pelvis,Procedure,SNOMED,Procedure,S,2690005,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,196064,Carcinoma in situ of digestive organ,Condition,SNOMED,Clinical Finding,S,109850001,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,14,4304092,CT of abdomen and pelvis,Procedure,SNOMED,Procedure,S,419394006,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4073624,Cancer education,Procedure,SNOMED,Procedure,S,243072006,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,492,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,24108-3,20000301,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,34,81250,Carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,189336000,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,176,4327032,CT of thorax with contrast,Procedure,SNOMED,Procedure,S,75385009,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,15,37016875,Plain radiography of pelvis,Procedure,SNOMED,Procedure,S,713021002,20160131,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,10,2791494,"Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS,ICD10PCS,S,BR3CY0Z,20140422,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,253796,Pneumothorax,Condition,SNOMED,Clinical Finding,S,36118008,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,111,42529201,Cancer Ag 19-9 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83084-4,20170221,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,16,194611,Carcinoma in situ of uterine cervix,Condition,SNOMED,Clinical Finding,S,92564006,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,Condition,SNOMED,Clinical Finding,S,1639007,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4032594,Inflammation of scrotum,Condition,SNOMED,Clinical Finding,S,236781003,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,40488812,Sarcoma of dendritic cells,Condition,SNOMED,Clinical Finding,S,446643000,20110131,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,28109,Carcinoma in situ of esophagus,Condition,SNOMED,Clinical Finding,S,92585006,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,8,4050089,Open wound of front wall of thorax,Condition,SNOMED,Clinical Finding,S,210410008,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,98,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,10334-1,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,5,192855,Cancer in situ of urinary bladder,Condition,SNOMED,Clinical Finding,S,92546004,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4179963,Family history of breast cancer,Observation,SNOMED,Context-dependent,S,429740004,20080131,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,-5,4001670,Intraductal carcinoma in situ of breast,Condition,SNOMED,Clinical Finding,S,109889007,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,86,3000337,Cancer Ag 15-3 [Units/volume] in Pleural fluid,Measurement,LOINC,Lab Test,S,19186-6,19700101,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,102,42529199,Cancer Ag 125 [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,Lab Test,S,83082-8,20170221,20991231,NA,PREMIER
+125,3,Malignant neoplasms excluding non-melanoma skin cancer,13,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma,Measurement,LOINC,Lab Test,S,9679-2,19961101,20991231,NA,PREMIER
+125,4,Type 2 Diabetes Mellitus,13,4024659,Gestational diabetes mellitus,Condition,SNOMED,Clinical Finding,S,11687002,19700101,20991231,NA,PREMIER
+125,5,Heart Failure ,17,319034,Hypertensive heart disease without congestive heart failure,Condition,SNOMED,Clinical Finding,S,60899001,19700101,20991231,NA,PREMIER
+125,5,Heart Failure ,8,321042,Cardiac arrest,Condition,SNOMED,Clinical Finding,S,410429000,19700101,20991231,NA,PREMIER
+125,7,Heart disease conditions,-5,4124694,Bacterial pericarditis,Condition,SNOMED,Clinical Finding,S,233883000,19700101,20991231,NA,PREMIER
+118,2,Rheumatoid arthritis,-5,4079750,Osteoarthritis of knee,Condition,SNOMED,Clinical Finding,S,239873007,19700101,20991231,NA,PREMIER
+118,2,Rheumatoid arthritis,18,4253901,Juvenile rheumatoid arthritis,Condition,SNOMED,Clinical Finding,S,410795001,19700101,20991231,NA,PREMIER
+118,8,Graves' disease,43,138717,Toxic diffuse goiter,Condition,SNOMED,Clinical Finding,S,267374005,19700101,20991231,NA,PREMIER
+118,9,Sjogren's syndrome,12,3043359,Sjogrens syndrome-B extractable nuclear Ab [Units/volume] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,45142-7,20060421,20991231,NA,PREMIER
+118,9,Sjogren's syndrome,12,3045440,Sjogrens syndrome-A extractable nuclear Ab [Units/volume] in Serum by Immunoassay,Measurement,LOINC,Lab Test,S,33569-5,20030122,20991231,NA,PREMIER
+118,10,Hashimoto thyroiditis,-5,4281109,Autoimmune thyroiditis,Condition,SNOMED,Clinical Finding,S,66944004,19700101,20991231,NA,PREMIER
+118,12,"
+
+Vasculitis",33,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,19700101,20991231,NA,PREMIER
+200,1,Fever (38.0?C or higher) pre-coordinated measurement and conditions,22,314381,Acute febrile mucocutaneous lymph node syndrome,Condition,SNOMED,Clinical Finding,S,75053002,19700101,20991231,NA,PREMIER
+200,3,Cough,15,261687,Hemoptysis,Condition,SNOMED,Clinical Finding,S,66857006,19700101,20991231,NA,PREMIER
+200,4,Malaise or Fatigue or (Malaise and Fatigue),-5,374021,Acute disseminated encephalomyelitis,Condition,SNOMED,Clinical Finding,S,83942000,19700101,20991231,NA,PREMIER
+200,7,Myalgia,5,40405599,Fibromyalgia,Condition,SNOMED,Clinical Finding,S,203082005,19700101,20991231,NA,PREMIER
+200,7,Myalgia,33,255348,Polymyalgia rheumatica,Condition,SNOMED,Clinical Finding,S,65323003,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,-5,194685,Non-obstructive reflux-associated chronic pyelonephritis,Condition,SNOMED,Clinical Finding,S,197764002,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,-5,443771,Renal hypertension,Condition,SNOMED,Clinical Finding,S,28119000,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,17,197320,Acute renal failure syndrome,Condition,SNOMED,Clinical Finding,S,14669001,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,6,4056481,Isolated proteinuria with specified morphological lesion,Condition,SNOMED,Clinical Finding,S,197716006,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,21,4102631,Acute interstitial nephritis,Condition,SNOMED,Clinical Finding,S,28637003,19700101,20991231,NA,PREMIER
+203,0,Chronic kidney disease,18,4058985,"Acute nephritic syndrome, focal and segmental glomerular lesions",Condition,SNOMED,Clinical Finding,S,197682007,19700101,20991231,NA,PREMIER

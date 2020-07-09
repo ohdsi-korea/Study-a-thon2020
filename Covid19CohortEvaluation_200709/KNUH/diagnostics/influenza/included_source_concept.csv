@@ -1,0 +1,14 @@
+cohort_id,concept_set_id,concept_set_name,concept_id,concept_name,concept_code,source_vocabulary_id,source_concept_id,source_concept_name,concept_subjects,concept_count,database_id
+111,0,Influenza conditions,4266367,Influenza,No matching concept,None,0,No matching concept,8,10,PREMIER
+111,0,Influenza conditions,36714388,Influenza caused by seasonal influenza virus,No matching concept,None,0,No matching concept,5,6,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3000251,Influenza virus B Ag [Presence] in Throat,No matching concept,None,0,No matching concept,-5,-5,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3003551,Influenza virus A Ag [Presence] in Throat,No matching concept,None,0,No matching concept,-5,-5,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3044141,Influenza virus A Ag [Presence] in Nasopharynx,No matching concept,None,0,No matching concept,58,178,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3044408,Influenza virus A+B Ag [Presence] in Nose,No matching concept,None,0,No matching concept,58,143,PREMIER
+112,2,Influenza test measurements excluding antibody tests,3045831,Influenza virus B Ag [Presence] in Nasopharynx,No matching concept,None,0,No matching concept,58,89,PREMIER
+114,4,Inpatient Visit,262,Emergency Room and Inpatient Visit,No matching concept,None,0,No matching concept,183,304,PREMIER
+114,4,Inpatient Visit,9201,Inpatient Visit,No matching concept,None,0,No matching concept,219,661,PREMIER
+115,19,Mechanical ventilation,4013354,Insertion of endotracheal tube,No matching concept,None,0,No matching concept,14,15,PREMIER
+115,19,Mechanical ventilation,4074665,Controlled ventilation,No matching concept,None,0,No matching concept,19,113,PREMIER
+115,19,Mechanical ventilation,4230167,Artificial respiration,No matching concept,None,0,No matching concept,19,77,PREMIER
+115,19,Mechanical ventilation,4335583,Tracheal intubation using rigid bronchoscope,No matching concept,None,0,No matching concept,31,35,PREMIER

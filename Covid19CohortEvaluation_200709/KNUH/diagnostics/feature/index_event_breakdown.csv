@@ -1,0 +1,117 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+4024659,Gestational diabetes mellitus,-5,110,PREMIER
+317009,Asthma,7,121,PREMIER
+42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],5,121,PREMIER
+42922106,2 ML Budesonide 0.25 MG/ML Inhalant Solution [PULMICAN],-5,121,PREMIER
+255573,Chronic obstructive lung disease,-5,121,PREMIER
+257004,Acute exacerbation of chronic obstructive airways disease,-5,121,PREMIER
+4209097,Severe chronic obstructive pulmonary disease,-5,121,PREMIER
+19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],-5,121,PREMIER
+42921728,2.5 ML Albuterol 1 MG/ML Inhalant Solution [VENTOLIN NEBUL],33,122,PREMIER
+42918918,200 ACTUAT Albuterol 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Ventolin Evohaler],-5,122,PREMIER
+19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],24,123,PREMIER
+42922106,2 ML Budesonide 0.25 MG/ML Inhalant Solution [PULMICAN],14,123,PREMIER
+42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],10,123,PREMIER
+42920029,30 ACTUAT fluticasone 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Arnuity],-5,123,PREMIER
+439393,Pre-eclampsia,-5,142,PREMIER
+4283352,Pre-eclampsia added to pre-existing hypertension,-5,142,PREMIER
+437663,Fever,55,143,PREMIER
+444413,Febrile convulsion,5,143,PREMIER
+3020891,Body temperature,-5,143,PREMIER
+254761,Cough,18,144,PREMIER
+4121597,Myalgia/myositis - shoulder,-5,145,PREMIER
+442752,Muscle pain,-5,145,PREMIER
+439926,Malaise and fatigue,5,146,PREMIER
+312437,Dyspnea,39,147,PREMIER
+43530714,Sensory disorder of smell and/or taste,-5,148,PREMIER
+9201,Inpatient Visit,661,151,PREMIER
+262,Emergency Room and Inpatient Visit,304,151,PREMIER
+255848,Pneumonia,36,152,PREMIER
+4133224,Lobar pneumonia,5,152,PREMIER
+256722,Bronchopneumonia,-5,152,PREMIER
+261324,Pneumonia due to Streptococcus,-5,152,PREMIER
+319049,Acute respiratory failure,-5,153,PREMIER
+4102631,Acute interstitial nephritis,11,154,PREMIER
+197320,Acute renal failure syndrome,8,154,PREMIER
+132797,Sepsis,12,155,PREMIER
+440417,Pulmonary embolism,46,156,PREMIER
+77310,Deep vein phlebitis and thrombophlebitis of the leg,5,156,PREMIER
+320741,Thrombophlebitis,-5,156,PREMIER
+440417,Pulmonary embolism,47,157,PREMIER
+316139,Heart failure,9,159,PREMIER
+41349044,3 ML Amiodarone 50 MG/ML Injectable Solution [Cordarone],10,160,PREMIER
+4068155,Atrial arrhythmia,5,160,PREMIER
+321042,Cardiac arrest,-5,160,PREMIER
+4275423,Supraventricular tachycardia,-5,160,PREMIER
+4154290,Paroxysmal atrial fibrillation,-5,160,PREMIER
+4089462,Ventricular premature complex,-5,160,PREMIER
+2008358,Other electric countershock of heart,-5,160,PREMIER
+4068155,Atrial arrhythmia,5,162,PREMIER
+4275423,Supraventricular tachycardia,-5,162,PREMIER
+4154290,Paroxysmal atrial fibrillation,-5,162,PREMIER
+321042,Cardiac arrest,-5,163,PREMIER
+4014295,Single live birth,10,166,PREMIER
+4014296,Twins - both live born,-5,166,PREMIER
+4014295,Single live birth,-5,167,PREMIER
+4014296,Twins - both live born,-5,167,PREMIER
+4014295,Single live birth,8,169,PREMIER
+4014296,Twins - both live born,-5,169,PREMIER
+76482,Missed miscarriage,-5,170,PREMIER
+194702,Premature rupture of membranes,-5,171,PREMIER
+72693,Poor fetal growth affecting management,-5,172,PREMIER
+9201,Inpatient Visit,-5,174,PREMIER
+262,Emergency Room and Inpatient Visit,-5,174,PREMIER
+262,Emergency Room and Inpatient Visit,6,175,PREMIER
+9201,Inpatient Visit,-5,175,PREMIER
+255848,Pneumonia,28,176,PREMIER
+256722,Bronchopneumonia,-5,176,PREMIER
+4335583,Tracheal intubation using rigid bronchoscope,26,177,PREMIER
+4074665,Controlled ventilation,11,177,PREMIER
+4230167,Artificial respiration,5,177,PREMIER
+4013354,Insertion of endotracheal tube,-5,177,PREMIER
+4335583,Tracheal intubation using rigid bronchoscope,13,178,PREMIER
+4074665,Controlled ventilation,8,178,PREMIER
+4230167,Artificial respiration,5,178,PREMIER
+4013354,Insertion of endotracheal tube,-5,178,PREMIER
+4120120,Hemodialysis,22,181,PREMIER
+4019967,Dependence on renal dialysis,-5,181,PREMIER
+77670,Chest pain,13,182,PREMIER
+321318,Angina pectoris,-5,182,PREMIER
+321318,Angina pectoris,-5,183,PREMIER
+4245975,Hepatic failure,-5,184,PREMIER
+199074,Acute pancreatitis,7,185,PREMIER
+44806251,Biliary acute pancreatitis,-5,185,PREMIER
+443454,Cerebral infarction,22,186,PREMIER
+321042,Cardiac arrest,8,186,PREMIER
+316139,Heart failure,6,186,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,5,186,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,186,PREMIER
+4231580,Acute gastric ulcer with hemorrhage,5,187,PREMIER
+26727,Hematemesis,-5,187,PREMIER
+192671,Gastrointestinal hemorrhage,-5,187,PREMIER
+4232181,Chronic duodenal ulcer with hemorrhage,-5,187,PREMIER
+373503,Transient cerebral ischemia,-5,189,PREMIER
+443454,Cerebral infarction,22,190,PREMIER
+4014781,Closed traumatic subdural hemorrhage,-5,190,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,190,PREMIER
+4110185,"Intracerebral hemorrhage, intraventricular",-5,190,PREMIER
+443454,Cerebral infarction,22,191,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,192,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,5,193,PREMIER
+196751,Placenta previa with hemorrhage,10,194,PREMIER
+261687,Hemoptysis,5,194,PREMIER
+4231580,Acute gastric ulcer with hemorrhage,5,194,PREMIER
+197925,Hemorrhage of rectum and anus,-5,194,PREMIER
+192671,Gastrointestinal hemorrhage,-5,194,PREMIER
+443929,Postpartum hemorrhage,-5,194,PREMIER
+4014781,Closed traumatic subdural hemorrhage,-5,194,PREMIER
+4096682,Bleeding from nose,-5,194,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,194,PREMIER
+26727,Hematemesis,-5,194,PREMIER
+437312,Bleeding,-5,194,PREMIER
+4025198,Hemorrhagic complication of pregnancy,-5,194,PREMIER
+4169954,Genitourinary tract hemorrhage,-5,194,PREMIER
+4232181,Chronic duodenal ulcer with hemorrhage,-5,194,PREMIER
+440383,Depressive disorder,-5,195,PREMIER
+4152376,Intentional self poisoning,-5,197,PREMIER
+314381,Acute febrile mucocutaneous lymph node syndrome,18,198,PREMIER

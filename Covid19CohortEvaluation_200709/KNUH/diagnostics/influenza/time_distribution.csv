@@ -1,0 +1,13 @@
+count_value,min_value,max_value,average_value,standard_deviation,median_value,p_10_value,p_25_value,p_75_value,p_90_value,time_metric,cohort_id,database_id
+1,1,1,1,0,1,1,1,1,1,time (days) between cohort start and end,111,PREMIER
+1,766,766,766,0,766,766,766,766,766,observation time (days) after index,111,PREMIER
+1,1373,1373,1373,0,1373,1373,1373,1373,1373,observation time (days) prior to index,111,PREMIER
+1,1,1,1,0,1,1,1,1,1,time (days) between cohort start and end,112,PREMIER
+1,766,766,766,0,766,766,766,766,766,observation time (days) after index,112,PREMIER
+1,1373,1373,1373,0,1373,1373,1373,1373,1373,observation time (days) prior to index,112,PREMIER
+1,5,5,5,0,5,5,5,5,5,time (days) between cohort start and end,113,PREMIER
+1,762,762,762,0,762,762,762,762,762,observation time (days) after index,113,PREMIER
+1,1377,1377,1377,0,1377,1377,1377,1377,1377,observation time (days) prior to index,113,PREMIER
+1,5,5,5,0,5,5,5,5,5,time (days) between cohort start and end,114,PREMIER
+1,762,762,762,0,762,762,762,762,762,observation time (days) after index,114,PREMIER
+1,1377,1377,1377,0,1377,1377,1377,1377,1377,observation time (days) prior to index,114,PREMIER

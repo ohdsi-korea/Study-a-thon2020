@@ -1,0 +1,300 @@
+concept_id,concept_name,concept_count,cohort_id,database_id
+4193704,Type 2 diabetes mellitus without complication,27,100,PREMIER
+4008576,Diabetes mellitus without complication,15,100,PREMIER
+442793,Diabetic complication,6,100,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,100,PREMIER
+443238,Diabetic - poor control,-5,100,PREMIER
+4137220,Diabetic glomerulonephritis,-5,100,PREMIER
+320128,Essential hypertension,46,101,PREMIER
+319034,Hypertensive heart disease without congestive heart failure,-5,101,PREMIER
+443771,Renal hypertension,-5,101,PREMIER
+443919,Hypertensive renal failure,-5,101,PREMIER
+443611,Chronic kidney disease stage 5,6,102,PREMIER
+46271022,Chronic kidney disease,-5,102,PREMIER
+443597,Chronic kidney disease stage 3,-5,102,PREMIER
+443612,Chronic kidney disease stage 4,-5,102,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,102,PREMIER
+4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",-5,102,PREMIER
+4170452,Postoperative renal failure,-5,102,PREMIER
+443611,Chronic kidney disease stage 5,8,103,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,103,PREMIER
+321042,Cardiac arrest,8,104,PREMIER
+4068155,Atrial arrhythmia,6,104,PREMIER
+316139,Heart failure,5,104,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,-5,104,PREMIER
+314658,Cardiomegaly,-5,104,PREMIER
+319034,Hypertensive heart disease without congestive heart failure,-5,104,PREMIER
+321318,Angina pectoris,-5,104,PREMIER
+4089462,Ventricular premature complex,-5,104,PREMIER
+4275423,Supraventricular tachycardia,-5,104,PREMIER
+44784217,Cardiac arrhythmia,-5,104,PREMIER
+315564,Aortic valve regurgitation,-5,104,PREMIER
+321107,Congenital insufficiency of aortic valve,-5,104,PREMIER
+321319,Cardiomyopathy,-5,104,PREMIER
+434462,Ventricular septal defect,-5,104,PREMIER
+443580,Systolic heart failure,-5,104,PREMIER
+4141360,Chronic atrial fibrillation,-5,104,PREMIER
+4154290,Paroxysmal atrial fibrillation,-5,104,PREMIER
+4189343,Aortic valve stenosis,-5,104,PREMIER
+4289309,Atrial septal defect,-5,104,PREMIER
+196044,Primary malignant neoplasm of stomach,25,105,PREMIER
+74582,Primary malignant neoplasm of rectum,13,105,PREMIER
+261236,"Primary malignant neoplasm of upper lobe, bronchus or lung",13,105,PREMIER
+4157454,"Primary malignant neoplasm of lower lobe, bronchus or lung",12,105,PREMIER
+200962,Primary malignant neoplasm of prostate,10,105,PREMIER
+4311499,Primary malignant neoplasm of respiratory tract,10,105,PREMIER
+439751,Secondary malignant neoplasm of intrathoracic lymph nodes,9,105,PREMIER
+438699,Primary malignant neoplasm of rectosigmoid junction,8,105,PREMIER
+4162253,Primary malignant neoplasm of breast,8,105,PREMIER
+196359,Primary malignant neoplasm of uterine cervix,7,105,PREMIER
+436635,Primary malignant neoplasm of sigmoid colon,7,105,PREMIER
+4246451,Secondary malignant neoplasm of brain,7,105,PREMIER
+26638,Primary malignant neoplasm of esophagus,6,105,PREMIER
+78097,Secondary malignant neoplasm of bone,6,105,PREMIER
+197500,Primary malignant neoplasm of colon,6,105,PREMIER
+4001171,Liver cell carcinoma,6,105,PREMIER
+4247719,Primary malignant neoplasm of ascending colon,6,105,PREMIER
+40486896,Primary malignant neoplasm of extrahepatic bile duct,6,105,PREMIER
+133424,Primary malignant neoplasm of thyroid gland,5,105,PREMIER
+199754,Primary malignant neoplasm of pancreas,5,105,PREMIER
+254591,Secondary malignant neoplasm of lung,5,105,PREMIER
+320342,Secondary malignant neoplasm of lymph nodes of multiple sites,5,105,PREMIER
+4001664,Intrahepatic bile duct carcinoma,5,105,PREMIER
+44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,5,105,PREMIER
+72266,Secondary malignant neoplasm of pleura,-5,105,PREMIER
+196360,Primary malignant neoplasm of bladder,-5,105,PREMIER
+256646,"Primary malignant neoplasm of middle lobe, bronchus or lung",-5,105,PREMIER
+196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,-5,105,PREMIER
+318096,Secondary malignant neoplasm of lymph node,-5,105,PREMIER
+432843,Primary malignant neoplasm of tail of pancreas,-5,105,PREMIER
+432851,Secondary malignant neoplastic disease,-5,105,PREMIER
+192568,Secondary malignant neoplasm of intra-abdominal lymph nodes,-5,105,PREMIER
+194589,Primary malignant neoplasm of biliary tract,-5,105,PREMIER
+197806,Primary malignant neoplasm of gallbladder,-5,105,PREMIER
+198985,Primary malignant neoplasm of kidney,-5,105,PREMIER
+200051,Primary malignant neoplasm of ovary,-5,105,PREMIER
+200054,Primary malignant neoplasm of ureter,-5,105,PREMIER
+380055,Primary malignant neoplasm of brain,-5,105,PREMIER
+432257,Primary malignant neoplasm of transverse colon,-5,105,PREMIER
+440649,Primary malignant neoplasm of head of pancreas,-5,105,PREMIER
+80045,Primary malignant neoplasm of anus,-5,105,PREMIER
+136354,Secondary malignant neoplasm of skin,-5,105,PREMIER
+136917,Primary malignant neoplasm of skin of face,-5,105,PREMIER
+138994,Myelodysplastic syndrome,-5,105,PREMIER
+139750,Primary malignant neoplasm of skin,-5,105,PREMIER
+192836,Primary malignant neoplasm of small intestine,-5,105,PREMIER
+193138,Primary malignant neoplasm of lower third of esophagus,-5,105,PREMIER
+193144,Secondary malignant neoplasm of adrenal gland,-5,105,PREMIER
+193422,Primary malignant neoplasm of body of stomach,-5,105,PREMIER
+195480,Primary malignant neoplasm of renal pelvis,-5,105,PREMIER
+196051,Overlapping malignant neoplasm of female genital organs,-5,105,PREMIER
+197803,Overlapping malignant neoplasm of stomach,-5,105,PREMIER
+200348,Secondary malignant neoplasm of large intestine,-5,105,PREMIER
+260336,Primary malignant neoplasm of glottis,-5,105,PREMIER
+261514,Primary malignant neoplasm of supraglottis,-5,105,PREMIER
+376647,Primary malignant neoplasm of soft tissues,-5,105,PREMIER
+432837,Primary malignant neoplasm of cecum,-5,105,PREMIER
+433716,Primary malignant neoplasm of testis,-5,105,PREMIER
+434293,Primary malignant neoplasm of body of pancreas,-5,105,PREMIER
+437805,Primary malignant neoplasm of middle third of esophagus,-5,105,PREMIER
+439746,Primary malignant neoplasm of hypopharynx,-5,105,PREMIER
+441225,Primary malignant neoplasm of ampulla of Vater,-5,105,PREMIER
+441800,Primary malignant neoplasm of descending colon,-5,105,PREMIER
+4038838,Non-Hodgkin's lymphoma,-5,105,PREMIER
+4038846,"Langerhans cell histiocytosis, disseminated",-5,105,PREMIER
+4158563,Primary malignant neoplasm of breast upper inner quadrant,-5,105,PREMIER
+4162860,Primary malignant neoplasm of body of uterus,-5,105,PREMIER
+4300704,Diffuse large B-cell lymphoma,-5,105,PREMIER
+4311480,Primary malignant neoplasm of ileum,-5,105,PREMIER
+3038553,Body mass index (BMI) [Ratio],6,108,PREMIER
+4182210,Dementia,5,109,PREMIER
+378419,Alzheimer's disease,-5,109,PREMIER
+4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",-5,109,PREMIER
+253954,Pulmonary tuberculosis,-5,117,PREMIER
+260630,"Tuberculosis of lung, bacteriological and histological examination not done",-5,117,PREMIER
+434557,Tuberculosis,-5,117,PREMIER
+314381,Acute febrile mucocutaneous lymph node syndrome,12,118,PREMIER
+77310,Deep vein phlebitis and thrombophlebitis of the leg,6,118,PREMIER
+257628,Systemic lupus erythematosus,5,118,PREMIER
+81931,Psoriasis with arthropathy,-5,118,PREMIER
+140168,Psoriasis,-5,118,PREMIER
+193249,Acute hemorrhagic gastritis,-5,118,PREMIER
+320741,Thrombophlebitis,-5,118,PREMIER
+436642,Behcet's syndrome,-5,118,PREMIER
+4344158,Systemic lupus erythematosus with organ/system involvement,-5,118,PREMIER
+42919666,60 ACTUAT olodaterol 0.00250000000000000005 MG/ACTUAT / tiotropium 0.00250000000000000005 MG/ACTUAT Nasal Spray [VAHELVA RESPIMAT],-5,119,PREMIER
+255573,Chronic obstructive lung disease,-5,119,PREMIER
+257004,Acute exacerbation of chronic obstructive airways disease,-5,119,PREMIER
+4209097,Severe chronic obstructive pulmonary disease,-5,119,PREMIER
+19121580,tiotropium 0.018 MG Inhalation Powder [Spiriva],-5,119,PREMIER
+42919657,60 ACTUAT tiotropium 0.00250000000000000005 MG/ACTUAT Metered Dose Inhaler [Spiriva Respimat],-5,119,PREMIER
+42920041,30 ACTUAT tiotropium 0.0179999999999999986 MG/ACTUAT Inhalant Powder [Spiriva],-5,119,PREMIER
+42920472,15 ML Ipratropium 0.299999999999999989 MG/ML Nasal Spray [RHINOVENT],-5,119,PREMIER
+317009,Asthma,5,120,PREMIER
+42922106,2 ML Budesonide 0.25 MG/ML Inhalant Solution [PULMICAN],-5,120,PREMIER
+196044,Primary malignant neoplasm of stomach,24,125,PREMIER
+4193704,Type 2 diabetes mellitus without complication,17,125,PREMIER
+321042,Cardiac arrest,16,125,PREMIER
+443454,Cerebral infarction,15,125,PREMIER
+74582,Primary malignant neoplasm of rectum,13,125,PREMIER
+261236,"Primary malignant neoplasm of upper lobe, bronchus or lung",12,125,PREMIER
+4157454,"Primary malignant neoplasm of lower lobe, bronchus or lung",11,125,PREMIER
+200962,Primary malignant neoplasm of prostate,9,125,PREMIER
+4008576,Diabetes mellitus without complication,9,125,PREMIER
+4311499,Primary malignant neoplasm of respiratory tract,9,125,PREMIER
+439751,Secondary malignant neoplasm of intrathoracic lymph nodes,8,125,PREMIER
+4162253,Primary malignant neoplasm of breast,8,125,PREMIER
+196359,Primary malignant neoplasm of uterine cervix,7,125,PREMIER
+436635,Primary malignant neoplasm of sigmoid colon,7,125,PREMIER
+438699,Primary malignant neoplasm of rectosigmoid junction,7,125,PREMIER
+4246451,Secondary malignant neoplasm of brain,7,125,PREMIER
+26638,Primary malignant neoplasm of esophagus,6,125,PREMIER
+78097,Secondary malignant neoplasm of bone,6,125,PREMIER
+197500,Primary malignant neoplasm of colon,6,125,PREMIER
+316139,Heart failure,6,125,PREMIER
+4001171,Liver cell carcinoma,6,125,PREMIER
+4247719,Primary malignant neoplasm of ascending colon,6,125,PREMIER
+133424,Primary malignant neoplasm of thyroid gland,5,125,PREMIER
+199754,Primary malignant neoplasm of pancreas,5,125,PREMIER
+254591,Secondary malignant neoplasm of lung,5,125,PREMIER
+320342,Secondary malignant neoplasm of lymph nodes of multiple sites,5,125,PREMIER
+443611,Chronic kidney disease stage 5,5,125,PREMIER
+40486896,Primary malignant neoplasm of extrahepatic bile duct,5,125,PREMIER
+44806773,Secondary malignant neoplasm of liver and intrahepatic bile duct,5,125,PREMIER
+72266,Secondary malignant neoplasm of pleura,-5,125,PREMIER
+196360,Primary malignant neoplasm of bladder,-5,125,PREMIER
+256646,"Primary malignant neoplasm of middle lobe, bronchus or lung",-5,125,PREMIER
+4001664,Intrahepatic bile duct carcinoma,-5,125,PREMIER
+4014781,Closed traumatic subdural hemorrhage,-5,125,PREMIER
+4068155,Atrial arrhythmia,-5,125,PREMIER
+44784217,Cardiac arrhythmia,-5,125,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,125,PREMIER
+196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,-5,125,PREMIER
+318096,Secondary malignant neoplasm of lymph node,-5,125,PREMIER
+432843,Primary malignant neoplasm of tail of pancreas,-5,125,PREMIER
+432851,Secondary malignant neoplastic disease,-5,125,PREMIER
+442793,Diabetic complication,-5,125,PREMIER
+46271022,Chronic kidney disease,-5,125,PREMIER
+192568,Secondary malignant neoplasm of intra-abdominal lymph nodes,-5,125,PREMIER
+197806,Primary malignant neoplasm of gallbladder,-5,125,PREMIER
+198985,Primary malignant neoplasm of kidney,-5,125,PREMIER
+200051,Primary malignant neoplasm of ovary,-5,125,PREMIER
+200054,Primary malignant neoplasm of ureter,-5,125,PREMIER
+380055,Primary malignant neoplasm of brain,-5,125,PREMIER
+432257,Primary malignant neoplasm of transverse colon,-5,125,PREMIER
+440649,Primary malignant neoplasm of head of pancreas,-5,125,PREMIER
+443580,Systolic heart failure,-5,125,PREMIER
+443597,Chronic kidney disease stage 3,-5,125,PREMIER
+443612,Chronic kidney disease stage 4,-5,125,PREMIER
+4141360,Chronic atrial fibrillation,-5,125,PREMIER
+4154290,Paroxysmal atrial fibrillation,-5,125,PREMIER
+4270024,Acute non-ST segment elevation myocardial infarction,-5,125,PREMIER
+43530727,Spontaneous cerebral hemorrhage,-5,125,PREMIER
+80045,Primary malignant neoplasm of anus,-5,125,PREMIER
+136354,Secondary malignant neoplasm of skin,-5,125,PREMIER
+136917,Primary malignant neoplasm of skin of face,-5,125,PREMIER
+138994,Myelodysplastic syndrome,-5,125,PREMIER
+139750,Primary malignant neoplasm of skin,-5,125,PREMIER
+192359,Renal failure syndrome,-5,125,PREMIER
+192836,Primary malignant neoplasm of small intestine,-5,125,PREMIER
+193138,Primary malignant neoplasm of lower third of esophagus,-5,125,PREMIER
+193144,Secondary malignant neoplasm of adrenal gland,-5,125,PREMIER
+193422,Primary malignant neoplasm of body of stomach,-5,125,PREMIER
+195480,Primary malignant neoplasm of renal pelvis,-5,125,PREMIER
+196051,Overlapping malignant neoplasm of female genital organs,-5,125,PREMIER
+197803,Overlapping malignant neoplasm of stomach,-5,125,PREMIER
+200348,Secondary malignant neoplasm of large intestine,-5,125,PREMIER
+261514,Primary malignant neoplasm of supraglottis,-5,125,PREMIER
+314658,Cardiomegaly,-5,125,PREMIER
+315564,Aortic valve regurgitation,-5,125,PREMIER
+321107,Congenital insufficiency of aortic valve,-5,125,PREMIER
+321318,Angina pectoris,-5,125,PREMIER
+321319,Cardiomyopathy,-5,125,PREMIER
+376647,Primary malignant neoplasm of soft tissues,-5,125,PREMIER
+432837,Primary malignant neoplasm of cecum,-5,125,PREMIER
+433716,Primary malignant neoplasm of testis,-5,125,PREMIER
+434293,Primary malignant neoplasm of body of pancreas,-5,125,PREMIER
+434462,Ventricular septal defect,-5,125,PREMIER
+437805,Primary malignant neoplasm of middle third of esophagus,-5,125,PREMIER
+439746,Primary malignant neoplasm of hypopharynx,-5,125,PREMIER
+441225,Primary malignant neoplasm of ampulla of Vater,-5,125,PREMIER
+441800,Primary malignant neoplasm of descending colon,-5,125,PREMIER
+443238,Diabetic - poor control,-5,125,PREMIER
+443919,Hypertensive renal failure,-5,125,PREMIER
+4038838,Non-Hodgkin's lymphoma,-5,125,PREMIER
+4038846,"Langerhans cell histiocytosis, disseminated",-5,125,PREMIER
+4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",-5,125,PREMIER
+4110185,"Intracerebral hemorrhage, intraventricular",-5,125,PREMIER
+4148906,Spontaneous subarachnoid hemorrhage,-5,125,PREMIER
+4158563,Primary malignant neoplasm of breast upper inner quadrant,-5,125,PREMIER
+4162860,Primary malignant neoplasm of body of uterus,-5,125,PREMIER
+4189343,Aortic valve stenosis,-5,125,PREMIER
+4289309,Atrial septal defect,-5,125,PREMIER
+4300704,Diffuse large B-cell lymphoma,-5,125,PREMIER
+4311480,Primary malignant neoplasm of ileum,-5,125,PREMIER
+4014295,Single live birth,5,199,PREMIER
+4047564,Routine antenatal care,5,199,PREMIER
+74104,Fetal condition affecting obstetrical care of mother,-5,199,PREMIER
+196751,Placenta previa with hemorrhage,-5,199,PREMIER
+441919,Twin pregnancy,-5,199,PREMIER
+4066112,Delivery by emergency cesarean section,-5,199,PREMIER
+4061424,Antenatal care: primigravida,-5,199,PREMIER
+434111,Oligohydramnios,-5,199,PREMIER
+4283352,Pre-eclampsia added to pre-existing hypertension,-5,199,PREMIER
+4028913,Ultrasound procedure on female genital system AND/OR pregnancy related structure,-5,199,PREMIER
+44790261,Ultrasound monitoring of early pregnancy,-5,199,PREMIER
+436740,Cervical incompetence,-5,199,PREMIER
+439393,Pre-eclampsia,-5,199,PREMIER
+443929,Postpartum hemorrhage,-5,199,PREMIER
+4024659,Gestational diabetes mellitus,-5,199,PREMIER
+4062557,False labor,-5,199,PREMIER
+4299535,Pregnant,-5,199,PREMIER
+44784550,Preterm spontaneous labor with preterm delivery,-5,199,PREMIER
+45765728,Supervision of high risk pregnancy,-5,199,PREMIER
+72693,Poor fetal growth affecting management,-5,199,PREMIER
+72973,Chromosomal abnormality in fetus affecting obstetrical care,-5,199,PREMIER
+76482,Missed miscarriage,-5,199,PREMIER
+80165,Fetal disproportion,-5,199,PREMIER
+193277,Deliveries by cesarean,-5,199,PREMIER
+194702,Premature rupture of membranes,-5,199,PREMIER
+196758,Tumor of body of uterus affecting pregnancy,-5,199,PREMIER
+197050,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,-5,199,PREMIER
+433823,"Infectious disease in mother complicating pregnancy, childbirth AND/OR puerperium",-5,199,PREMIER
+435875,"Complication of pregnancy, childbirth and/or the puerperium",-5,199,PREMIER
+440216,Abnormal glucose tolerance test,-5,199,PREMIER
+4014296,Twins - both live born,-5,199,PREMIER
+4025198,Hemorrhagic complication of pregnancy,-5,199,PREMIER
+4060556,"Uterine scar from previous surgery in pregnancy, childbirth and the puerperium",-5,199,PREMIER
+4061457,Delivery by elective cesarean section,-5,199,PREMIER
+4064697,Placental transfusion syndromes,-5,199,PREMIER
+4071480,Fetal or neonatal effect of placental transfusion syndrome,-5,199,PREMIER
+4173169,Hydrops fetalis,-5,199,PREMIER
+4193062,Early stage of pregnancy,-5,199,PREMIER
+36712695,Suspected fetal abnormality affecting management of mother,-5,199,PREMIER
+36712703,Preterm labor without delivery,-5,199,PREMIER
+36713461,Antenatal care of elderly primigravida,-5,199,PREMIER
+4123182,Removal of Shirodkar suture from cervix,-5,199,PREMIER
+437663,Fever,55,200,PREMIER
+312437,Dyspnea,37,200,PREMIER
+254761,Cough,11,200,PREMIER
+439926,Malaise and fatigue,6,200,PREMIER
+444413,Febrile convulsion,5,200,PREMIER
+442752,Muscle pain,-5,200,PREMIER
+43530714,Sensory disorder of smell and/or taste,-5,200,PREMIER
+3020891,Body temperature,-5,200,PREMIER
+443611,Chronic kidney disease stage 5,6,203,PREMIER
+46271022,Chronic kidney disease,5,203,PREMIER
+443597,Chronic kidney disease stage 3,-5,203,PREMIER
+443612,Chronic kidney disease stage 4,-5,203,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,203,PREMIER
+192359,Renal failure syndrome,-5,203,PREMIER
+443919,Hypertensive renal failure,-5,203,PREMIER
+4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",-5,203,PREMIER
+4137220,Diabetic glomerulonephritis,-5,203,PREMIER
+4170452,Postoperative renal failure,-5,203,PREMIER
+443611,Chronic kidney disease stage 5,9,204,PREMIER
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,-5,204,PREMIER
+443919,Hypertensive renal failure,-5,204,PREMIER
+253954,Pulmonary tuberculosis,-5,206,PREMIER
+260630,"Tuberculosis of lung, bacteriological and histological examination not done",-5,206,PREMIER
+434557,Tuberculosis,-5,206,PREMIER

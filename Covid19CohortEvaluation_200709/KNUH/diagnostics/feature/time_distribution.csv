@@ -1,0 +1,154 @@
+count_value,min_value,max_value,average_value,standard_deviation,median_value,p_10_value,p_25_value,p_75_value,p_90_value,time_metric,cohort_id,database_id
+3,43,98,75.33333333333333,28.74601421646718,85,43,43,98,98,time (days) between cohort start and end,110,PREMIER
+3,19,73,52.666666666666664,29.36551265231604,66,19,19,73,73,observation time (days) after index,110,PREMIER
+3,0,168,73.33333333333333,86.00775158864074,52,0,0,168,168,observation time (days) prior to index,110,PREMIER
+12,1,3319,947,1162.4723652629339,389,2,28,1097,2781,time (days) between cohort start and end,121,PREMIER
+12,1,3319,947,1162.4723652629339,389,2,28,1097,2781,observation time (days) after index,121,PREMIER
+12,0,2894,553.0833333333334,1053.8422737197384,2,0,0,172,2546,observation time (days) prior to index,121,PREMIER
+27,0,44,6.666666666666667,11.100935511512947,1,0,0,8,28,time (days) between cohort start and end,122,PREMIER
+27,1,1048,176.07407407407408,276.6420800526204,39,7,16,273,698,observation time (days) after index,122,PREMIER
+27,0,3292,832.4074074074074,1171.4548239511435,167,4,19,1716,3106,observation time (days) prior to index,122,PREMIER
+43,0,173,21.372093023255815,38.839120714762615,1,0,1,34,59,time (days) between cohort start and end,123,PREMIER
+43,6,3319,1641.953488372093,1222.6596877589752,1730,99,330,2821,3084,observation time (days) after index,123,PREMIER
+43,0,3232,1128.3255813953488,1014.4848028839032,849,113,241,1919,2753,observation time (days) prior to index,123,PREMIER
+4,3,16,9.5,7.505553499465135,3,3,3,16,16,time (days) between cohort start and end,142,PREMIER
+4,8,19,12.5,4.795831523312719,10,8,8,13,19,observation time (days) after index,142,PREMIER
+4,0,21,5.5,10.344080432788601,0,0,0,1,21,observation time (days) prior to index,142,PREMIER
+49,3,59,10.306122448979592,9.667824819197639,8,3,4,13,21,time (days) between cohort start and end,143,PREMIER
+49,0,659,129.6122448979592,183.1325585842273,20,2,8,180,435,observation time (days) after index,143,PREMIER
+49,0,2691,579.4897959183673,826.7198770454481,173,0,1,834,2260,observation time (days) prior to index,143,PREMIER
+18,3,179,29.77777777777778,43.56139083227061,14,3,3,34,80,time (days) between cohort start and end,144,PREMIER
+18,2,3238,1254.888888888889,1341.7646365399862,412,3,146,2931,3211,observation time (days) after index,144,PREMIER
+18,0,3232,753.1111111111111,1165.9325925873743,92,0,0,1383,3118,observation time (days) prior to index,144,PREMIER
+3,3,14,6.666666666666667,6.3508529610858835,3,3,3,14,14,time (days) between cohort start and end,145,PREMIER
+3,3,1667,1078.6666666666667,932.9224690901883,1566,3,3,1667,1667,observation time (days) after index,145,PREMIER
+3,1,356,204,182.9125474099576,255,1,1,356,356,observation time (days) prior to index,145,PREMIER
+4,3,12,7.25,3.774917217635375,6,3,3,8,12,time (days) between cohort start and end,146,PREMIER
+4,3,838,415.25,351.356774992789,306,3,3,514,838,observation time (days) after index,146,PREMIER
+4,73,2082,1105,896.1298269038178,692,73,73,1573,2082,observation time (days) prior to index,146,PREMIER
+37,3,62,9.162162162162161,12.731224767636618,4,3,3,11,17,time (days) between cohort start and end,147,PREMIER
+37,0,1629,236.97297297297297,401.4640904438601,16,1,2,407,685,observation time (days) after index,147,PREMIER
+37,0,3242,1081.4864864864865,1108.3144765719605,513,1,50,1807,2735,observation time (days) prior to index,147,PREMIER
+1,17,17,17,0,17,17,17,17,17,time (days) between cohort start and end,148,PREMIER
+1,223,223,223,0,223,223,223,223,223,observation time (days) after index,148,PREMIER
+1,0,0,0,0,0,0,0,0,0,observation time (days) prior to index,148,PREMIER
+965,0,175,7.796891191709845,12.131976141464738,4,1,2,9,17,time (days) between cohort start and end,151,PREMIER
+965,1,3305,464.32331606217616,609.4857698560666,212,13,38,645,1335,observation time (days) after index,151,PREMIER
+965,0,3321,599.380310880829,813.9165426557055,198,1,29,911,1859,observation time (days) prior to index,151,PREMIER
+27,1,108,14.666666666666666,19.732830901434678,11,4,6,15,23,time (days) between cohort start and end,152,PREMIER
+27,2,772,157.33333333333334,200.478466136928,46,11,18,286,435,observation time (days) after index,152,PREMIER
+27,0,3134,437.6666666666667,806.5718051872858,144,0,1,388,1742,observation time (days) prior to index,152,PREMIER
+4,6,15,9.75,4.112987559751022,7,6,6,11,15,time (days) between cohort start and end,153,PREMIER
+4,5,99,33.5,43.92797134704341,14,5,5,16,99,observation time (days) after index,153,PREMIER
+4,0,144,47.75,67.65784014682507,1,0,0,46,144,observation time (days) prior to index,153,PREMIER
+13,1,59,16.384615384615383,16.97811562737191,11,7,7,12,46,time (days) between cohort start and end,154,PREMIER
+13,1,400,91.46153846153847,133.67847955986,19,6,12,78,286,observation time (days) after index,154,PREMIER
+13,0,1126,247.07692307692307,370.5721840475127,12,0,0,373,804,observation time (days) prior to index,154,PREMIER
+9,1,12,5.333333333333333,3.6742346141747673,5,1,2,8,12,time (days) between cohort start and end,155,PREMIER
+9,1,435,73.88888888888889,145.9215923402397,10,1,6,19,435,observation time (days) after index,155,PREMIER
+9,0,1967,237.33333333333334,650.3714323369378,1,0,0,20,1967,observation time (days) prior to index,155,PREMIER
+47,1,353,23.19148936170213,61.09744116817657,1,1,1,15,57,time (days) between cohort start and end,156,PREMIER
+47,7,2124,841.6808510638298,546.8883959902835,832,66,386,1356,1572,observation time (days) after index,156,PREMIER
+47,0,1784,871.7872340425532,525.6524284027055,841,105,504,1338,1590,observation time (days) prior to index,156,PREMIER
+45,1,353,22.177777777777777,61.81103494040559,1,1,1,6,57,time (days) between cohort start and end,157,PREMIER
+45,7,1691,823.2,518.3190751230015,832,66,454,1306,1523,observation time (days) after index,157,PREMIER
+45,0,1784,892.1333333333333,520.2400058015181,845,132,535,1338,1590,observation time (days) prior to index,157,PREMIER
+8,1,23,8.25,7.851296526234195,3,1,3,13,23,time (days) between cohort start and end,159,PREMIER
+8,13,791,186.125,265.2989890132048,49,13,13,197,791,observation time (days) after index,159,PREMIER
+8,1,2072,429.875,676.3480586418293,210,1,26,292,2072,observation time (days) prior to index,159,PREMIER
+11,0,25,8.090909090909092,8.74590813414531,4,0,1,14,21,time (days) between cohort start and end,160,PREMIER
+11,0,351,137.36363636363637,145.7101731021364,58,3,19,304,351,observation time (days) after index,160,PREMIER
+11,1,2808,551.4545454545455,935.4983018302453,48,1,15,898,1819,observation time (days) prior to index,160,PREMIER
+8,3,26,12,8.58570240075241,8,3,4,15,26,time (days) between cohort start and end,162,PREMIER
+8,3,351,178.375,151.793974565151,87,3,19,304,351,observation time (days) after index,162,PREMIER
+8,1,2808,732.125,1054.4682393780965,48,1,1,898,2808,observation time (days) prior to index,162,PREMIER
+1,4,4,4,0,4,4,4,4,4,time (days) between cohort start and end,163,PREMIER
+1,3,3,3,0,3,3,3,3,3,observation time (days) after index,163,PREMIER
+1,1,1,1,0,1,1,1,1,1,observation time (days) prior to index,163,PREMIER
+35,0,0,0,0,0,0,0,0,0,time (days) between cohort start and end,164,PREMIER
+35,0,0,0,0,0,0,0,0,0,observation time (days) after index,164,PREMIER
+35,0,3218,1011.0285714285715,1244.4803896952874,199,2,10,2317,3148,observation time (days) prior to index,164,PREMIER
+13,4,45,10.076923076923077,11.280230039480124,6,4,5,8,20,time (days) between cohort start and end,166,PREMIER
+13,5,537,56.07692307692308,145.0766817574195,13,7,8,21,55,observation time (days) after index,166,PREMIER
+13,0,1143,160.69230769230768,318.6114102935279,21,0,0,120,337,observation time (days) prior to index,166,PREMIER
+3,4,8,6,2,6,4,4,8,8,time (days) between cohort start and end,167,PREMIER
+3,5,19,10.333333333333334,7.571877794400365,7,5,5,19,19,observation time (days) after index,167,PREMIER
+3,0,120,40.333333333333336,68.9951689129995,1,0,0,120,120,observation time (days) prior to index,167,PREMIER
+10,4,45,11.3,12.710887721424758,6,4,5,9,20,time (days) between cohort start and end,169,PREMIER
+10,8,537,69.8,164.7528789160029,13,8,10,22,55,observation time (days) after index,169,PREMIER
+10,0,1143,196.8,357.7928637261137,21,0,0,324,337,observation time (days) prior to index,169,PREMIER
+2,2,32,17,21.213203435596427,2,2,2,32,32,time (days) between cohort start and end,170,PREMIER
+2,50,332,191,199.4041122946064,50,50,50,332,332,observation time (days) after index,170,PREMIER
+2,6,552,279,386.0803025278549,6,6,6,552,552,observation time (days) prior to index,170,PREMIER
+1,6,6,6,0,6,6,6,6,6,time (days) between cohort start and end,171,PREMIER
+1,7,7,7,0,7,7,7,7,7,observation time (days) after index,171,PREMIER
+1,1,1,1,0,1,1,1,1,1,observation time (days) prior to index,171,PREMIER
+2,7,32,19.5,17.67766952966369,7,7,7,32,32,time (days) between cohort start and end,172,PREMIER
+2,31,537,284,357.796031280393,31,31,31,537,537,observation time (days) after index,172,PREMIER
+2,0,1143,571.5,808.2230508962238,0,0,0,1143,1143,observation time (days) prior to index,172,PREMIER
+3,3,6,4.666666666666667,1.5275252316519468,5,3,3,6,6,time (days) between cohort start and end,174,PREMIER
+3,286,2781,1143.6666666666667,1418.5084889888158,364,286,286,2781,2781,observation time (days) after index,174,PREMIER
+3,0,2495,1637.3333333333333,1418.5084889888158,2417,0,0,2495,2495,observation time (days) prior to index,174,PREMIER
+8,5,22,10.875,5.249149590988185,8,5,8,13,22,time (days) between cohort start and end,175,PREMIER
+8,47,1626,376.25,520.6912301382242,140,47,77,340,1626,observation time (days) after index,175,PREMIER
+8,540,3242,2560.75,949.9258241718516,2916,540,1693,3098,3242,observation time (days) prior to index,175,PREMIER
+26,7,66,15.615384615384615,13.305869150346918,10,7,7,21,32,time (days) between cohort start and end,176,PREMIER
+26,6,1443,442.03846153846155,484.9404483661251,222,12,17,795,1265,observation time (days) after index,176,PREMIER
+26,388,3134,1632.6153846153845,842.9576063799686,1497,673,874,2260,2836,observation time (days) prior to index,176,PREMIER
+43,1,110,3.86046511627907,16.599743823824852,1,1,1,1,3,time (days) between cohort start and end,177,PREMIER
+43,0,3304,454.5348837209302,723.3251376155358,96,2,14,803,1386,observation time (days) after index,177,PREMIER
+43,0,3075,521.5581395348837,843.1717698334517,50,1,14,932,1385,observation time (days) prior to index,177,PREMIER
+348,1,295,8.083333333333334,26.73417996651905,1,1,1,1,17,time (days) between cohort start and end,178,PREMIER
+348,1,3304,686.6120689655172,776.0791438690031,483,11,20,1040,1850,observation time (days) after index,178,PREMIER
+348,0,3321,587.278735632184,812.8320433694034,175,0,9,921,1859,observation time (days) prior to index,178,PREMIER
+10,1,43,13.4,13.769531582446804,9,1,3,16,31,time (days) between cohort start and end,181,PREMIER
+10,8,2233,506.8,816.1899016500728,50,8,27,791,1709,observation time (days) after index,181,PREMIER
+10,2,3321,1614,1250.9446208543543,1620,2,112,2708,2808,observation time (days) prior to index,181,PREMIER
+13,0,3238,497.0769230769231,951.7852052449003,8,1,2,461,1633,time (days) between cohort start and end,182,PREMIER
+13,0,3238,497.0769230769231,951.7852052449003,8,1,2,461,1633,observation time (days) after index,182,PREMIER
+13,0,3328,876.3846153846154,1167.7820529006785,289,1,1,1621,2653,observation time (days) prior to index,182,PREMIER
+4,1,51,20,22.77425447005163,5,1,1,23,51,time (days) between cohort start and end,183,PREMIER
+4,427,1633,1005,543.2617539762332,701,427,427,1259,1633,observation time (days) after index,183,PREMIER
+4,289,1495,917,543.2617539762332,663,289,289,1221,1495,observation time (days) prior to index,183,PREMIER
+2,7,306,156.5,211.4249275747777,7,7,7,306,306,time (days) between cohort start and end,184,PREMIER
+2,7,306,156.5,211.4249275747777,7,7,7,306,306,observation time (days) after index,184,PREMIER
+2,7,1573,790,1107.3292193381335,7,7,7,1573,1573,observation time (days) prior to index,184,PREMIER
+7,7,23,9.571428571428571,5.968169536721256,7,7,7,9,23,time (days) between cohort start and end,185,PREMIER
+7,66,2137,595.4285714285714,704.9373156867347,352,66,222,618,2137,observation time (days) after index,185,PREMIER
+7,2,1813,976.4285714285714,733.7288002940544,1261,2,45,1631,1813,observation time (days) prior to index,185,PREMIER
+31,7,191,18.451612903225808,37.91819150898191,7,7,7,7,12,time (days) between cohort start and end,186,PREMIER
+31,0,2920,212.06451612903226,534.3186898898366,26,0,13,197,407,observation time (days) after index,186,PREMIER
+31,0,3286,960.9032258064516,1185.1198632723108,228,0,1,2072,2812,observation time (days) prior to index,186,PREMIER
+7,7,39,14.714285714285714,12.243560017607702,7,7,7,23,39,time (days) between cohort start and end,187,PREMIER
+7,5,733,254.42857142857142,295.7391063887545,52,5,30,542,733,observation time (days) after index,187,PREMIER
+7,0,444,145.57142857142858,186.1261732829437,45,0,0,357,444,observation time (days) prior to index,187,PREMIER
+5,0,0,0,0,0,0,0,0,0,time (days) between cohort start and end,188,PREMIER
+5,0,0,0,0,0,0,0,0,0,observation time (days) after index,188,PREMIER
+5,0,2824,1039.6,1409.1175607450216,53,0,4,2317,2824,observation time (days) prior to index,188,PREMIER
+1,29,29,29,0,29,29,29,29,29,time (days) between cohort start and end,189,PREMIER
+1,36,36,36,0,36,36,36,36,36,observation time (days) after index,189,PREMIER
+1,1,1,1,0,1,1,1,1,1,observation time (days) prior to index,189,PREMIER
+21,7,114,15.952380952380953,28.159325614219156,7,7,7,7,10,time (days) between cohort start and end,190,PREMIER
+21,0,2920,238.52380952380952,628.7915090908607,26,9,13,185,380,observation time (days) after index,190,PREMIER
+21,0,3286,1170.904761904762,1290.1714190277935,282,0,1,2188,2931,observation time (days) prior to index,190,PREMIER
+15,7,85,12.4,20.099040488825047,7,7,7,7,10,time (days) between cohort start and end,191,PREMIER
+15,9,2920,298.2,740.2062646895893,26,11,13,255,470,observation time (days) after index,191,PREMIER
+15,0,3286,1201.2666666666667,1339.2250673252727,282,0,1,2568,3134,observation time (days) prior to index,191,PREMIER
+2,7,7,7,0,7,7,7,7,7,time (days) between cohort start and end,192,PREMIER
+2,22,102,62,56.568542494923804,22,22,22,102,102,observation time (days) after index,192,PREMIER
+2,0,2188,1094,1547.149637236166,0,0,0,2188,2188,observation time (days) prior to index,192,PREMIER
+3,7,12,8.666666666666666,2.8867513459481287,7,7,7,12,12,time (days) between cohort start and end,193,PREMIER
+3,13,407,170.33333333333334,208.6368455794262,91,13,13,407,407,observation time (days) after index,193,PREMIER
+3,17,1099,483,556.3775696413363,333,17,17,1099,1099,observation time (days) prior to index,193,PREMIER
+24,1,33,4.75,9.013275233497676,1,1,1,1,17,time (days) between cohort start and end,194,PREMIER
+24,5,2608,273.25,543.1941161556216,59,10,22,208,716,observation time (days) after index,194,PREMIER
+24,0,2188,292.4166666666667,577.1217878152015,45,0,1,172,769,observation time (days) prior to index,194,PREMIER
+1,20,20,20,0,20,20,20,20,20,time (days) between cohort start and end,195,PREMIER
+1,20,20,20,0,20,20,20,20,20,observation time (days) after index,195,PREMIER
+1,1086,1086,1086,0,1086,1086,1086,1086,1086,observation time (days) prior to index,195,PREMIER
+2,1,16,8.5,10.606601717798213,1,1,1,16,16,time (days) between cohort start and end,197,PREMIER
+2,1,16,8.5,10.606601717798213,1,1,1,16,16,observation time (days) after index,197,PREMIER
+2,0,126,63,89.09545442950498,0,0,0,126,126,observation time (days) prior to index,197,PREMIER
+10,3,18,7.6,6.1137368096588665,3,3,3,14,14,time (days) between cohort start and end,198,PREMIER
+10,10,191,62.2,64.71956599222698,22,10,13,103,140,observation time (days) after index,198,PREMIER
+10,0,548,98.7,169.7632665409884,1,0,0,118,179,observation time (days) prior to index,198,PREMIER
