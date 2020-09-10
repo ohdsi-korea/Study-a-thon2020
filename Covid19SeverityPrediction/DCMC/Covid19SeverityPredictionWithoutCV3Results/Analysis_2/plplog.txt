@@ -1,0 +1,9 @@
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_2
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1158
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		Population size:    523
+2020-09-08 05:41:55	[Main thread]	INFO	PatientLevelPrediction		Cases:              40
+2020-09-08 05:41:55	[Main thread]	ERROR	PatientLevelPrediction	checkHigher	nfold needs to be > 0

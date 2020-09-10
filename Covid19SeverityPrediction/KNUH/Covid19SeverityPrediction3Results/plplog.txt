@@ -1,0 +1,52 @@
+2020-09-08 05:22:06	[Main thread]	INFO	FeatureExtraction		Constructing features on server
+2020-09-08 05:23:22	[Main thread]	INFO	FeatureExtraction		Fetching data from server
+2020-09-08 05:23:23	[Main thread]	INFO	FeatureExtraction		Fetching data took 0.915 secs
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_2
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1161
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1159
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        312
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Covariates:         2791
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Population size:    68
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cases:              3
+2020-09-08 05:23:24	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_5
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1161
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1159
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        312
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Covariates:         2791
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Population size:    68
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cases:              3
+2020-09-08 05:23:24	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_3
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1161
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1160
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        312
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Covariates:         2791
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Population size:    68
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cases:              1
+2020-09-08 05:23:24	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_6
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1161
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1160
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        312
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Covariates:         2791
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Population size:    68
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Cases:              1
+2020-09-08 05:23:24	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:23:24	[Main thread]	INFO	Covid19SeverityPrediction3	execute	Packaging results

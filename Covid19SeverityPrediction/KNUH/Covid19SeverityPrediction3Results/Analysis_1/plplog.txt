@@ -1,0 +1,4 @@
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:23:24	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1

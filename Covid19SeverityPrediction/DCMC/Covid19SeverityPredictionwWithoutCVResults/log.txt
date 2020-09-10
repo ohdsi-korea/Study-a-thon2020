@@ -1,0 +1,240 @@
+2020-09-08 05:18:13	[Main thread]	INFO	Covid19SeverityPredictionwWithoutCV	execute	Creating cohorts
+2020-09-08 05:39:41	[Main thread]	INFO	Covid19SeverityPredictionwWithoutCV	createCohorts	Counting cohorts
+2020-09-08 05:39:41	[Main thread]	INFO	Covid19SeverityPredictionwWithoutCV	execute	Running predictions
+2020-09-08 05:39:43	[Main thread]	TRACE	PatientLevelPrediction		Creating reference table
+2020-09-08 05:39:43	[Main thread]	TRACE	PatientLevelPrediction		Writing settings csv to /Covid19SeverityPredictionwWithoutCVResults/settings.csv
+2020-09-08 05:39:43	[Main thread]	TRACE	PatientLevelPrediction		Running setting 1
+2020-09-08 05:39:43	[Main thread]	INFO	FeatureExtraction		Constructing features on server
+2020-09-08 05:41:01	[Main thread]	INFO	FeatureExtraction		Fetching data from server
+2020-09-08 05:41:02	[Main thread]	INFO	FeatureExtraction		Fetching data took 1.17 secs
+2020-09-08 05:41:02	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-09-08 05:41:02	[Main thread]	TRACE	PatientLevelPrediction		Saving data in setting 1
+2020-09-08 05:41:02	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 1
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		outcomeId: 1158
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		binary: TRUE
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		includeAllOutcomes: TRUE
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		firstExposureOnly: FALSE
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		washoutPeriod: 30
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		removeSubjectsWithPriorOutcome: TRUE
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		priorOutcomeLookback: 99999
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		requireTimeAtRisk: TRUE
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		minTimeAtRisk: 1
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowStart: 1
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		startAnchor: cohort start
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowEnd: 9999
+2020-09-08 05:41:02	[Main thread]	DEBUG	PatientLevelPrediction		endAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Requiring 30 days of observation prior index date
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing subjects with prior outcomes (if any)
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing non outcome subjects with insufficient time at risk (if any)
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Saving population for setting 1
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 1
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_2
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1158
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    523
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              40
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 40
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		plpData class: plpData
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testfraction: 0.25
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold class: integer
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold: 0
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigher	nfold needs to be > 0
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigher(nfold, 0): nfold needs to be > 0 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 2
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading population for setting2
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 2
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_6
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1158
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    523
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              40
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 40
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		plpData class: plpData
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testfraction: 0.25
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold class: integer
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold: 0
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigher	nfold needs to be > 0
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigher(nfold, 0): nfold needs to be > 0 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 3
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 3
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeId: 1159
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		binary: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		includeAllOutcomes: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		firstExposureOnly: FALSE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		washoutPeriod: 30
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		removeSubjectsWithPriorOutcome: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		priorOutcomeLookback: 99999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		requireTimeAtRisk: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		minTimeAtRisk: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowStart: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		startAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowEnd: 9999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		endAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Requiring 30 days of observation prior index date
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing subjects with prior outcomes (if any)
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing non outcome subjects with insufficient time at risk (if any)
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Saving population for setting 3
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 3
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_3
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1159
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    557
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              8
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 8
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigherEqual(sum(population[, "outcomeCount"] > 0), 25): sum(population[, "outcomeCount"] > 0) needs to be >= 25 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 4
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading population for setting4
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 4
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_7
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1159
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    557
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              8
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 8
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigherEqual(sum(population[, "outcomeCount"] > 0), 25): sum(population[, "outcomeCount"] > 0) needs to be >= 25 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 5
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 5
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeId: 1160
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		binary: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		includeAllOutcomes: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		firstExposureOnly: FALSE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		washoutPeriod: 30
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		removeSubjectsWithPriorOutcome: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		priorOutcomeLookback: 99999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		requireTimeAtRisk: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		minTimeAtRisk: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowStart: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		startAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowEnd: 9999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		endAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Requiring 30 days of observation prior index date
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing subjects with prior outcomes (if any)
+2020-09-08 05:41:03	[Main thread]	WARN	dplyr	eval_all_summarise	no non-missing arguments to min; returning Inf
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing non outcome subjects with insufficient time at risk (if any)
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Saving population for setting 5
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_4
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1160
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    559
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              6
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 6
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigherEqual(sum(population[, "outcomeCount"] > 0), 25): sum(population[, "outcomeCount"] > 0) needs to be >= 25 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 6
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading population for setting6
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 6
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_8
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1160
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    559
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              6
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 6
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigherEqual(sum(population[, "outcomeCount"] > 0), 25): sum(population[, "outcomeCount"] > 0) needs to be >= 25 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 7
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 7
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeId: 1161
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		binary: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		includeAllOutcomes: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		firstExposureOnly: FALSE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		washoutPeriod: 30
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		removeSubjectsWithPriorOutcome: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		priorOutcomeLookback: 99999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		requireTimeAtRisk: TRUE
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		minTimeAtRisk: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowStart: 1
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		startAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowEnd: 9999
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		endAnchor: cohort start
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Requiring 30 days of observation prior index date
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing subjects with prior outcomes (if any)
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Removing non outcome subjects with insufficient time at risk (if any)
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Saving population for setting 7
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 7
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_1
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1161
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    534
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              26
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 26
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		plpData class: plpData
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testfraction: 0.25
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold class: integer
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold: 0
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigher	nfold needs to be > 0
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigher(nfold, 0): nfold needs to be > 0 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading data in setting 8
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Loading population for setting8
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 8
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_5
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1161
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4874
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Population size:    534
+2020-09-08 05:41:03	[Main thread]	INFO	PatientLevelPrediction		Cases:              26
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 26
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		plpData class: plpData
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		testfraction: 0.25
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold class: integer
+2020-09-08 05:41:03	[Main thread]	DEBUG	PatientLevelPrediction		nfold: 0
+2020-09-08 05:41:03	[Main thread]	ERROR	PatientLevelPrediction	checkHigher	nfold needs to be > 0
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction	3	Error with runPlp:Error in checkHigher(nfold, 0): nfold needs to be > 0 
+2020-09-08 05:41:03	[Main thread]	TRACE	PatientLevelPrediction		Done runPlp.
+2020-09-08 05:41:03	[Main thread]	INFO	Covid19SeverityPredictionwWithoutCV	execute	Packaging results

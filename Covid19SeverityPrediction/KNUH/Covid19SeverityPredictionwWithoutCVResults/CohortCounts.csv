@@ -1,0 +1,6 @@
+"cohortDefinitionId","cohortName","cohortCount","personCount"
+1158,"Hospitalized_COVID19_patients_with_oxygen_therapy_WHO_severity_score_4",49,49
+1159,"Hospitalized_COVID19_patients_with_severe_diseases_including_mechanical_ventilation_ECMO_and_RRT",51,51
+1160,"Allcause_Death_of_Covid19_Pts",17,17
+1161,"Hospitalized_COVID19_patients_no_oxygen_therapy_WHO_severity_score_3",312,311
+1162,"Nonhospitalized_COVID19_patients_outpatient_WHO_severity_score_1__2",28,23
