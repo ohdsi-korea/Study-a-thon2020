@@ -1,0 +1,9 @@
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_4
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1160
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        28
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		Covariates:         610
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		Population size:    7
+2020-10-07 08:19:55	[Main thread]	INFO	PatientLevelPrediction		Cases:              1
+2020-10-07 08:19:55	[Main thread]	ERROR	PatientLevelPrediction	checkHigherEqual	sum(population[, "outcomeCount"] > 0) needs to be >= 25

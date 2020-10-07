@@ -1,0 +1,1285 @@
+"","conceptId","attributeName","ratio"
+"1",1269,NA,0
+"2",652,NA,0
+"3",18207,"Poisoning by antithrombotic drugs, undetermined",0
+"4",273,"Drug only plan",0
+"5",51,"Drug/Measurement",0
+"6",1587,NA,0
+"7",70,NA,0
+"8",1075,NA,0
+"9",350,"Reduction in the number of hours of employment",0
+"10",539,NA,0
+"11",2425,NA,0
+"12",1284,NA,0
+"13",278,"Small group (2-50 employees) health plan",0
+"14",2128,NA,0
+"15",2196,NA,0
+"16",1750,NA,0
+"17",176,NA,0
+"18",1494,NA,0
+"19",576,NA,0
+"20",4176,NA,0
+"21",5508,NA,0
+"22",292,"Medicaid Preferred Provider Organization (PPO)",0
+"23",7984,NA,0
+"24",1552,NA,0
+"25",271,"Dental only plan",0
+"26",22,"Measurement type",0.2
+"27",3042,NA,0
+"28",556,NA,0
+"29",764,NA,0
+"30",1175,NA,0
+"31",529,NA,0
+"32",4116,NA,0
+"33",775,NA,0
+"34",940,NA,0
+"35",390,"VA Outside VA facilities - Other Federal Agency",0
+"36",173,NA,0
+"37",82418,NA,0
+"38",2152,NA,0
+"39",2040,NA,0
+"40",42,"Observation/Procedure",0
+"41",1833,NA,0
+"42",189,NA,0
+"43",876,NA,0
+"44",161,NA,0
+"45",2025,NA,0
+"46",8670,"EU per deciliter",0
+"47",113,NA,0
+"48",28033,NA,0
+"49",1682,NA,0
+"50",1431,NA,0
+"51",632,NA,0
+"52",1372,NA,0
+"53",658,NA,0
+"54",3703,NA,0
+"55",120,NA,0
+"56",578,NA,0
+"57",2259,NA,0
+"58",440,"Research/Clinical Trial",0
+"59",57,"Care site",0
+"60",19,"Condition",0.3
+"61",160,NA,0
+"62",644,NA,0
+"63",3700,NA,0
+"64",824,NA,0
+"65",1368,NA,0
+"66",508,NA,0
+"67",2313,NA,0
+"68",2504,NA,0
+"69",1692,NA,0
+"70",357,"Entitlement to Medicare",0
+"71",19008,"Toxic effect of venom of caterpillars, assault",0
+"72",1143,NA,0
+"73",266,"Platinum Health Plan with 90% actuarial plan value",0
+"74",1287,NA,0
+"75",1550,NA,0
+"76",315,"Local Government Program",0
+"77",307,"Health Resources and Services Administration (HRSA) Program",0
+"78",2352,NA,0
+"79",841,NA,0
+"80",91,NA,0
+"81",27455,NA,0
+"82",6664,NA,0
+"83",5875,NA,0
+"84",54,"Drug/Procedure",0.2
+"85",5750,NA,0
+"86",181,NA,0
+"87",1312,NA,0
+"88",10,"Procedure",0.9
+"89",35,"Revenue code",0.1
+"90",2576,NA,0
+"91",1984,NA,0
+"92",1755,NA,0
+"93",13284,"Laceration of unspecified muscles, fascia and tendons at forearm level, left arm",0
+"94",963,NA,0
+"95",220,NA,0
+"96",1602,NA,0
+"97",1278,NA,0
+"98",2825,NA,0
+"99",400,"Division of Coal Mine Workers' Compensation (DCMWC) - Black Lung",0
+"100",2796,NA,0
+"101",241,"Non-human drug class Imaging Material",0
+"102",1025,NA,0
+"103",175,NA,0
+"104",596,NA,0
+"105",16464,"Other specified injury of dorsal vein of unspecified foot",0
+"106",285,"Medicare Non-managed Care",0
+"107",2116,NA,0
+"108",50,"Device/Drug",0.1
+"109",16399,"Sprain of interphalangeal joint of unspecified lesser toe(s)",0
+"110",13,"Drug",0.5
+"111",1776,NA,0
+"112",16820,"Corrosion of unspecified degree of lower back",0
+"113",1104,NA,0
+"114",2890,NA,0
+"115",487,NA,0
+"116",1922,NA,0
+"117",2,"Gender",11.4
+"118",1975,NA,0
+"119",246,"Has marketed form (OMOP)",0
+"120",75,NA,0.1
+"121",1664,NA,0
+"122",128,NA,0.1
+"123",6727,NA,0
+"124",2275,NA,0
+"125",344,"Miscellaneous Program",0
+"126",1920,NA,0
+"127",909,NA,0
+"128",8604,"percent mean normal",0
+"129",745,NA,0
+"130",1078,NA,0
+"131",152,NA,0
+"132",1216,NA,0
+"133",428,"Vision Other Private Insurance",0
+"134",637,NA,0
+"135",355,"Coverage under another plan",0
+"136",747,NA,0
+"137",2528,NA,0
+"138",222,"Brand name of (OMOP)",0
+"139",1008,NA,0
+"140",23987,NA,0
+"141",164,NA,0
+"142",1098,NA,0
+"143",1325,NA,0
+"144",186,NA,0
+"145",1548,NA,0
+"146",750,NA,0
+"147",1952,NA,0
+"148",182,NA,0
+"149",31948,NA,0
+"150",18,"Device type",1.2
+"151",1950,NA,0
+"152",528,NA,0
+"153",1900,NA,0
+"154",27,"Observation",0.6
+"155",143,NA,0
+"156",496,NA,0
+"157",58,"Type Concept",0
+"158",2752,NA,0
+"159",228,"Has standard Brand Name (OMOP)",0
+"160",1616,NA,0
+"161",814,NA,0
+"162",668,NA,0
+"163",5984,NA,0
+"164",294,"Medicaid - Other",0
+"165",850,NA,0
+"166",1800,NA,0
+"167",1629,NA,0
+"168",9604,"nanogram per milligram of protein",0
+"169",5202,NA,0
+"170",90334,NA,0
+"171",607,NA,0
+"172",5819,NA,0
+"173",258,NA,0
+"174",378,"Military Treatment Facility",0
+"175",483,NA,0
+"176",1050,NA,0
+"177",1708,NA,0
+"178",84,NA,0.1
+"179",3500,NA,0
+"180",276,"Individual health plan",0
+"181",7774,NA,0
+"182",37728,NA,0
+"183",33327,NA,0
+"184",1044,NA,0
+"185",379,"Military Treatment Facility - Enrolled Prime - HMO",0
+"186",320,"Federal, State, Local not specified - Preferred Provider Organization (PPO)",0
+"187",1062,NA,0
+"188",115,NA,0
+"189",1458,NA,0
+"190",97,NA,0
+"191",108,NA,0.2
+"192",59,NA,0
+"193",16184,"Nondisplaced avulsion fracture (chip fracture) of unspecified talus",0
+"194",589,NA,0
+"195",17457,"Corrosion of third degree of multiple sites of right ankle and foot",0
+"196",25143,NA,0
+"197",2401,NA,0
+"198",127,NA,0
+"199",4150,NA,0
+"200",555,NA,0
+"201",2704,NA,0
+"202",1583,NA,0
+"203",329,"Commercial Managed Care - Health Management Organization (HMO)",0
+"204",567,NA,0
+"205",44,"Measurement/Observation",0.3
+"206",1144,NA,0
+"207",816,NA,0
+"208",6912,NA,0
+"209",676,NA,0
+"210",153,NA,0
+"211",507,NA,0
+"212",944,NA,0
+"213",214,NA,0
+"214",7252,NA,0
+"215",419,"Self-insured (ERISA) Administrative Services Only (ASO) plan",0
+"216",664,NA,0
+"217",2601,NA,0
+"218",17248,"Burn of unspecified degree of left thigh",0
+"219",551,NA,0
+"220",1170,NA,0
+"221",532,NA,0
+"222",2214,NA,0
+"223",945,NA,0
+"224",948,NA,0
+"225",95,NA,0
+"226",3392,NA,0
+"227",4320,NA,0
+"228",259,"ICD-10-PCS Hierarchical Code",0
+"229",519,NA,0
+"230",1250,NA,0
+"231",172,NA,0
+"232",409,"Corrections State",0
+"233",4312,NA,0
+"234",840,NA,0
+"235",30,NA,0.1
+"236",13294,"Crushing injury of left forearm",0
+"237",3,"Race",5.3
+"238",936,NA,0
+"239",324,"Federal Employee Health Plan",0
+"240",981,NA,0
+"241",249,"Supplier or manufacturer of (OMOP)",0
+"242",4624,NA,0
+"243",255,"EHR Record contributory cause of death",0
+"244",5488,NA,0
+"245",36501,NA,0
+"246",209,NA,0
+"247",639,NA,0
+"248",296,"DoD TRICARE, Civilian Health and Medical Program of the Uniformed Services (CHAMPUS)",0
+"249",74,NA,0
+"250",868,NA,0
+"251",138,NA,0
+"252",34,"Currency",0.1
+"253",19074,"Toxic effect of contact with unspecified venomous animal, accidental (unintentional)",0
+"254",761,NA,0
+"255",972,NA,0
+"256",90,NA,0.1
+"257",387,"VA Outside VA facilities - Contract Nursing Home/Community Nursing Home",0
+"258",2900,NA,0
+"259",2754,NA,0
+"260",39,"Specimen disease status",0.1
+"261",4900,NA,0
+"262",524,NA,0
+"263",2800,NA,0
+"264",25088,NA,0
+"265",312,"State Government Program",0
+"266",3920,NA,0
+"267",4913,NA,0
+"268",5688,NA,0
+"269",1674,NA,0
+"270",118,NA,0
+"271",4825,NA,0
+"272",317,"Local Government Preferred Provider Organization (PPO)",0
+"273",608,NA,0
+"274",7935,NA,0
+"275",702,NA,0
+"276",488,NA,0
+"277",2988,NA,0
+"278",6336,NA,0
+"279",1048,NA,0
+"280",126,NA,0.1
+"281",194,NA,0
+"282",11172,"Unstable burst fracture of third thoracic vertebra",0
+"283",1620,NA,0
+"284",360,"Termination by payer",0
+"285",2096,NA,0
+"286",476,NA,0
+"287",99,NA,0.1
+"288",629,NA,0
+"289",2156,NA,0
+"290",1215,NA,0
+"291",18620,"Toxic effect of fusel oil, assault",0
+"292",4225,NA,0
+"293",1632,NA,0
+"294",38088,NA,0
+"295",224,"Prepackaged box of (OMOP)",0
+"296",719,NA,0
+"297",318,"Local Government Point of Service (POS)",0
+"298",756,NA,0
+"299",1665,NA,0
+"300",1476,NA,0
+"301",933,NA,0
+"302",2736,NA,0
+"303",2250,NA,0
+"304",2916,NA,0
+"305",2224,NA,0
+"306",442,"Research/Donor",0
+"307",1296,NA,0
+"308",12,"Modifier",2.2
+"309",479,NA,0
+"310",1792,NA,0
+"311",293,"Medicaid Non-managed Care",0
+"312",4896,NA,0
+"313",1120,NA,0
+"314",9648,"unified atomic mass unit",0
+"315",495,NA,0
+"316",4761,NA,0
+"317",154,NA,0
+"318",3249,NA,0
+"319",657,NA,0
+"320",234,"Drug has drug class (OMOP)",0
+"321",1503,NA,0
+"322",748,NA,0
+"323",675,NA,0
+"324",696,NA,0
+"325",6076,NA,0
+"326",4768,NA,0
+"327",1179,NA,0
+"328",264,"Silver Health Plan with 70% actuarial plan value",0
+"329",1700,NA,0
+"330",270,"Medical only plan",0
+"331",435,"No Payment from an Organization/Agency/Program/Private Payer Listed",0
+"332",12493,"Sprain of left rotator cuff capsule",0
+"333",384,"VA Direct Care - Care provided in VA facilities",0
+"334",351,"Divorce or legal separation of the spouse from covered employee",0
+"335",3968,NA,0
+"336",116,NA,0
+"337",4046,NA,0
+"338",2475,NA,0
+"339",837,NA,0
+"340",431,"Blue Cross Medicare Supplemental Plan",0
+"341",491,NA,0
+"342",3200,NA,0
+"343",855,NA,0
+"344",436,"Self-pay",0
+"345",1248,NA,0
+"346",180,NA,0.1
+"347",4815,NA,0
+"348",17340,"Corrosion of second degree of right knee",0
+"349",1827,NA,0
+"350",3627,NA,0
+"351",2160,NA,0
+"352",263,"Bronze Health Plan with 60% actuarial plan value",0
+"353",836,NA,0
+"354",4032,NA,0
+"355",784,NA,0
+"356",470,NA,0
+"357",711,NA,0
+"358",780,NA,0
+"359",768,NA,0
+"360",1036,NA,0
+"361",51731,NA,0
+"362",478,NA,0
+"363",149,NA,0
+"364",280,"Medicare",0
+"365",88,NA,0.1
+"366",188,NA,0
+"367",3996,NA,0
+"368",461,NA,0
+"369",240,"Non-human drug class Disinfectant",0
+"370",328,"Private Health Insurance - Managed Care",0
+"371",1467,NA,0
+"372",525,NA,0
+"373",634,NA,0
+"374",4232,NA,0
+"375",109503,NA,0
+"376",1328,NA,0
+"377",11109,"Puncture wound with foreign body of unspecified back wall of thorax without penetration into thoracic cavity",0
+"378",12337,"Nondisplaced segmental fracture of shaft of humerus, left arm",0
+"379",650,NA,0
+"380",2225,NA,0
+"381",210,NA,0
+"382",2700,NA,0
+"383",226,"Has standard ingredient (OMOP)",0
+"384",12615,"Unspecified injury of muscle, fascia and tendon of other parts of biceps, right arm",0
+"385",1161,NA,0
+"386",48,"Condition/Observation",0.4
+"387",447,"Worker's Compensation",0
+"388",110976,NA,0
+"389",298,"DoD TRICARE Extra - Preferred Provider Organization (PPO)",0
+"390",1647,NA,0
+"391",81,NA,0.1
+"392",1944,NA,0
+"393",2032,NA,0
+"394",800,NA,0
+"395",204,"Disease Analyzer France (IMS)",0
+"396",5,"Observation period type",2.6
+"397",21160,"Struck by other mammals",0
+"398",456,NA,0
+"399",3753,NA,0
+"400",796,NA,0
+"401",531,NA,0
+"402",283,"Medicare Preferred Provider Organization (PPO)",0
+"403",624,NA,0
+"404",686,NA,0
+"405",297,"DoD TRICARE Prime - Health Management Organization (HMO)",0
+"406",361,"Termination by sponsor",0
+"407",681,NA,0
+"408",303,"VA Outside VA facilities - Fee Basis",0
+"409",1508,NA,0
+"410",974,NA,0
+"411",1557,NA,0
+"412",785,NA,0
+"413",472,NA,0
+"414",444,"Foreign National",0
+"415",19573,"Wear of articular bearing surface of unspecified internal prosthetic joint",0
+"416",233,"Drug class of drug (OMOP)",0
+"417",3136,NA,0
+"418",1149,NA,0
+"419",32799,"ATC to RxNorm/Extension primary upwards (OMOP)",0
+"420",1401,NA,0
+"421",89,NA,0
+"422",93,NA,0
+"423",252,"RxNorm Extension (OMOP)",0
+"424",31,"Relationship",0.1
+"425",4700,NA,0
+"426",12348,"Nondisplaced simple supracondylar fracture without intercondylar fracture of right humerus",0
+"427",2448,NA,0
+"428",155,NA,0
+"429",884,NA,0
+"430",2950,NA,0
+"431",416,"Managed Care, Other (non HMO)",0
+"432",195,NA,0
+"433",199,NA,0
+"434",5290,NA,0
+"435",369,"Medicaid/State Children's Health Insurance Program (SCHIP)",0
+"436",441,"Refusal to Pay/Bad Debt",0
+"437",243,"Anatomical Classification of Pharmaceutical Products (EphMRA)",0
+"438",1744,NA,0
+"439",1264,NA,0
+"440",902,NA,0
+"441",740,NA,0
+"442",4224,NA,0
+"443",892,NA,0
+"444",856,NA,0
+"445",62713,NA,0
+"446",230,"Has standard Dose Form (OMOP)",0
+"447",1675,NA,0
+"448",19012,"Toxic effect of venom of bees, assault",0
+"449",1888,NA,0
+"450",78,NA,0
+"451",573,NA,0
+"452",2007,NA,0
+"453",12960,"Colles' fracture of left radius",0
+"454",852,NA,0
+"455",250,"Marketed Product",0
+"456",9522,"joule",0
+"457",21142,"Scratched by cat",0
+"458",621,NA,0
+"459",2175,NA,0
+"460",18468,"Poisoning by ophthalmological drugs and preparations, accidental (unintentional)",0
+"461",962,NA,0
+"462",106,NA,0
+"463",1200,NA,0
+"464",178,NA,0
+"465",2899,NA,0
+"466",585,NA,0
+"467",8,"Visit",4
+"468",1690,NA,0
+"469",1775,NA,0
+"470",708,NA,0
+"471",370,"Medicaid Applicant",0
+"472",12427,"Other subluxation of left shoulder joint",0
+"473",684,NA,0
+"474",1156,NA,0
+"475",448,"Worker's Comp Other Managed Care",0
+"476",1935,NA,0
+"477",396,"Indian Health Service - Regular",0
+"478",701,NA,0
+"479",1395,NA,0
+"480",21097,"Contact with other commercial machinery",0
+"481",4000,NA,0
+"482",8993,"nanomole per hour and milligram",0
+"483",1472,NA,0
+"484",132,NA,0
+"485",514,NA,0
+"486",2525,NA,0
+"487",2600,NA,0
+"488",2097,NA,0
+"489",916,NA,0
+"490",1056,NA,0
+"491",114,NA,0
+"492",9360,"metabolic equivalent",0
+"493",60,NA,0.2
+"494",3654,NA,0
+"495",1052,NA,0
+"496",289,"Medicaid",0
+"497",1413,NA,0
+"498",1299,NA,0
+"499",28037,NA,0
+"500",65,NA,0
+"501",693,NA,0
+"502",2349,NA,0
+"503",2450,NA,0
+"504",1400,NA,0
+"505",98,NA,0
+"506",744,NA,0
+"507",715,NA,0
+"508",2650,NA,0
+"509",235,"Condition/Device",0
+"510",4860,NA,0
+"511",119,NA,0
+"512",286,"Medicare Fee for Service (FFS)",0
+"513",306,"Indian Health Service (IHS) Program",0
+"514",376,"DoD TRICARE For Life - Medicare Supplement",0
+"515",147,NA,0
+"516",860,NA,0
+"517",480,NA,0
+"518",1834,NA,0
+"519",4848,NA,0
+"520",338,"Blue Cross Indemnity",0
+"521",358,"Termination by person",0
+"522",412,"Exclusive Provider Organization",0
+"523",3312,NA,0
+"524",26,"Note Type",0.2
+"525",564,NA,0
+"526",950,NA,0
+"527",72,NA,0.3
+"528",4335,NA,0
+"529",1168,NA,0
+"530",5040,"Trade Product (AMT)",0
+"531",1960,NA,0
+"532",1260,NA,0
+"533",642,NA,0
+"534",77,NA,0
+"535",232,"Dictionary of Medicines and Devices (NHS)",0
+"536",31501,NA,0
+"537",725,NA,0
+"538",131,NA,0
+"539",55506,NA,0
+"540",310,"HRSA Ryan White HIV/AIDS Program",0
+"541",37,"Specimen type",0.1
+"542",5046,"International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 1 and 2 (NCHS)",0
+"543",48263,NA,0
+"544",832,NA,0
+"545",20230,"Passenger of other type car injured in collision with fixed or stationary object in nontraffic accident",0
+"546",1001,NA,0
+"547",6100,NA,0
+"548",584,NA,0
+"549",806,NA,0
+"550",353,"Termination of group health plan by sponsor",0
+"551",24892,NA,0
+"552",5373,NA,0
+"553",1863,NA,0
+"554",1764,NA,0
+"555",2187,NA,0
+"556",225,"Is standard ingredient of ingredient (OMOP)",0
+"557",1305,NA,0
+"558",1344,NA,0
+"559",9408,"square rod",0
+"560",2940,NA,0
+"561",1568,NA,0
+"562",333,"Blue Cross Managed Care - Health Management Organization (HMO)",0
+"563",19363,"Perforation due to foreign body accidentally left in body following infusion or transfusion",0
+"564",174,NA,0
+"565",45,"Device/Observation",0.3
+"566",1375,NA,0
+"567",134,NA,0
+"568",891,NA,0
+"569",9016,"microunit per gram of hemoglobin",0
+"570",10982,"Unspecified superficial injuries of breast, right breast",0
+"571",918,NA,0
+"572",5125,NA,0
+"573",30492,NA,0
+"574",2050,NA,0
+"575",2312,NA,0
+"576",975,NA,0
+"577",36,"Specimen",0.7
+"578",848,NA,0
+"579",102,NA,0
+"580",9216,"percent abnormal",0
+"581",1292,NA,0
+"582",158,NA,0
+"583",533,NA,0
+"584",915,NA,0
+"585",459,NA,0
+"586",207,NA,0
+"587",123,NA,0
+"588",1884,NA,0
+"589",1180,NA,0
+"590",385,"VA Indirect Care - Care provided outside VA facilities",0
+"591",3744,NA,0
+"592",492,NA,0
+"593",544,NA,0
+"594",704,NA,0
+"595",157,NA,0
+"596",1680,NA,0
+"597",606,NA,0
+"598",308,"Medicare Drug Benefit",0
+"599",880,NA,0
+"600",313,"State Children's Health Insurance Program (SCHIP) - individual state code",0
+"601",1072,NA,0
+"602",1080,NA,0
+"603",140,NA,0
+"604",3325,NA,0
+"605",137,NA,0
+"606",248,"Has supplier or manufacturer (OMOP)",0
+"607",2725,NA,0
+"608",208,NA,0
+"609",392,"VA Civilian Health and Medical Program for the VA (CHAMPVA)",0
+"610",24,"Measurement value",0.7
+"611",191,NA,0
+"612",760,NA,0
+"613",94,NA,0
+"614",1539,NA,0
+"615",218,NA,0
+"616",1188,NA,0
+"617",49,"Condition/Procedure",0
+"618",3528,NA,0
+"619",1500,NA,0
+"620",580,NA,0
+"621",1625,NA,0
+"622",742,NA,0
+"623",912,NA,0
+"624",3179,NA,0
+"625",10693,"Blister (nonthermal) of throat",0
+"626",1752,NA,0
+"627",846,NA,0
+"628",23120,NA,0
+"629",4192,NA,0
+"630",1037,NA,0
+"631",87,NA,0
+"632",184,NA,0
+"633",477,NA,0
+"634",550,NA,0
+"635",2907,NA,0
+"636",2640,NA,0
+"637",272,"Vision only plan",0
+"638",9072,"microgram per milligram of creatinine",0
+"639",867,NA,0
+"640",190,NA,0
+"641",7560,NA,0
+"642",9248,"per gram of hemoglobin",0
+"643",41905,NA,0
+"644",406,"Federal, State, Local not specified Managed Care",0
+"645",424,"Organized Delivery System",0
+"646",2094,NA,0
+"647",1683,NA,0
+"648",4288,NA,0
+"649",2075,NA,0
+"650",309,"Title V Maternal and Child Health (MSH) Services Block Grant Program",0
+"651",1854,NA,0
+"652",7524,NA,0
+"653",18792,"Toxic effect of carbon monoxide from motor vehicle exhaust, assault",0
+"654",919,NA,0
+"655",1067,NA,0
+"656",156,NA,0
+"657",4704,NA,0
+"658",932,NA,0
+"659",1408,NA,0
+"660",475,NA,0
+"661",1475,NA,0
+"662",961,NA,0
+"663",888,NA,0
+"664",282,"Medicare Health Maintenance Organization (HMO)",0
+"665",269,"Minimal Benefit (Medical and Drug) plan",0
+"666",2403,NA,0
+"667",12167,"Unspecified open wound of unspecified shoulder",0
+"668",1728,NA,0
+"669",261,"US Social Security Death Master File record",0
+"670",11849,"Minor laceration of superior mesenteric artery",0
+"671",502,NA,0
+"672",1872,NA,0
+"673",117,NA,0.1
+"674",5780,NA,0
+"675",257,"Hospitalization Cost Record",0
+"676",2394,NA,0
+"677",125,NA,0
+"678",40,NA,0.3
+"679",700,NA,0
+"680",1485,NA,0
+"681",43,"Measurement/Procedure",0.1
+"682",22747,NA,0
+"683",2300,NA,0
+"684",1908,NA,0
+"685",41262,NA,0
+"686",187,NA,0
+"687",728,NA,0
+"688",1150,NA,0
+"689",4575,NA,0
+"690",506,NA,0
+"691",1416,NA,0
+"692",6647,NA,0
+"693",242,"Other government reported or identified death",0
+"694",1024,NA,0
+"695",913,NA,0
+"696",30345,NA,0
+"697",2655,NA,0
+"698",4464,NA,0
+"699",1232,NA,0
+"700",1525,NA,0
+"701",4878,NA,0
+"702",1028,NA,0
+"703",29,NA,0.1
+"704",4,"Ethnicity",10.9
+"705",44436,NA,0
+"706",15092,"Laceration of muscle, fascia and tendon of unspecified hip",0
+"707",96,NA,0.1
+"708",201,"Quantified Clinical Drug Box",0
+"709",844,NA,0
+"710",1617,NA,0
+"711",2439,NA,0
+"712",980,NA,0
+"713",2176,NA,0
+"714",2028,NA,0
+"715",5652,NA,0
+"716",1314,NA,0
+"717",107,NA,0
+"718",6,"Death type",2.2
+"719",446,"Long-term Care Insurance",0
+"720",86,NA,0
+"721",4800,NA,0
+"722",3757,NA,0
+"723",2200,NA,0
+"724",1058,NA,0
+"725",219,NA,0
+"726",363,"Medicare Medical Savings Account (MSA)",0
+"727",11532,"Puncture wound of abdominal wall without foreign body, epigastric region without penetration into peritoneal cavity",0
+"728",31896,NA,0
+"729",15606,"Sprain of unspecified cruciate ligament of right knee",0
+"730",231,"Drug Product Database (Health Canada)",0
+"731",66,NA,0
+"732",340,"Managed Care, Unspecified",0
+"733",512,NA,0
+"734",873,NA,0
+"735",356,"Loss of Social Security disability status",0
+"736",414,"Commercial Managed Care - Pharmacy Benefit Manager",0
+"737",640,NA,0
+"738",1572,NA,0
+"739",1053,NA,0
+"740",368,"Medicaid Managed Care - Other",0
+"741",10548,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours",0
+"742",735,NA,0
+"743",6768,NA,0
+"744",1850,NA,0
+"745",2672,NA,0
+"746",166,NA,0
+"747",2023,NA,0
+"748",1648,NA,0
+"749",15028,"Injury of unspecified nerve at hip and thigh level, right leg",0
+"750",142,NA,0
+"751",3393,NA,0
+"752",924,NA,0
+"753",872,NA,0
+"754",18496,"Adverse effect of unspecified topical agent",0
+"755",1140,NA,0
+"756",1054,NA,0
+"757",792,NA,0
+"758",896,NA,0
+"759",3978,NA,0
+"760",381,"Military Treatment Facility - TRICARE For Life (TFL)",0
+"761",38,"Specimen anatomic site",0.1
+"762",5577,NA,0
+"763",1005,NA,0
+"764",193,NA,0
+"765",6348,NA,0
+"766",5292,NA,0
+"767",1012,NA,0
+"768",2488,NA,0
+"769",730,NA,0
+"770",548,NA,0
+"771",21025,"Jumping or diving into natural body of water striking water surface causing other injury",0
+"772",217,NA,0
+"773",1212,NA,0
+"774",4500,NA,0
+"775",12544,"Other specified injury of axillary artery, left side",0
+"776",47,"Condition/Measurement",0
+"777",177,NA,0
+"778",2430,NA,0
+"779",1405,NA,0
+"780",810,NA,0
+"781",3328,NA,0
+"782",43378,NA,0
+"783",110,NA,0
+"784",6936,NA,0
+"785",145,NA,0
+"786",557,NA,0
+"787",4068,NA,0
+"788",1712,NA,0
+"789",229,"Is standard Dose Form of (OMOP)",0
+"790",134385,NA,0
+"791",559,NA,0
+"792",304,"VA Outside VA facilities - Dental",0
+"793",2106,NA,0
+"794",52,"Drug/Observation",0.2
+"795",17051,"Burn of unspecified degree of unspecified wrist",0
+"796",3264,NA,0
+"797",341,"Managed Care Health Management Organization (HMO)",0
+"798",450,"Auto Insurance",0
+"799",4508,NA,0
+"800",900,NA,0
+"801",405,"Other Government (Federal, State, Local not specified)",0
+"802",2241,NA,0
+"803",170,NA,0
+"804",996,NA,0
+"805",3564,NA,0
+"806",192,NA,0
+"807",1696,NA,0
+"808",513,NA,0
+"809",1197,NA,0
+"810",101,NA,0
+"811",69,NA,0
+"812",1824,NA,0
+"813",1575,NA,0
+"814",375,"Department of Defense",0
+"815",45167,NA,0
+"816",729,NA,0
+"817",976,NA,0
+"818",680,NA,0
+"819",1242,NA,0
+"820",408,"Federal, State, Local not specified - Other",0
+"821",9212,"second",0
+"822",14739,"Abrasion, right hip",0
+"823",1365,NA,0
+"824",1160,NA,0
+"825",5766,NA,0
+"826",17629,"Poisoning by rifampicins, undetermined",0
+"827",1359,NA,0
+"828",3100,NA,0
+"829",4041,NA,0
+"830",522,NA,0
+"831",674,NA,0
+"832",1445,NA,0
+"833",630,NA,0
+"834",11,"Procedure type",1
+"835",1152,NA,0
+"836",575,NA,0
+"837",401,"Specific state program (list/local code)",0
+"838",14896,"Displaced oblique fracture of shaft of left femur",0
+"839",1701,NA,0
+"840",1456,NA,0
+"841",7632,NA,0
+"842",3174,NA,0
+"843",64736,NA,0
+"844",279,"Large group (more than 51 employees) health plan",0
+"845",9,"Visit type",3.8
+"846",716,NA,0
+"847",897,NA,0
+"848",7803,NA,0
+"849",736,NA,0
+"850",565,NA,0
+"851",8464,NA,0
+"852",85,NA,0
+"853",592,NA,0
+"854",1440,NA,0
+"855",47685,NA,0
+"856",1041,NA,0
+"857",8092,NA,0
+"858",1520,NA,0
+"859",7688,NA,0
+"860",288,"Dual Eligibility Medicare/Medicaid",0
+"861",21,"Measurement",0.2
+"862",622,NA,0
+"863",927,NA,0
+"864",20184,"Car driver injured in collision with sport utility vehicle in traffic accident",0
+"865",1593,NA,0
+"866",774,NA,0
+"867",1926,NA,0
+"868",2880,NA,0
+"869",388,"VA Outside VA facilities - State Veterans Home",0
+"870",1233,NA,0
+"871",165,NA,0
+"872",56,"Person",0.2
+"873",151,NA,0
+"874",5700,NA,0
+"875",820,NA,0
+"876",992,NA,0
+"877",620,NA,0
+"878",205,NA,0
+"879",245,"New Form Code (EphMRA)",0
+"880",67,NA,0
+"881",1020,NA,0
+"882",325,"Department of Corrections",0
+"883",1127,NA,0
+"884",1377,NA,0
+"885",1017,NA,0
+"886",783,NA,0
+"887",484,NA,0
+"888",334,"Blue Cross Managed Care - Preferred Provider Organization (PPO)",0
+"889",558,NA,0
+"890",144,NA,0.1
+"891",1071,NA,0
+"892",540,NA,0
+"893",4428,NA,0
+"894",1224,NA,0
+"895",168,NA,0
+"896",12716,"Salter-Harris Type IV physeal fracture of lower end of humerus, unspecified arm",0
+"897",2169,NA,0
+"898",2566,NA,0
+"899",71672,NA,0
+"900",1424,NA,0
+"901",287,"Medicare Non-managed Care - Other",0
+"902",2511,NA,0
+"903",464,NA,0
+"904",167,NA,0
+"905",79186,"Contusion to heart with open wound into thorax",0
+"906",2625,NA,0
+"907",2499,NA,0
+"908",14415,"Unspecified injury of blood vessel of left ring finger",0
+"909",290,"Medicaid Managed Care",0
+"910",1980,NA,0
+"911",300,"DoD Uniformed Services Family Health Plan (USFHP) - Health Management Organization (HMO)",0
+"912",1352,NA,0
+"913",284,"Medicare Point of Service (POS)",0
+"914",2368,NA,0
+"915",342,"Managed Care Preferred Provider Organization (PPO)",0
+"916",3887,NA,0
+"917",2367,NA,0
+"918",3096,NA,0
+"919",1035,NA,0
+"920",588,NA,0
+"921",41,"Device/Procedure",0.1
+"922",439,"Professional Courtesy",0
+"923",206,NA,0
+"924",46,NA,0
+"925",13005,"Anterior dislocation of left radial head",0
+"926",1389,NA,0
+"927",586,NA,0
+"928",572,NA,0
+"929",53,"Condition/Drug",0
+"930",32,"Place of Service",0.7
+"931",336,"Blue Cross Managed Care - Dental",0
+"932",275,"Fully insured group health plan",0
+"933",247,"Marketed form of (OMOP)",0
+"934",260,"ICD-10-PCS Code",0
+"935",423,"Managed Care (private) or private health insurance (indemnity), not otherwise specified",0
+"936",136,NA,0
+"937",1881,NA,0
+"938",139,NA,0
+"939",411,"Corrections Unknown Level",0
+"940",869,NA,0
+"941",13583,"Puncture wound with foreign body of right thumb with damage to nail",0
+"942",864,NA,0
+"943",425,"Small Employer Purchasing Group",0
+"944",672,NA,0
+"945",1734,NA,0
+"946",825,NA,0
+"947",1584,NA,0
+"948",316,"Local Government Health Management Organization (HMO)",0
+"949",1040,NA,0
+"950",78213,NA,0
+"951",256,"EHR Record underlying cause of death",0
+"952",3280,NA,0
+"953",654,NA,0
+"954",332,"Blue Cross/Blue Shield",0
+"955",1350,NA,0
+"956",628,NA,0
+"957",33,"Provider",0.1
+"958",5491,NA,0
+"959",422,"Private health insurance - other commercial Indemnity",0
+"960",42320,NA,0
+"961",549,NA,0
+"962",185,NA,0
+"963",215,NA,0
+"964",380,"Military Treatment Facility - Non-enrolled Space Available",0
+"965",1107,NA,0
+"966",1275,NA,0
+"967",130,NA,0
+"968",1157,NA,0
+"969",23,"Measurement value operator",0.2
+"970",486,NA,0
+"971",612,NA,0
+"972",5400,NA,0
+"973",625,NA,0
+"974",3648,NA,0
+"975",5887,NA,0
+"976",1521,NA,0
+"977",36992,NA,0
+"978",765,NA,0
+"979",52020,NA,0
+"980",2550,NA,0
+"981",9537,"kilosecond",0
+"982",552,NA,0
+"983",2548,NA,0
+"984",819,NA,0
+"985",314,"State program - not otherwise specified (other state)",0
+"986",2808,NA,0
+"987",433,"Managed Care POS",0
+"988",364,"Medicare Hospice",0
+"989",8959,NA,0
+"990",1840,NA,0
+"991",299,"DoD TRICARE Standard - Fee For Service (FFS)",0
+"992",169,NA,0
+"993",1123,NA,0
+"994",345,"Other Non-government",0
+"995",92,NA,0.1
+"996",3240,NA,0
+"997",1598,NA,0
+"998",19764,"Other scooter (nonmotorized) accident",0
+"999",660,NA,0
+"1000",910,NA,0
+"1001",437,"No Charge",0
+"1002",236,"Public Database of Medications (Social-Sante)",0
+"1003",957,NA,0
+"1004",197,NA,0
+"1005",135,NA,0
+"1006",6128,NA,0
+"1007",493,NA,0
+"1008",999,NA,0
+"1009",1064,NA,0
+"1010",665,NA,0
+"1011",1536,NA,0
+"1012",482,NA,0
+"1013",12138,"Other superficial bite of right shoulder",0
+"1014",227,"Is standard Brand Name of (OMOP)",0
+"1015",4928,NA,0
+"1016",500,NA,0
+"1017",73,NA,0
+"1018",103,NA,0
+"1019",2646,NA,0
+"1020",1252,NA,0
+"1021",1236,NA,0
+"1022",875,NA,0
+"1023",239,"Community Register of Medicinal Products for Human Use (European Commission)",0
+"1024",121,NA,0
+"1025",420,"Medicare supplemental policy (as second payer)",0
+"1026",1651,NA,0
+"1027",561,NA,0
+"1028",12675,"Partial traumatic amputation at level between right shoulder and elbow",0
+"1029",1184,NA,0
+"1030",196,NA,0
+"1031",291,"Medicaid Health Management Organization (HMO)",0
+"1032",15,"Route",0.5
+"1033",2376,NA,0
+"1034",1361,NA,0
+"1035",767,NA,0
+"1036",2100,NA,0
+"1037",61,NA,0
+"1038",244,"Supplier: Manufacturer, Wholesaler",0
+"1039",2240,NA,0
+"1040",1088,NA,0
+"1041",1124,NA,0
+"1042",468,NA,0
+"1043",697,NA,0
+"1044",3123,NA,0
+"1045",721,NA,0
+"1046",1725,NA,0
+"1047",7267,NA,0
+"1048",251,NA,0
+"1049",1100,NA,0
+"1050",6069,NA,0
+"1051",705,NA,0
+"1052",2112,NA,0
+"1053",3636,NA,0
+"1054",104,NA,0.1
+"1055",960,NA,0
+"1056",171,NA,0
+"1057",604,NA,0
+"1058",347,"Worker's Compensation Health Management Organization (HMO)",0
+"1059",179,NA,0
+"1060",636,NA,0
+"1061",6358,NA,0
+"1062",321,"Federal, State, Local not specified - Point of Service (POS)",0
+"1063",105,NA,0
+"1064",2487,NA,0
+"1065",3718,NA,0
+"1066",1746,NA,0
+"1067",467,NA,0
+"1068",776,NA,0
+"1069",327,"Private Health Insurance",0
+"1070",3332,NA,0
+"1071",3348,NA,0
+"1072",692,NA,0
+"1073",14,"Drug type",0.6
+"1074",109,NA,0
+"1075",2493,NA,0
+"1076",20519,"Driver of bus injured in collision with other nonmotor vehicle in traffic accident",0
+"1077",1566,NA,0
+"1078",133,NA,0
+"1079",724,NA,0
+"1080",1134,NA,0
+"1081",1323,NA,0
+"1082",372,"Medicaid Long Term Care",0
+"1083",339,"Blue Cross Self-insured (ERISA) - Administrative Services Only (ASO)",0
+"1084",600,NA,0
+"1085",772,NA,0
+"1086",603,NA,0
+"1087",808,NA,0
+"1088",2484,NA,0
+"1089",301,"DoD other",0
+"1090",7,"Metadata",1.4
+"1091",1600,NA,0
+"1092",254,"EHR Record immediate cause of death",0
+"1093",377,"DoD TRICARE Reserve Select",0
+"1094",1360,NA,0
+"1095",1875,NA,0
+"1096",159,NA,0
+"1097",7514,NA,0
+"1098",432,"Blue Cross Indemnity - Dental",0
+"1099",9300,"fluid dram (British)",0
+"1100",619,NA,0
+"1101",20,"Condition type",0.9
+"1102",1341,NA,0
+"1103",319,"Federal, State, Local not specified - Health Management Organization (HMO)",0
+"1104",1,"Domain",34.2
+"1105",76,NA,0.1
+"1106",25392,NA,0
+"1107",517,NA,0
+"1108",2384,NA,0
+"1109",7920,NA,0
+"1110",1392,NA,0
+"1111",129,NA,0
+"1112",203,"Clinical Drug Box",0
+"1113",9144,NA,0
+"1114",3468,NA,0
+"1115",346,"HRSA Migrant Health Program",0
+"1116",71,NA,0
+"1117",267,"Catastrophic Health Plan with <60% actuarial plan value",0
+"1118",68,NA,0.1
+"1119",11271,"Other incomplete lesion at T1 level of thoracic spinal cord",0
+"1120",1002,NA,0
+"1121",773,NA,0
+"1122",1491,NA,0
+"1123",146,NA,0
+"1124",80,NA,0.2
+"1125",2192,NA,0
+"1126",1208,NA,0
+"1127",162,NA,0
+"1128",4205,NA,0
+"1129",738,NA,0
+"1130",2500,NA,0
+"1131",582,NA,0
+"1132",1676,NA,0
+"1133",1610,NA,0
+"1134",7550,NA,0
+"1135",330,"Commercial Managed Care - Preferred Provider Organization (PPO)",0
+"1136",1386,NA,0
+"1137",29767,NA,0
+"1138",237,"Medicinal Products Information System (DIMDI)",0
+"1139",1892,NA,0
+"1140",262,"Emergency Room and Inpatient Visit",0
+"1141",323,"Other Federal Program",0
+"1142",16337,"Subluxation of interphalangeal joint of right lesser toe(s)",0
+"1143",348,"Worker's Comp Fee-for-Service (FFS)",0
+"1144",504,NA,0
+"1145",29478,NA,0
+"1146",1504,NA,0
+"1147",399,"Indian Tribe - Sponsored Coverage",0
+"1148",112,NA,0.1
+"1149",560,NA,0
+"1150",3475,NA,0
+"1151",1042,NA,0
+"1152",268,"Broad Benefit (Medical, Drug, Dental, Vision) plan",0
+"1153",2016,NA,0
+"1154",1404,NA,0
+"1155",124,NA,0
+"1156",452,"Other specified but not otherwise classifiable (includes Hospice - Unspecified plan)",0
+"1157",798,NA,0
+"1158",5418,NA,0
+"1159",200,"Quantified Branded Drug Box",0.1
+"1160",2268,NA,0
+"1161",601,NA,0
+"1162",82,NA,0
+"1163",324547,NA,0
+"1164",5931,NA,0
+"1165",2197,NA,0
+"1166",990,NA,0
+"1167",2000,NA,0
+"1168",202,"Branded Drug Box",0
+"1169",10115,"Polyhydramnios, unspecified trimester",0
+"1170",79,NA,0
+"1171",1425,NA,0
+"1172",100510,NA,0
+"1173",1390,NA,0
+"1174",3620,NA,0
+"1175",2144,NA,0
+"1176",1176,NA,0
+"1177",12152,"Superficial foreign body of unspecified upper arm",0
+"1178",198,NA,0
+"1179",17,"Device",0.4
+"1180",212,NA,0
+"1181",28,"Observation type",0.5
+"1182",1116,NA,0
+"1183",1089,NA,0
+"1184",404,"Local Government FFS/Indemnity not otherwise specified (other local, county)",0
+"1185",1656,NA,0
+"1186",7776,NA,0
+"1187",2208,NA,0
+"1188",720,NA,0
+"1189",1280,NA,0
+"1190",2358,NA,0
+"1191",1068,NA,0
+"1192",2142,NA,0
+"1193",1000,NA,0
+"1194",616,NA,0
+"1195",83,NA,0
+"1196",63,NA,0.2
+"1197",2875,NA,0
+"1198",516,NA,0
+"1199",395,"VA Other Non-Veteran Care",0
+"1200",542,NA,0
+"1201",666,NA,0
+"1202",216,NA,0.1
+"1203",295,"Other Government Federal/State/Local, excluding Department of Corrections",0
+"1204",882,NA,0
+"1205",213,NA,0
+"1206",5328,NA,0
+"1207",274,"Self-insured group health plan",0
+"1208",37044,NA,0
+"1209",163,NA,0
+"1210",1904,NA,0
+"1211",801,NA,0
+"1212",10933,"Major laceration of left vertebral artery",0
+"1213",29189,NA,0
+"1214",1302,NA,0
+"1215",223,"Is available in a prepackaged box (OMOP)",0
+"1216",4080,NA,0
+"1217",352,"Death of covered employee",0
+"1218",2416,NA,0
+"1219",362,"Medicare Managed Care Other",0
+"1220",1512,NA,0
+"1221",221,"Has brand name (OMOP)",0
+"1222",752,NA,0
+"1223",688,NA,0
+"1224",3888,NA,0
+"1225",594,NA,0
+"1226",460,NA,0
+"1227",2048,NA,0
+"1228",499,NA,0
+"1229",265,"Gold Health Plan with 80% actuarial plan value",0
+"1230",111,NA,0
+"1231",1530,NA,0
+"1232",1093,NA,0
+"1233",16,"Unit",1.9
+"1234",62,NA,0
+"1235",993,NA,0
+"1236",568,NA,0
+"1237",2340,NA,0
+"1238",2256,NA,0
+"1239",805,NA,0
+"1240",5500,NA,0
+"1241",19208,"Asphyxiation due to being trapped in other low oxygen environment",0
+"1242",1450,NA,0
+"1243",2637,NA,0
+"1244",183,NA,0
+"1245",12740,"Superficial foreign body of right elbow",0
+"1246",100,NA,0.1
+"1247",2997,NA,0
+"1248",1223,NA,0
+"1249",925,NA,0
+"1250",1225,NA,0
+"1251",150,NA,0
+"1252",3225,NA,0
+"1253",656,NA,0
+"1254",15317,"Displaced longitudinal fracture of unspecified patella",0
+"1255",2304,NA,0
+"1256",5264,NA,0
+"1257",5000,"Encrypted Gemscript for the THIN database",0
+"1258",3504,NA,0
+"1259",429,"Blue Cross Managed Care",0
+"1260",835,NA,0
+"1261",25,NA,0.4
+"1262",141,NA,0
+"1263",122,NA,0
+"1264",2664,NA,0
+"1265",648,NA,0
+"1266",1026,NA,0
+"1267",434,"Other Managed Care",0
+"1268",995,NA,0
+"1269",211,NA,0
+"1270",11675,"Other fracture of fifth lumbar vertebra",0
+"1271",1014,NA,0
+"1272",1125,NA,0
+"1273",928,NA,0
+"1274",536,NA,0
+"1275",465,NA,0
+"1276",520,NA,0
+"1277",64,NA,0.3
+"1278",1421,NA,0
+"1279",4788,NA,0
+"1280",55,"Provider",0
+"1281",4617,NA,0
+"1282",148,NA,0
+"1283",2850,NA,0
+"1284",828,NA,0

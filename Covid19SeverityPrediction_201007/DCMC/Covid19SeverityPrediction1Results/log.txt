@@ -1,0 +1,151 @@
+2020-10-07 08:08:40	[Main thread]	INFO	Covid19SeverityPrediction1	execute	Creating cohorts
+2020-10-07 08:35:01	[Main thread]	INFO	Covid19SeverityPrediction1	createCohorts	Counting cohorts
+2020-10-07 08:35:01	[Main thread]	INFO	Covid19SeverityPrediction1	execute	Running predictions
+2020-10-07 08:35:03	[Main thread]	TRACE	PatientLevelPrediction		Creating reference table
+2020-10-07 08:35:03	[Main thread]	TRACE	PatientLevelPrediction		Writing settings csv to /Covid19SeverityPrediction1Results/settings.csv
+2020-10-07 08:35:03	[Main thread]	TRACE	PatientLevelPrediction		Running setting 1
+2020-10-07 08:35:03	[Main thread]	INFO	FeatureExtraction		Constructing features on server
+2020-10-07 08:36:18	[Main thread]	INFO	FeatureExtraction		Fetching data from server
+2020-10-07 08:36:19	[Main thread]	INFO	FeatureExtraction		Fetching data took 0.894 secs
+2020-10-07 08:36:19	[Main thread]	TRACE	PatientLevelPrediction		Done plpData.
+2020-10-07 08:36:19	[Main thread]	TRACE	PatientLevelPrediction		Saving data in setting 1
+2020-10-07 08:36:19	[Main thread]	TRACE	PatientLevelPrediction		Setting population settings for setting 1
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		outcomeId: 1158
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		binary: TRUE
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		includeAllOutcomes: TRUE
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		firstExposureOnly: FALSE
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		washoutPeriod: 30
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		removeSubjectsWithPriorOutcome: TRUE
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		priorOutcomeLookback: 99999
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		requireTimeAtRisk: TRUE
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		minTimeAtRisk: 1
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowStart: 1
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		startAnchor: cohort start
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		riskWindowEnd: 9999
+2020-10-07 08:36:19	[Main thread]	DEBUG	PatientLevelPrediction		endAnchor: cohort start
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Requiring 30 days of observation prior index date
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Removing subjects with prior outcomes (if any)
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Removing non outcome subjects with insufficient time at risk (if any)
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Outcome is 0 or 1
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Done pop.
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Saving population for setting 1
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Running runPlp for setting 1
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_2
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1158
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4047
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Population size:    523
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Cases:              40
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Parameter Check Started
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		testSplit: person
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		outcomeCount: 40
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		plpData class: plpData
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		testfraction: 0.25
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		nfold class: integer
+2020-10-07 08:36:20	[Main thread]	DEBUG	PatientLevelPrediction		nfold: 3
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Dataset person split started
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		splitSeed: -8201401
+2020-10-07 08:36:20	[Main thread]	WARN	PatientLevelPrediction	personSplitter	deprecatedWarning: 'personSplitter' is deprecated. Use 'randomSplitter' instead. See help("Deprecated") 
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Creating a 25% test and 75% train (into 3 folds) random stratified split by class
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Data split into 130 test cases and 393 train cases (131, 131, 131)
+2020-10-07 08:36:20	[Main thread]	TRACE	PatientLevelPrediction		Done.
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction		Training Lasso Logistic Regression model
+2020-10-07 08:36:20	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 3 redundant covariates
+2020-10-07 08:36:20	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 0 infrequent covariates
+2020-10-07 08:36:20	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Normalizing covariates
+2020-10-07 08:36:20	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Tidying covariates took 0.513 secs
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2020-10-07 08:36:20	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Running Cyclops
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Done.
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	GLM fit status:  OK
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Fitting model took 1.04 secs
+2020-10-07 08:36:21	[Main thread]	TRACE	PatientLevelPrediction	fitLassoLogisticRegression	Returned from fitting to LassoLogisticRegression
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Creating variable importance data frame
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Getting predictions on train set
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2020-10-07 08:36:21	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2020-10-07 08:36:21	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2020-10-07 08:36:21	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.0411 secs
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Returned from classifier function
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Creating prediction function
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Adding index
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Done fitting.
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Prediction
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predictPlp	Calculating prediction for 130 in dataset
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.0363 secs
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Done predict.
+2020-10-07 08:36:22	[Main thread]	DEBUG	PatientLevelPrediction		prediction null: FALSE
+2020-10-07 08:36:22	[Main thread]	DEBUG	PatientLevelPrediction		prediction unique values: 340
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction		Train set evaluation
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                99.21
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      97.64
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      100.77
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              97.51
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.01
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0763 : observed risk 0.0763
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: 1e-04 - gradient:1.8957
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.31 intercept:         -0.02
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.98
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Done.
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction		Test set evaluation
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                93.33
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      85.77
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      100.90
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              73.25
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.04
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0689 : observed risk 0.0769
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: 0.1964 - gradient:1.0743
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.11 intercept:         0.00
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.74
+2020-10-07 08:36:22	[Main thread]	TRACE	PatientLevelPrediction		Done.
+2020-10-07 08:36:22	[Main thread]	WARN	utils	memory.size	'memory.size()' is Windows-specific
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction		Calculating covariate summary @ 2020-10-07 08:36:22
+2020-10-07 08:36:22	[Main thread]	INFO	PatientLevelPrediction		This can take a while...
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Finished covariate summary @ 2020-10-07 08:36:23
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Saving PlpResult
+2020-10-07 08:36:23	[Main thread]	TRACE	PatientLevelPrediction		Done.
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		plpResult saved to ..\/Covid19SeverityPrediction1Results/Analysis_2\plpResult
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Log saved to /Covid19SeverityPrediction1Results/Analysis_2/plplog.txt
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Run finished successfully.

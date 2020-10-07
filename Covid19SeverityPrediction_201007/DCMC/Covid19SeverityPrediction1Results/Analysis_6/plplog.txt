@@ -1,0 +1,136 @@
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Patient-Level Prediction Package version 4.0.5
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		AnalysisID:         Analysis_6
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		CohortID:           1162
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		OutcomeID:          1158
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Cohort size:        744
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Covariates:         4047
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Population size:    523
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Cases:              40
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		splitSeed: 9029504
+2020-10-07 08:36:23	[Main thread]	WARN	PatientLevelPrediction	personSplitter	deprecatedWarning: 'personSplitter' is deprecated. Use 'randomSplitter' instead. See help("Deprecated") 
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Creating a 25% test and 75% train (into 3 folds) random stratified split by class
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Data split into 130 test cases and 393 train cases (131, 131, 131)
+2020-10-07 08:36:23	[Main thread]	INFO	PatientLevelPrediction		Training Gradient boosting machine model
+2020-10-07 08:36:24	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 3 redundant covariates
+2020-10-07 08:36:24	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 0 infrequent covariates
+2020-10-07 08:36:24	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Normalizing covariates
+2020-10-07 08:36:24	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Tidying covariates took 0.539 secs
+2020-10-07 08:36:24	[Main thread]	INFO	PatientLevelPrediction	fitGradientBoostingMachine	Training gradient boosting machine model on train set containing 393 people with 30 outcomes
+2020-10-07 08:36:24	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:24	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 4-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.01 obtained an AUC of 0.600229568411387
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 4-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.01 obtained an AUC of 0.616161616161616
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 6-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.01 obtained an AUC of 0.600229568411387
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 6-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.01 obtained an AUC of 0.616161616161616
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:25	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 17-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.01 obtained an AUC of 0.600229568411387
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 17-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.01 obtained an AUC of 0.616161616161616
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 4-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.1 obtained an AUC of 0.603994490358127
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 4-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.1 obtained an AUC of 0.631726354453627
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 6-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.1 obtained an AUC of 0.603994490358127
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:26	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 6-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.1 obtained an AUC of 0.631726354453627
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 17-- minRows: 20-- nthread: 20 ntrees: 10-- learnRate: 0.1 obtained an AUC of 0.603994490358127
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Training GBM with 3 fold CV
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  1  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  2  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	Fold  3  -- with  262 train rows
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 17-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.1 obtained an AUC of 0.631726354453627
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	GMB with parameters: maxDepth: 4-- minRows: 20-- nthread: 20 ntrees: 100-- learnRate: 0.1 obtained an AUC of 0.812396694214876
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	gbm_model2	==========================================
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	fitGradientBoostingMachine	Model GBM trained - took:3.1 secs
+2020-10-07 08:36:27	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction		Train set evaluation
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                81.24
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      73.22
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      89.26
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              28.27
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.10
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.2482 : observed risk 0.0763
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: -1.3915 - gradient:1.1692
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 2.52 intercept:         -0.55
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.39
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction		Test set evaluation
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                66.92
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      47.63
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      86.20
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              17.47
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.10
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.2441 : observed risk 0.0769
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: -1.3603 - gradient:1.0699
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.51 intercept:         -0.30
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.23
+2020-10-07 08:36:28	[Main thread]	WARN	utils	memory.size	'memory.size()' is Windows-specific
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction		Calculating covariate summary @ 2020-10-07 08:36:28
+2020-10-07 08:36:28	[Main thread]	INFO	PatientLevelPrediction		This can take a while...
+2020-10-07 08:36:29	[Main thread]	INFO	PatientLevelPrediction		Finished covariate summary @ 2020-10-07 08:36:29
+2020-10-07 08:36:29	[Main thread]	INFO	PatientLevelPrediction		Saving PlpResult
+2020-10-07 08:36:29	[Main thread]	INFO	PatientLevelPrediction		plpResult saved to ..\/Covid19SeverityPrediction1Results/Analysis_6\plpResult
+2020-10-07 08:36:29	[Main thread]	INFO	PatientLevelPrediction		Log saved to /Covid19SeverityPrediction1Results/Analysis_6/plplog.txt
+2020-10-07 08:36:29	[Main thread]	INFO	PatientLevelPrediction		Run finished successfully.

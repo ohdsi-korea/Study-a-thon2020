@@ -1,0 +1,468 @@
+"","conceptId","attributeName","ratio"
+"1",1037,NA,0
+"2",184,NA,0
+"3",87,NA,0
+"4",273,"Drug only plan",0
+"5",550,NA,0
+"6",394,"VA Children of Women Vietnam Veterans (CWVV)",0
+"7",51,"Drug/Measurement",0
+"8",272,"Vision only plan",0
+"9",70,NA,0
+"10",190,NA,0
+"11",350,"Reduction in the number of hours of employment",0
+"12",278,"Small group (2-50 employees) health plan",0
+"13",424,"Organized Delivery System",0
+"14",176,NA,0
+"15",309,"Title V Maternal and Child Health (MSH) Services Block Grant Program",0
+"16",292,"Medicaid Preferred Provider Organization (PPO)",0
+"17",271,"Dental only plan",0
+"18",22,"Measurement type",0.3
+"19",156,NA,0
+"20",417,"Private Health Insurance - Indemnity",0
+"21",282,"Medicare Health Maintenance Organization (HMO)",0
+"22",173,NA,0
+"23",269,"Minimal Benefit (Medical and Drug) plan",0
+"24",261,"US Social Security Death Master File record",0
+"25",42,"Observation/Procedure",0.1
+"26",189,NA,0
+"27",117,NA,0
+"28",161,NA,0
+"29",257,"Hospitalization Cost Record",0
+"30",113,NA,0
+"31",125,NA,0
+"32",40,NA,0.1
+"33",43,"Measurement/Procedure",0.1
+"34",120,NA,0
+"35",187,NA,0
+"36",57,"Care site",0
+"37",19,"Condition",0.4
+"38",160,NA,0
+"39",766,NA,0
+"40",508,NA,0
+"41",242,"Other government reported or identified death",0
+"42",357,"Entitlement to Medicare",0
+"43",331,"Commercial Managed Care - Point of Service (POS)",0
+"44",266,"Platinum Health Plan with 90% actuarial plan value",0
+"45",677,NA,0
+"46",315,"Local Government Program",0
+"47",366,"Medicare Pharmacy Benefit Manager",0
+"48",307,"Health Resources and Services Administration (HRSA) Program",0
+"49",91,NA,0
+"50",305,"VA Outside VA facilities - Vision",0
+"51",54,"Drug/Procedure",0
+"52",29,NA,0.2
+"53",4,"Ethnicity",4.9
+"54",181,NA,0
+"55",96,NA,0
+"56",201,"Quantified Clinical Drug Box",0
+"57",10,"Procedure",1.3
+"58",35,"Revenue code",0.1
+"59",107,NA,0
+"60",6,"Death type",2.8
+"61",220,NA,0
+"62",86,NA,0
+"63",1662,NA,0
+"64",822,NA,0
+"65",219,NA,0
+"66",241,"Non-human drug class Imaging Material",0
+"67",175,NA,0
+"68",363,"Medicare Medical Savings Account (MSA)",0
+"69",285,"Medicare Non-managed Care",0
+"70",50,"Device/Drug",0.1
+"71",231,"Drug Product Database (Health Canada)",0
+"72",66,NA,0
+"73",340,"Managed Care, Unspecified",0
+"74",523,NA,0
+"75",13,"Drug",0.8
+"76",391,"VA Non-Veteran Care",0
+"77",2,"Gender",14.3
+"78",246,"Has marketed form (OMOP)",0
+"79",75,NA,0
+"80",128,NA,0
+"81",166,NA,0
+"82",344,"Miscellaneous Program",0
+"83",142,NA,0
+"84",152,NA,0
+"85",222,"Brand name of (OMOP)",0
+"86",381,"Military Treatment Facility - TRICARE For Life (TFL)",0
+"87",38,"Specimen anatomic site",0.1
+"88",359,"Termination by contract owner",0
+"89",193,NA,0
+"90",777,NA,0
+"91",164,NA,0
+"92",548,NA,0
+"93",217,NA,0
+"94",186,NA,0
+"95",709,NA,0
+"96",47,"Condition/Measurement",0.1
+"97",177,NA,0
+"98",545,NA,0
+"99",182,NA,0
+"100",18,"Device type",0.4
+"101",110,NA,0
+"102",145,NA,0
+"103",27,"Observation",0.2
+"104",143,NA,0
+"105",58,"Type Concept",0
+"106",228,"Has standard Brand Name (OMOP)",0
+"107",294,"Medicaid - Other",0
+"108",229,"Is standard Dose Form of (OMOP)",0
+"109",481,NA,0
+"110",304,"VA Outside VA facilities - Dental",0
+"111",1009,NA,0
+"112",52,"Drug/Observation",0.1
+"113",382,"DoD Dental - Stand Alone",0
+"114",258,NA,0
+"115",341,"Managed Care Health Management Organization (HMO)",0
+"116",84,NA,0
+"117",170,NA,0
+"118",192,NA,0
+"119",276,"Individual health plan",0
+"120",101,NA,0
+"121",473,NA,0
+"122",69,NA,0
+"123",379,"Military Treatment Facility - Enrolled Prime - HMO",0
+"124",320,"Federal, State, Local not specified - Preferred Provider Organization (PPO)",0
+"125",115,NA,0
+"126",375,"Department of Defense",0
+"127",97,NA,0
+"128",108,NA,0
+"129",408,"Federal, State, Local not specified - Other",0
+"130",59,NA,0
+"131",589,NA,0
+"132",689,NA,0
+"133",127,NA,0
+"134",555,NA,0
+"135",329,"Commercial Managed Care - Health Management Organization (HMO)",0
+"136",630,NA,0
+"137",44,"Measurement/Observation",0.1
+"138",11,"Procedure type",1.1
+"139",575,NA,0
+"140",401,"Specific state program (list/local code)",0
+"141",153,NA,0
+"142",279,"Large group (more than 51 employees) health plan",0
+"143",214,NA,0
+"144",9,"Visit type",1.5
+"145",543,NA,0
+"146",85,NA,0
+"147",592,NA,0
+"148",281,"Medicare Managed Care",0
+"149",95,NA,0
+"150",553,NA,0
+"151",259,"ICD-10-PCS Hierarchical Code",0
+"152",172,NA,0
+"153",302,"Veteran Care",0
+"154",409,"Corrections State",0
+"155",30,NA,0.2
+"156",288,"Dual Eligibility Medicare/Medicaid",0
+"157",21,"Measurement",0.3
+"158",3,"Race",7.3
+"159",324,"Federal Employee Health Plan",0
+"160",249,"Supplier or manufacturer of (OMOP)",0
+"161",255,"EHR Record contributory cause of death",0
+"162",635,NA,0
+"163",165,NA,0
+"164",2266,NA,0
+"165",56,"Person",0
+"166",151,NA,0
+"167",296,"DoD TRICARE, Civilian Health and Medical Program of the Uniformed Services (CHAMPUS)",0
+"168",639,NA,0
+"169",209,NA,0
+"170",74,NA,0
+"171",620,NA,0
+"172",138,NA,0
+"173",34,"Currency",0.1
+"174",245,"New Form Code (EphMRA)",0
+"175",205,NA,0
+"176",67,NA,0
+"177",407,"Federal, State, Local not specified - not specified managed care",0
+"178",90,NA,0
+"179",443,"No Payment - Other",0
+"180",387,"VA Outside VA facilities - Contract Nursing Home/Community Nursing Home",0
+"181",334,"Blue Cross Managed Care - Preferred Provider Organization (PPO)",0
+"182",144,NA,0
+"183",39,"Specimen disease status",0.1
+"184",168,NA,0
+"185",526,NA,0
+"186",287,"Medicare Non-managed Care - Other",0
+"187",312,"State Government Program",0
+"188",167,NA,0
+"189",1109,NA,0
+"190",498,NA,0
+"191",277,"Group health plan",0
+"192",290,"Medicaid Managed Care",0
+"193",300,"DoD Uniformed Services Family Health Plan (USFHP) - Health Management Organization (HMO)",0
+"194",118,NA,0
+"195",317,"Local Government Preferred Provider Organization (PPO)",0
+"196",284,"Medicare Point of Service (POS)",0
+"197",126,NA,0
+"198",194,NA,0
+"199",360,"Termination by payer",0
+"200",463,NA,0
+"201",99,NA,0
+"202",41,"Device/Procedure",0.1
+"203",206,NA,0
+"204",46,NA,0.1
+"205",224,"Prepackaged box of (OMOP)",0
+"206",53,"Condition/Drug",0.1
+"207",32,"Place of Service",0.2
+"208",336,"Blue Cross Managed Care - Dental",0
+"209",275,"Fully insured group health plan",0
+"210",247,"Marketed form of (OMOP)",0
+"211",260,"ICD-10-PCS Code",0
+"212",136,NA,0
+"213",139,NA,0
+"214",12,"Modifier",0.9
+"215",479,NA,0
+"216",293,"Medicaid Non-managed Care",0
+"217",495,NA,0
+"218",154,NA,0
+"219",234,"Drug has drug class (OMOP)",0
+"220",316,"Local Government Health Management Organization (HMO)",0
+"221",731,NA,0
+"222",256,"EHR Record underlying cause of death",0
+"223",628,NA,0
+"224",33,"Provider",0.1
+"225",264,"Silver Health Plan with 70% actuarial plan value",0
+"226",185,NA,0
+"227",380,"Military Treatment Facility - Non-enrolled Space Available",0
+"228",215,NA,0
+"229",130,NA,0
+"230",270,"Medical only plan",0
+"231",23,"Measurement value operator",0.3
+"232",435,"No Payment from an Organization/Agency/Program/Private Payer Listed",0
+"233",384,"VA Direct Care - Care provided in VA facilities",0
+"234",116,NA,0
+"235",314,"State program - not otherwise specified (other state)",0
+"236",819,NA,0
+"237",386,"VA Outside VA facilities - Foreign Fee/Foreign Medical Program (FMP)",0
+"238",431,"Blue Cross Medicare Supplemental Plan",0
+"239",364,"Medicare Hospice",0
+"240",433,"Managed Care POS",0
+"241",299,"DoD TRICARE Standard - Fee For Service (FFS)",0
+"242",169,NA,0
+"243",345,"Other Non-government",0
+"244",605,NA,0
+"245",92,NA,0
+"246",180,NA,0
+"247",437,"No Charge",0
+"248",236,"Public Database of Medications (Social-Sante)",0
+"249",626,NA,0
+"250",263,"Bronze Health Plan with 60% actuarial plan value",0
+"251",197,NA,0
+"252",135,NA,0
+"253",227,"Is standard Brand Name of (OMOP)",0
+"254",838,NA,0
+"255",478,NA,0
+"256",149,NA,0
+"257",311,"HSRA - Other",0
+"258",73,NA,0
+"259",103,NA,0
+"260",280,"Medicare",0
+"261",239,"Community Register of Medicinal Products for Human Use (European Commission)",0
+"262",121,NA,0
+"263",88,NA,0
+"264",420,"Medicare supplemental policy (as second payer)",0
+"265",188,NA,0
+"266",461,NA,0
+"267",561,NA,0
+"268",240,"Non-human drug class Disinfectant",0
+"269",328,"Private Health Insurance - Managed Care",0
+"270",1031,NA,0
+"271",196,NA,0
+"272",291,"Medicaid Health Management Organization (HMO)",0
+"273",15,"Route",0.7
+"274",210,NA,0
+"275",226,"Has standard ingredient (OMOP)",0
+"276",48,"Condition/Observation",0.1
+"277",447,"Worker's Compensation",0
+"278",298,"DoD TRICARE Extra - Preferred Provider Organization (PPO)",0
+"279",61,NA,0
+"280",81,NA,0
+"281",1043,NA,0
+"282",244,"Supplier: Manufacturer, Wholesaler",0
+"283",251,NA,0
+"284",204,"Disease Analyzer France (IMS)",0
+"285",104,NA,0
+"286",5,"Observation period type",3.7
+"287",171,NA,0
+"288",456,NA,0
+"289",796,NA,0
+"290",397,"Indian Health Service - Contract",0
+"291",427,"Dental",0
+"292",347,"Worker's Compensation Health Management Organization (HMO)",0
+"293",283,"Medicare Preferred Provider Organization (PPO)",0
+"294",546,NA,0
+"295",179,NA,0
+"296",297,"DoD TRICARE Prime - Health Management Organization (HMO)",0
+"297",321,"Federal, State, Local not specified - Point of Service (POS)",0
+"298",303,"VA Outside VA facilities - Fee Basis",0
+"299",105,NA,0
+"300",402,"Local Government Managed Care",0
+"301",537,NA,0
+"302",233,"Drug class of drug (OMOP)",0
+"303",93,NA,0
+"304",89,NA,0
+"305",252,"RxNorm Extension (OMOP)",0
+"306",343,"Hill-Burton Free and Reduced-Cost Health Care",0
+"307",31,"Relationship",0.2
+"308",467,NA,0
+"309",327,"Private Health Insurance",0
+"310",253,"New Form Code",0
+"311",581,NA,0
+"312",14,"Drug type",0.7
+"313",109,NA,0
+"314",155,NA,0
+"315",133,NA,0
+"316",416,"Managed Care, Other (non HMO)",0
+"317",195,NA,0
+"318",199,NA,0
+"319",372,"Medicaid Long Term Care",0
+"320",369,"Medicaid/State Children's Health Insurance Program (SCHIP)",0
+"321",441,"Refusal to Pay/Bad Debt",0
+"322",339,"Blue Cross Self-insured (ERISA) - Administrative Services Only (ASO)",0
+"323",243,"Anatomical Classification of Pharmaceutical Products (EphMRA)",0
+"324",1142,NA,0
+"325",335,"Blue Cross Managed Care - Point of Service (POS)",0
+"326",383,"Department of Veterans Affairs",0
+"327",230,"Has standard Dose Form (OMOP)",0
+"328",301,"DoD other",0
+"329",7,"Metadata",2.4
+"330",254,"EHR Record immediate cause of death",0
+"331",377,"DoD TRICARE Reserve Select",0
+"332",78,NA,0
+"333",159,NA,0
+"334",250,"Marketed Product",0
+"335",890,NA,0
+"336",621,NA,0
+"337",20,"Condition type",0.4
+"338",319,"Federal, State, Local not specified - Health Management Organization (HMO)",0
+"339",1,"Domain",47.4
+"340",76,NA,0
+"341",106,NA,0
+"342",178,NA,0
+"343",129,NA,0
+"344",203,"Clinical Drug Box",0
+"345",8,"Visit",1.9
+"346",455,NA,0
+"347",346,"HRSA Migrant Health Program",0
+"348",370,"Medicaid Applicant",0
+"349",71,NA,0
+"350",267,"Catastrophic Health Plan with <60% actuarial plan value",0
+"351",68,NA,0
+"352",146,NA,0
+"353",80,NA,0
+"354",396,"Indian Health Service - Regular",0
+"355",861,NA,0
+"356",162,NA,0
+"357",132,NA,0
+"358",322,"Federal, State, Local not specified - Fee for Service (FFS)",0
+"359",330,"Commercial Managed Care - Preferred Provider Organization (PPO)",0
+"360",237,"Medicinal Products Information System (DIMDI)",0
+"361",451,"Liability Insurance",0
+"362",262,"Emergency Room and Inpatient Visit",0
+"363",323,"Other Federal Program",0
+"364",337,"Blue Cross Insurance Indemnity",0
+"365",114,NA,0
+"366",60,NA,0
+"367",399,"Indian Tribe - Sponsored Coverage",0
+"368",238,"Australian Medicines Terminology (NEHTA)",0
+"369",112,NA,0
+"370",560,NA,0
+"371",289,"Medicaid",0
+"372",268,"Broad Benefit (Medical, Drug, Dental, Vision) plan",0
+"373",65,NA,0
+"374",124,NA,0
+"375",693,NA,0
+"376",98,NA,0
+"377",200,"Quantified Branded Drug Box",0
+"378",490,NA,0
+"379",235,"Condition/Device",0
+"380",601,NA,0
+"381",82,NA,0
+"382",119,NA,0
+"383",286,"Medicare Fee for Service (FFS)",0
+"384",376,"DoD TRICARE For Life - Medicare Supplement",0
+"385",147,NA,0
+"386",338,"Blue Cross Indemnity",0
+"387",202,"Branded Drug Box",0
+"388",358,"Termination by person",0
+"389",412,"Exclusive Provider Organization",0
+"390",610,NA,0
+"391",79,NA,0
+"392",26,"Note Type",0.2
+"393",72,NA,0
+"394",510,NA,0
+"395",232,"Dictionary of Medicines and Devices (NHS)",0
+"396",77,NA,0
+"397",131,NA,0
+"398",198,NA,0
+"399",17,"Device",0.5
+"400",212,NA,0
+"401",37,"Specimen type",0.1
+"402",28,"Observation type",0.2
+"403",404,"Local Government FFS/Indemnity not otherwise specified (other local, county)",0
+"404",353,"Termination of group health plan by sponsor",0
+"405",489,NA,0
+"406",574,NA,0
+"407",225,"Is standard ingredient of ingredient (OMOP)",0
+"408",706,NA,0
+"409",83,NA,0
+"410",333,"Blue Cross Managed Care - Health Management Organization (HMO)",0
+"411",63,NA,0
+"412",516,NA,0
+"413",395,"VA Other Non-Veteran Care",0
+"414",542,NA,0
+"415",174,NA,0
+"416",216,NA,0
+"417",45,"Device/Observation",0.1
+"418",295,"Other Government Federal/State/Local, excluding Department of Corrections",0
+"419",213,NA,0
+"420",134,NA,0
+"421",274,"Self-insured group health plan",0
+"422",163,NA,0
+"423",223,"Is available in a prepackaged box (OMOP)",0
+"424",36,"Specimen",0.1
+"425",362,"Medicare Managed Care Other",0
+"426",221,"Has brand name (OMOP)",0
+"427",430,"Blue Cross Managed Care - Other",0
+"428",102,NA,0
+"429",158,NA,0
+"430",594,NA,0
+"431",460,NA,0
+"432",499,NA,0
+"433",265,"Gold Health Plan with 80% actuarial plan value",0
+"434",111,NA,0
+"435",16,"Unit",0.6
+"436",207,NA,0
+"437",62,NA,0
+"438",123,NA,0
+"439",326,"Corrections Federal",0
+"440",365,"Medicare Other",0
+"441",157,NA,0
+"442",308,"Medicare Drug Benefit",0
+"443",183,NA,0
+"444",100,NA,0
+"445",313,"State Children's Health Insurance Program (SCHIP) - individual state code",0
+"446",150,NA,0
+"447",656,NA,0
+"448",140,NA,0
+"449",248,"Has supplier or manufacturer (OMOP)",0
+"450",137,NA,0
+"451",208,NA,0
+"452",392,"VA Civilian Health and Medical Program for the VA (CHAMPVA)",0
+"453",24,"Measurement value",0.2
+"454",191,NA,0
+"455",25,NA,0.2
+"456",141,NA,0
+"457",122,NA,0
+"458",94,NA,0
+"459",218,NA,0
+"460",434,"Other Managed Care",0
+"461",49,"Condition/Procedure",0.1
+"462",211,NA,0
+"463",1420,NA,0
+"464",580,NA,0
+"465",64,NA,0
+"466",55,"Provider",0
+"467",148,NA,0
